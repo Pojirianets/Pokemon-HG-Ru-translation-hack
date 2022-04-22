@@ -1,0 +1,1 @@
+# Pokemon-HG-Ru-translation-hack
