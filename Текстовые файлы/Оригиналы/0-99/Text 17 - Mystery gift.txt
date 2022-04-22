@@ -1,8 +1,0 @@
-A Recruitment Message arrived\nfrom a Pokémon Ranger.\n\nYou may receive a \vFF00\x0001\x0001MANAPHY Egg\vFF00\x0001\x0000\nfrom the Pokémon Ranger!\n\nOn the next screen, select\n\vFF00\x0001\x0001CONNECT TO POKéMON RANGER\vFF00\x0001\x0000.\nTouch the screen to advance.
-A Mystery Gift signal has\nbeen located!\n\nYou may receive a Mystery Gift!\n\nAt the next screen, select\n\vFF00\x0001\x0001Mystery Gift\vFF00\x0001\x0000.\nTouch the screen to advance.
-A Recruitment Message arrived\nfrom a Pokémon Ranger.\n\nHowever, to communicate with the\nPokémon Ranger, you must get\nfurther into your adventure and\nobtain a Pokédex first.\nTouch the screen to advance.
-A Mystery Gift signal has\nbeen located.\n\nHowever, to receive a Mystery\nGift, you must get further into\nyour adventure and obtain a\nPokédex first.\nTouch the screen to advance.
-        
- \vFF00\x0001\x0001WARNING!\vFF00\x0001\x0000 There’s already a saved\n game file. If you start an adventure now, \n you won’t be able to save it.
-Begin adventure
-Return to the menu

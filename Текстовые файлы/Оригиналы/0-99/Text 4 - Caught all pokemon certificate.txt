@@ -1,6 +1,0 @@
-PLAYER: \v0103ぁ\x0000\x0000
-This document certifies that\nyou have made the great\nachievement of catching all\nthe Pokémon in Johto.
-This document certifies\nthat you have successfully\ncompleted your\nNational Pokédex.
-GAME FREAK
-\v0205\x0000\v0103ぁ\x0000\x0000 and \v0101ぁ\x0001\x0000
-\v0205\x0000Fighting together, walking\n\v0205\x0000together. Forging a bond that\n\v0205\x0000cannot be broken and will go\n\v0205\x0000on continually into eternity.\n\v0205\x0000This bond is illuminated here.
