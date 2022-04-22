@@ -1,0 +1,35 @@
+           
+               
+Wi-Fi Battle Room Results
+                             
+                            
+\vFF00\x0001\x0001Current\vFF00\x0001あ \vFF00\x0001\x0000\n\vFF00\x0001\x0001Rank\vFF00\x0001\x0000
+                            
+                             
+\vFF00\x0001\x0001Wi-Fi\vFF00\x0001\x0000\n\vFF00\x0001\x0001Record\vFF00\x0001\x0000
+\vFF00\x0001\x0001PREV\vFF00\x0001\x0000
+\vFF00\x0001\x0001CURRENT\vFF00\x0001\x0000
+\vFF00\x0001\x0001RECORD\vFF00\x0001\x0000
+\vFF00\x0001\x0001RANK\vFF00\x0001\x0000
+                  
+\v0133ぁ\x0000\x0000
+Win streak: \v0135ぁ\x0000\x0000
+     
+Rank \v0133ぁ\x0000\x0000
+Battle Room \v0134ぁ\x0001\x0000
+LIST OF LEADERS
+\v0132ぁ\x0000\x0000
+/
+\vFF00\x0001あ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000’s Info
+\vFF00\x0001\x0001\v0103ぁ\x0000\x0000\vFF00\x0001\x0000’s Info
+CANCEL
+           
+     
+              
+Home Country
+\v0124ぁ\x0000\x0000
+\v0125ぁ\x0000\x0000
+Unregistered
+Feeling of being number one
+Heart
+Soul

@@ -1,0 +1,9 @@
+Caught \v0100ぁ\x0000\x0000!
+Swap the \v0100ぁ\x0000\x0000 for your\n\v0100ぁ\x0001\x0000?
+Released \v0100ぁ\x0001\x0000 and caught\n\v0100ぁ\x0000\x0000!
+Released \v0100ぁ\x0000\x0000 and kept\n\v0100ぁ\x0001\x0000!
+\v0100ぁ\x0000\x0000
+♂
+♀
+
+     

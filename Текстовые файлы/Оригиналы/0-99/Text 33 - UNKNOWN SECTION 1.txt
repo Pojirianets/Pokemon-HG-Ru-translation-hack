@@ -1,0 +1,96 @@
+\v0103ぁ\x0000\x0000
+\v0103ぁ\x0000\x0000
+\v0135ぁ\x0000\x0000 CP
+\v0135ぁ\x0000\x0000 CP
+Which Pokémon would you like\nto check?
+\v0205\x0000EXIT
+              
+\v0103ぁ\x0000\x0000 chose to exit.
+CHECK
+LEVEL
+SUMMARY
+CANCEL
+Check the identity of a Pokémon.
+Change the level of a Pokémon.
+Examine the stats of a Pokémon.
+Return to previous selections.
+Would you like to identify this Pokémon?\nIt will cost \v0133ぁ\x0000\x0000 CP.
+  
+   
+          
+The Pokémon’s identity is\n\v0100ぁ\x0000\x0000.
+You may change this Pokémon’s level.\nWhat would you like to do?
+LEVEL +5
+LEVEL -5
+CANCEL
+It will cost \v0133ぁ\x0000\x0000 CP.\nIs that OK?
+  
+   
+You don’t have enough CP...
+This Pokémon’s level can’t be\nraised higher.
+This Pokémon’s level can’t be lowered\nany more.
+The Pokémon’s level was\nboosted by five.
+The Pokémon’s level was\nlowered by five.
+SUMMARY
+MOVES
+RANK UP
+CANCEL
+Check the stats of the Pokémon.
+Check the move list of the Pokémon.
+You will be able to check moves using CP\nby going up in rank.
+Your rank cannot be raised any higher.
+Return to previous selections.
+You are too low in information rank to\ncheck the target’s move list.
+You may check this Pokémon’s stats.\nIt will cost \v0133ぁ\x0000\x0000 CP. Is that OK?
+  
+   
+You don’t have enough CP...
+The Pokémon’s stat summary\nwas bought.
+Item
+\v0108ぁ\x0000\x0000
+Nature
+\v0107ぁ\x0000\x0000
+Ability
+\v0105ぁ\x0000\x0000
+Attack
+\v0134ぁ\x0000\x0000
+Defense
+\v0134ぁ\x0000\x0000
+Sp. Atk
+\v0134ぁ\x0000\x0000
+Sp. Def
+\v0134ぁ\x0000\x0000
+Speed
+\v0134ぁ\x0000\x0000
+♂
+♀
+Lv.
+HP
+/
+\v0101ぁ\x0000\x0000
+     
+     
+\v0134ぁ\x0000\x0000
+?
+??
+?????
+You will be able to check\nyour opponent’s moves\nusing CP by going up in\ninformation rank.
+??/??
+\v0134ぁ\x0000\x0000/\v0134ぁ\x0001\x0000
+You may check this Pokémon’s move list.\nIt will cost \v0133ぁ\x0000\x0000 CP. Is that OK?
+  
+   
+You don’t have enough CP...
+The Pokémon’s move-list data was\nbought.
+\v0106ぁ\x0000\x0000
+\v0106ぁ\x0001\x0000
+\v0106ぁぁ\x0000
+\v0106ぁあ\x0000
+\vFF00\x0001ぁ\v0133ぁぃ\x0000\vFF00\x0001\x0000/\vFF00\x0001ぁ\v0133ぁい\x0000\vFF00\x0001\x0000
+\v0133ぁ\x0000\x0000
+--
+Would you like to up your rank for\n\v0134ぁ\x0000\x0000 CP?
+  
+   
+          
+\v0103ぁい\x0000 gained the ability to buy\nthe target’s move-list information.
