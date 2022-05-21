@@ -1,3 +1,9 @@
-HP - ОЗ - Очки Здоровья
-PP - ОС - Очки Силы
-S.S. Aqua - Б.К.Аква - Быстроходный Корабль Аква
+HP - Health Points - ОЗ - Очки Здоровья
+PP - Power Points - ОС - Очки Силы
+
+S.S. Aqua - Speed Ship Aqua - Б.К.Аква - Быстроходный Корабль Аква
+
+TM - Techincal Machine - ТМ - Технический Механизм
+HM - Hidden Machine - НМ - Неявный Механизм
+
+GS Cup - Gold Silver Cup - ЗС Турнир - Золото-Серебрянный Турнир

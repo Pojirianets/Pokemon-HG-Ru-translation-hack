@@ -1,0 +1,11 @@
+SUMMARY - СВОДКА
+CONFIRM - ПРИНЯТЬ
+CANCEL - ОТМЕНА
+SWITCH - СМЕНА
+
+ТМ и НМ + атаки
+---
+POWER - СИЛА
+ACCURACY - ТОЧНОСТЬ
+CATEGORY - КЛАСС
+---
