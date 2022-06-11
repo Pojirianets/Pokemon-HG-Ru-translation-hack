@@ -269,7 +269,7 @@
 \vFF00\x0001◎Poår Marsfqa\vFF00\x0001\x0000
 \vFF00\x0001◎Bflaå Dlina\vFF00\x0001\x0000
 \vFF00\x0001◎Rufqa Gihni\vFF00\x0001\x0000
-\vFF00\x0001◎Rufqa Mozi\vFF00\x0001\x0000
+\vFF00\x0001◎Sqaca Mozi\vFF00\x0001\x0000
 \vFF00\x0001◎Rufqa Sokrina\vFF00\x0001\x0000
 \vFF00\x0001◎Rufqa Plamfni\vFF00\x0001\x0000
 \vFF00\x0001◎Bársq. Poqoyok\vFF00\x0001\x0000
