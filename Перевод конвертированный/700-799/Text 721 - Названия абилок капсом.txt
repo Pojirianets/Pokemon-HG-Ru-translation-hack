@@ -1,124 +1,124 @@
  -
-PAVTXFRSÂ
-MOQORÂ
-TRKOQFNIF
-BOFCAÅ BQONÅ
-KQFPKORSÂ
-RÁQORSÂ
-DIBKORSÂ
-HACFRA PFRKA
-RSASIKA
-POEHAQÅEKA
-CPISÁCANIF
-HABÁCXICORSÂ
-ÅRNOF NFBO
-RLOGNODLAH
-BFRRONNIWA
-RMFNA WCFSA
-IMMTNISFS
-RIÅÄZIJODONÂ
-ZIS PÁLI
-RCOJ SFMP
-PQIRORKI
-HAPTDICANIF
-MFSKA SFNFJ
-DQTBAÅ KOGA
-XTEO-HAZISA
-LFCISAWIÅ
-ÃUUFKS RPOQ
-RINVQONNORSÂ
-XIRSOF SFLO
-XTEO PQIQOEÁ
-DQOMOOSCOE
-DQAWIOHNORSÂ
-RKOQÁJPLOCFW
-VLOQOUILL
-RCFXFNIF
-OSRLFGICANIF
-MFDA MOZÂ
-KARANIF ÅEA
-UOKTRIQOCKA
-BQONÅ MADMÁ
-HACFRA COEÁ
-MADNFSIHM
-BFHHCTXNORSÂ
-EOGEFRBOQNIK
-POSOK PFRKA
-EACLFNIF
-SOLRSÁJ GIQ
-QANNÅÅPSAYKA
-SFLO PLAMFNI
-IHBFDANIF
-ORSQÁJ DLAH
-DIPFQ QFHAK
-POEBOQ
-LFNNORSÂ
-RPFYKA
-OXAQOCANIF
-PLÄR
-MINTR
-PQODNOH
-LIPKAÅVCASKA
-LINÂKA
-MTGFRSCO
-XTEO-XFYTJKA
-GIEKAÅ RLIHÂ
-BTQNÁJ QORS
-HAGIDANIF
-POSOK
-QOJ
-DOLOCA KAMNÅ
-HARTVA
-LOCTYKAAQFNÁ
-GIHNFNNÁJETV
-BFLÁJ EÁM
-XIRSAÅ MOZÂ
-BQONFPANWIQÂ
-KONSQOLÂNFBA
-PTSANÁF NODI
-MOSOQ-PQICOE
-KONKTQFWIÅ
-RSOJKORSÂ
-POKQOC RNFDA
-OBGOQRSCO
-SOXKAKIPFNIÅ
-RBQORBQFMFNI
-ODNFHAZISA
-PQORSOSA
-RTVAÅ KOGA
-HAKAXKA
-KTLAK-GFLFHO
-PQOSICOÅEIF
-AEAPSICNORSÂ
-RCÅHÂ-NACÁK
-TCLAGNFNIF
-MOZÂ ROLNWA
-BÁRSQÁJ YAD
-NOQMALIHAWIÅ
-RNAJPFQ
-MADHAZISA
-BFH HAZISÁ
-NFRPFYNORSÂ
-SFVNIK
-HAZISA LIRSA
-NFTKLÄGIJ
-RLOM YABLONA
-RTPFQ TEAXA
-PORLFERSCIÅ
-PQFECKTYFNIF
-TDAEÁCANIF
-NFHNANIF
-SFMNÁF LINHÁ
-UILÂSQ
-NIHKIJ RSAQS
-OBQÁCOXNORSÂ
-COQONKA
-LFEÅNOF SFLO
-SCFQEOKAMFNÂ
-RNFDOPAE
-RBOQZIK MFEA
-OBÁRK
-OSXAÅNNORSÂ
-MTLÂSISIP
-WCFSOXNÁJEAQ
-PLOVIF RNÁ
+ПАХУЧЕСТЬ
+МОРОСЬ
+УСКОРЕНИЕ
+БОЕВАЯ БРОНЯ
+КРЕПКОСТЬ
+СЫРОСТЬ
+ГИБКОСТЬ
+ЗАВЕСА ПЕСКА
+СТАТИКА
+ПОДЗАРЯДКА
+ВПИТЫВАНИЕ
+ЗАБЫВЧИВОСТЬ
+ЯСНОЕ НЕБО
+СЛОЖНОГЛАЗ
+БЕССОННИЦА
+СМЕНА ЦВЕТА
+ИММУНИТЕТ
+СИЯЮЩИЙОГОНЬ
+ЩИТ ПЫЛИ
+СВОЙ ТЕМП
+ПРИСОСКИ
+ЗАПУГИВАНИЕ
+МЕТКА ТЕНЕЙ
+ГРУБАЯ КОЖА
+ЧУДО-ЗАЩИТА
+ЛЕВИТАЦИЯ
+ЭФФЕКТ СПОР
+СИНХРОННОСТЬ
+ЧИСТОЕ ТЕЛО
+ЧУДО ПРИРОДЫ
+ГРОМООТВОД
+ГРАЦИОЗНОСТЬ
+СКОРЫЙПЛОВЕЦ
+ХЛОРОФИЛЛ
+СВЕЧЕНИЕ
+ОТСЛЕЖИВАНИЕ
+МЕГА МОЩЬ
+КАСАНИЕ ЯДА
+ФОКУСИРОВКА
+БРОНЯ МАГМЫ
+ЗАВЕСА ВОДЫ
+МАГНЕТИЗМ
+БЕЗЗВУЧНОСТЬ
+ДОЖДЕСБОРНИК
+ПОТОК ПЕСКА
+ДАВЛЕНИЕ
+ТОЛСТЫЙ ЖИР
+РАННЯЯПТАШКА
+ТЕЛО ПЛАМЕНИ
+ИЗБЕГАНИЕ
+ОСТРЫЙ ГЛАЗ
+ГИПЕР РЕЗАК
+ПОДБОР
+ЛЕННОСТЬ
+СПЕШКА
+ОЧАРОВАНИЕ
+ПЛЮС
+МИНУС
+ПРОГНОЗ
+ЛИПКАЯХВАТКА
+ЛИНЬКА
+МУЖЕСТВО
+ЧУДО-ЧЕШУЙКА
+ЖИДКАЯ СЛИЗЬ
+БУРНЫЙ РОСТ
+ЗАЖИГАНИЕ
+ПОТОК
+РОЙ
+ГОЛОВА КАМНЯ
+ЗАСУХА
+ЛОВУШКААРЕНЫ
+ЖИЗНЕННЫЙДУХ
+БЕЛЫЙ ДЫМ
+ЧИСТАЯ МОЩЬ
+БРОНЕПАНЦИРЬ
+КОНТРОЛЬНЕБА
+ПУТАНЫЕ НОГИ
+МОТОР-ПРИВОД
+КОНКУРЕЦИЯ
+СТОЙКОСТЬ
+ПОКРОВ СНЕГА
+ОБЖОРСТВО
+ТОЧКАКИПЕНИЯ
+СБРОСБРЕМЕНИ
+ОГНЕЗАЩИТА
+ПРОСТОТА
+СУХАЯ КОЖА
+ЗАКАЧКА
+КУЛАК-ЖЕЛЕЗО
+ПРОТИВОЯДИЕ
+АДАПТИВНОСТЬ
+СВЯЗЬ-НАВЫК
+УВЛАЖНЕНИЕ
+МОЩЬ СОЛНЦА
+БЫСТРЫЙ ШАГ
+НОРМАЛИЗАЦИЯ
+СНАЙПЕР
+МАГЗАЩИТА
+БЕЗ ЗАЩИТЫ
+НЕСПЕШНОСТЬ
+ТЕХНИК
+ЗАЩИТА ЛИСТА
+НЕУКЛЮЖИЙ
+СЛОМ ШАБЛОНА
+СУПЕР УДАЧА
+ПОСЛЕДСТВИЯ
+ПРЕДВКУШЕНИЕ
+УГАДЫВАНИЕ
+НЕЗНАНИЕ
+ТЕМНЫЕ ЛИНЗЫ
+ФИЛЬТР
+НИЗКИЙ СТАРТ
+ОБРЫВОЧНОСТЬ
+ВОРОНКА
+ЛЕДЯНОЕ ТЕЛО
+ТВЕРДОКАМЕНЬ
+СНЕГОПАД
+СБОРЩИК МЕДА
+ОБЫСК
+ОТЧАЯННОСТЬ
+МУЛЬТИТИП
+ЦВЕТОЧНЫЙДАР
+ПЛОХИЕ СНЫ
