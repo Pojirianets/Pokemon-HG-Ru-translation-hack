@@ -1,38 +1,38 @@
-Odo, scoj Pokfdiq posqåraäzij!
-Porsoj, \v0103ぁ\x0000\x0000!
-Porsoj, \v0103ぁ\x0000\x0000!
-Ktea ãso sá iefyâ?\r
-Oparno iesi bfh Pokfmona!\rEikif Pokfmoná napaeaäs ih sqacá na\nptsi c rlfetäzij doqoe.
-O! Scoj Pokfmon pqorso pqflfrsnáj!\nCos bá i mnf sakodo!
-Pqicfs, \v0103ぁ\x0000\x0000!\nRnoca tvoeiyâ?\rSfbf rsois rkahasâ mamf,\nfrli tjefyâ.
-Pqicfs, \v0103ぁ\x0000\x0000!\nRnoca tvoeiyâ?\rSfbf rsois rkahasâ mamf,\nfrli tjefyâ.
-Pohconi rcofj mamf po Pokfdiqt i\neaj fj hnasâ, kak sá pogicafyâ.
-Mnf nqacisrå scoå Rtmka!
-Podoei!\r
-Kagfsrå, t sfbå eoma orsalrå Pokfdiq?\rRpqori rcoä mamt.
-Jo, \v0103ぁ\x0000\x0000!\rDocoqås, Pqoufrroq Ãlm obnaqtgil\nnocáv Pokfmonoc.
-...\rSak ãso hnamfnisaå laboqasoqiå\nPqoufrroqa Ãlma...\r
-...Na xso sá rmosqiyâ?\r
-Liqa: \v0103ぁ\x0000\x0000!\rSak scoj cáboq...\n\v0100ぁ\x0001\x0000!\rKakoj miláj t sfbå Pokfmon!\rKodea sá r nim dtlåfyâ, on\nrsanocisrå eqtgfläbnff.\rSfbf ntgno sakgf inodea r nim\nobzasârå.\rO, soxno! Poxfmt bá sfbf\nnf pokahasâ fdo scofj mamf?\fTcieimrå!\r
-Isan: \v0103ぁ\x0000\x0000!\rSak scoj cáboq...\n\v0100ぁ\x0001\x0000!\rKakoj miláj t sfbå Pokfmon!\rKodea sá r nim dtlåfyâ, on\nrsanocisrå eqtgfläbnff.\rSfbf ntgno sakgf inodea r nim\nobzasârå.\rO, soxno! Poxfmt bá sfbf\nnf pokahasâ fdo scofj mamf?\fTcieimrå!\r
-Pqoufrroq Ãlm: Poeogei mintskt!\r
-Å xtsâ bálo ob ãsom nf habál...\nCos sfbf moj nomfq.\r
-\v0103ぁ\x0000\x0000 hapirácafs nomfq\nPqoufrroqa Ãlma c Pokfdiq!
-Pqoufrroq Ãlm: Å pohconä, frli\nxso-nibteâ btefs ntgno.\r
-\v0101ぁ\x0000\x0000! Sá ktea?\r
-Sfbå gefs Pqoufrroq Ãlm. Docoqis,\fxso t nfdo elå sfbå xso-so frsâ.\r
-Sá nf rláyiyâ kak å docoqä, xso\nPqoufrroq Ãlm sfbå gefs?\r
-Å qarrsqaicaärâ!\r
-Liqa: Insfqfrno, xso Efctykam c\nKimono os sfbå ntgno...
-Isan: Insfqfrno, xso Efctykam c\nKimono os sfbå ntgno...
-Liqa: Pqicfs, \v0103ぁ\x0000\x0000!\r
-Isan: Pqicfs, \v0103ぁ\x0000\x0000!\r
-Ktea ãso sá iefyâ,\n\v0103ぁ\x0000\x0000?\r
-Ktea ãso sá iefyâ,\n\v0103ぁ\x0000\x0000?\r
-Liqa: Vmm... Moj Pokfmon c porlfenff\ncqfmå pqibacil c cfrf...
-Isan: Vmm... Moj Pokfmon c porlfenff\ncqfmå pqibacil c cfrf...
-MÃQILL: Mtqut.\r
-Nâä Baqk Satn\nCfsqa Nocáv Naxinanij
-Eom \v0103ぁ\x0000\x0000
-Laboqasoqiå Ãlma
-Eom \v0103ぁ\x0000\x0000
+Ого, твой Покегир потрясающий!
+Постой, \v0103ぁ\x0000\x0000!
+Постой, \v0103ぁ\x0000\x0000!
+Куда это ты идешь?\r
+Опасно идти без Покемона!\rДикие Покемоны нападают из травы на\nпути в следующий город.
+О! Твой Покемон просто прелестный!\nВот бы и мне такого!
+Привет, \v0103ぁ\x0000\x0000!\nСнова уходишь?\rТебе стоит сказать маме,\nесли уйдешь.
+Привет, \v0103ぁ\x0000\x0000!\nСнова уходишь?\rТебе стоит сказать маме,\nесли уйдешь.
+Позвони своей маме по Покегиру и\nдай ей знать, как ты поживаешь.
+Мне нравится твоя Сумка!
+Погоди!\r
+Кажется, у тебя дома остался Покегир?\rСпроси свою маму.
+Йо, \v0103ぁ\x0000\x0000!\rГоворят, Профессор Элм обнаружил\nновых Покемонов.
+...\rТак это знаменитая лаборатория\nПрофессора Элма...\r
+...На что ты смотришь?\r
+Лира: \v0103ぁ\x0000\x0000!\rТак твой выбор...\n\v0100ぁ\x0001\x0000!\rКакой милый у тебя Покемон!\rКогда ты с ним гуляешь, он\nстановится дружелюбнее.\rТебе нужно также иногда с ним\nобщаться.\rО, точно! Почему бы тебе\nне показать его твоей маме?\fУвидимся!\r
+Итан: \v0103ぁ\x0000\x0000!\rТак твой выбор...\n\v0100ぁ\x0001\x0000!\rКакой милый у тебя Покемон!\rКогда ты с ним гуляешь, он\nстановится дружелюбнее.\rТебе нужно также иногда с ним\nобщаться.\rО, точно! Почему бы тебе\nне показать его твоей маме?\fУвидимся!\r
+Профессор Элм: Подожди минутку!\r
+Я чуть было об этом не забыл...\nВот тебе мой номер.\r
+\v0103ぁ\x0000\x0000 записывает номер\nПрофессора Элма в Покегир!
+Профессор Элм: Я позвоню, если\nчто-нибудь будет нужно.\r
+\v0101ぁ\x0000\x0000! Ты куда?\r
+Тебя ждет Профессор Элм. Говорит,\fчто у него для тебя что-то есть.\r
+Ты не слышишь как я говорю, что\nПрофессор Элм тебя ждет?\r
+Я расстраиваюсь!\r
+Лира: Интересно, что Девушкам в\nКимоно от тебя нужно...
+Итан: Интересно, что Девушкам в\nКимоно от тебя нужно...
+Лира: Привет, \v0103ぁ\x0000\x0000!\r
+Итан: Привет, \v0103ぁ\x0000\x0000!\r
+Куда это ты идешь,\n\v0103ぁ\x0000\x0000?\r
+Куда это ты идешь,\n\v0103ぁ\x0000\x0000?\r
+Лира: Хмм... Мой Покемон в последнее\nвремя прибавил в весе...
+Итан: Хмм... Мой Покемон в последнее\nвремя прибавил в весе...
+МЭРИЛЛ: Мурфу.\r
+Нью Барк Таун\nВетра Новых Начинаний
+Дом \v0103ぁ\x0000\x0000
+Лаборатория Элма
+Дом \v0103ぁ\x0000\x0000

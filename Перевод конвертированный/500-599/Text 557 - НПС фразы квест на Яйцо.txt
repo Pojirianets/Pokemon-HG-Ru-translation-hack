@@ -1,11 +1,11 @@
-Kodea sá lociyâ Pokfmona, on mogfs\nbásâ rlabám.\rNo ro cqfmfnfm on rsanfs rilânff.\rCagno osnorisârå k Pokfmonam\nr läbocâä.
-Pokfmon mogfs efqgasâ pqfemfsá cqoef\nHflâå ili Ansieosa.\rNo, povogf, oni nf hnaäs kak\nirpolâhocasâ pqfemfsá,\froheannáf xflocfkom.
-Eacno nf cieflirâ, \v0103ぁ\x0000\x0000.\nÅ sfbå geal.\fÃso os Pqoufrroqa Ãlma.\rEflo c som, xso...\nsfbf ntgno pohabosisârå\fob ãsom åjwf! \v0200\x0001\x0000
-Eacno nf cieflirâ, \v0103ぁ\x0000\x0000.\nÅ sfbå geal.\fÃso os Pqoufrroqa Ãlma.\rEflo c som, xso...\nsfbf ntgno pohabosisârå\fob ãsom åjwf! \v0200\x0001\x0000
-\v0103ぁ\x0000\x0000 poltxafs Åjwo os pomoznika!
-Rqaht porlf scofdo tvoea, Pqoufrroqt\nÃlmt kso-so pohconil.\fNf hnaä o xfm oni qahdocaqicali.\rOenako, rptrså kakof-so cqfmå,\nPqoufrroq Ãlm hakqixal:\f“Nf modt rfbf pqfersacisâ bolff\fpoevoeåzfdo kaneieasa, xfm \v0103ぁ\x0000\x0000!”\rPorlf ãsodo, on narsoål na som,\nxsobá å pfqfeal ãso Åjwo sfbf.\rPovogf, xso Pokfmon cáltpisrå,\nsolâko frli sá btefyâ efqgasâ fdo\fc rcofj dqtppf Pokfmonoc.\rÃso fzf oena pqixina, po kosoqoj\nmá cábqali sfbå, \v0103ぁ\x0000\x0000.\rPogaltjrsa, bfqfdi fdo!\r
-Rqaht porlf scofdo tvoea, Pqoufrroqt\nÃlmt kso-so pohconil.\fNf hnaä o xfm oni qahdocaqicali.\rOenako, rptrså kakof-so cqfmå,\nPqoufrroq Ãlm hakqixal:\f“Nf modt rfbf pqfersacisâ bolff\fpoevoeåzfdo kaneieasa, xfm \v0103ぁ\x0000\x0000!”\rPorlf ãsodo, on narsoål na som,\nxsobá å pfqfeal ãso Åjwo sfbf.\rPovogf, xso Pokfmon cáltpisrå,\nsolâko frli sá btefyâ efqgasâ fdo\fc rcofj dqtppf Pokfmonoc.\rÃso fzf oena pqixina, po kosoqoj\nmá cábqali sfbå, \v0103ぁ\x0000\x0000.\rPogaltjrsa, bfqfdi fdo!\r
-Scoå dqtppa polnaå.\nSá poka nf mogfyâ chåsâ Åjwo.\fÅ poeoget sfbå hefrâ.
-Xso?\nNf ogieal, xso sá rkagfyâ nfs!\fÃso cfeâ ytska, ea?\rPqoufrroq Ãlm oxfnâ voxfs eocfqisâ\nsfbf ãso Åjwo...\n\n
-\v0103ぁ\x0000\x0000,\nsá bfqfyâ ãso Åjwo? \v0200\x0001\x0000
-\v0103ぁ\x0000\x0000,\nsá bfqfyâ ãso Åjwo? \v0200\x0001\x0000
+Когда ты ловишь Покемона, он может\nбыть слабым.\rНо со временем он станет сильнее.\rВажно относиться к Покемонам\nс любовью.
+Покемон может держать предметы вроде\nЗелья или Антидота.\rНо, похоже, они не знают как\nиспользовать предметы,\fсозданные человеком.
+Давно не виделись, \v0103ぁ\x0000\x0000.\nЯ тебя ждал.\fЭто от Профессора Элма.\rДело в том, что...\nтебе нужно позаботиться\fоб этом яйце! \v0200\x0001\x0000
+Давно не виделись, \v0103ぁ\x0000\x0000.\nЯ тебя ждал.\fЭто от Профессора Элма.\rДело в том, что...\nтебе нужно позаботиться\fоб этом яйце! \v0200\x0001\x0000
+\v0103ぁ\x0000\x0000 получает Яйцо от помощника!
+Сразу после твоего ухода, Профессору\nЭлму кто-то позвонил.\fНе знаю о чем они разговаривали.\rОднако, спустя какое-то время,\nПрофессор Элм закричал:\f“Не могу себе представить более\fподходящего кандидата, чем \v0103ぁ\x0000\x0000!”\rПосле этого, он настоял на том,\nчтобы я передал это Яйцо тебе.\rПохоже, что Покемон вылупится,\nтолько если ты будешь держать его\fв своей группе Покемонов.\rЭто еще одна причина, по которой\nмы выбрали тебя, \v0103ぁ\x0000\x0000.\rПожалуйста, береги его!\r
+Сразу после твоего ухода, Профессору\nЭлму кто-то позвонил.\fНе знаю о чем они разговаривали.\rОднако, спустя какое-то время,\nПрофессор Элм закричал:\f“Не могу себе представить более\fподходящего кандидата, чем \v0103ぁ\x0000\x0000!”\rПосле этого, он настоял на том,\nчтобы я передал это Яйцо тебе.\rПохоже, что Покемон вылупится,\nтолько если ты будешь держать его\fв своей группе Покемонов.\rЭто еще одна причина, по которой\nмы выбрали тебя, \v0103ぁ\x0000\x0000.\rПожалуйста, береги его!\r
+Твоя группа полная.\nТы пока не можешь взять Яйцо.\fЯ подожду тебя здесь.
+Что?\nНе ожидал, что ты скажешь нет!\fЭто ведь шутка, да?\rПрофессор Элм очень хочет доверить\nтебе это Яйцо...\n\n
+\v0103ぁ\x0000\x0000,\nты берешь это Яйцо? \v0200\x0001\x0000
+\v0103ぁ\x0000\x0000,\nты берешь это Яйцо? \v0200\x0001\x0000

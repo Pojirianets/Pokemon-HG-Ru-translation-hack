@@ -1,9 +1,9 @@
-Pqicfs, \v0103ぁ\x0000\x0000!\nLiqa nacfqvt.\rOna kak obáxno idqafs r Pokfmonom.\rA def... scoj... Pokfmon?\n...Ov, rsoilo eodaeasârå.\rT sfbå poka nfs rcofdo Pokfmona.\rNt, naefärâ sá nf obieilrå,\n\v0103ぁ\x0000\x0000.
-Pqicfs, \v0103ぁ\x0000\x0000!\nIsan nacfqvt.\rOn kak obáxno idqafs r Pokfmonom.\rA def... scoj... Pokfmon?\n...Ov, rsoilo eodaeasârå.\rT sfbå poka nfs rcofdo Pokfmona.\rNt, naefärâ sá nf obieflarâ,\n\v0103ぁ\x0000\x0000.
-Pqicfs, \v0103ぁ\x0000\x0000!\nLiqá hefrâ nfs.\rOna hanåsa pomozâä pqoufrroqt.\nOna ktea bolff efåsflânaå, xfm å!
-Pqicfs, \v0103ぁ\x0000\x0000!\nIsana hefrâ nfs.\rOn hanås pomozâä pqoufrroqt.\nOn ktea bolff efåsflânáj, xfm å!
-Pqicfs, \v0103ぁ\x0000\x0000!\nLiqa nacfqvt.\rOna kak obáxno idqafs r Pokfmonom.
-Pqicfs, \v0103ぁ\x0000\x0000!\nIsan nacfqvt.\rOn kak obáxno cfrflisrå r Pokfmonom.
+Привет, \v0103ぁ\x0000\x0000!\nЛира наверху.\rОна как обычно играет с Покемоном.\rА где... твой... Покемон?\n...Ох, стоило догадаться.\rУ тебя пока нет своего Покемона.\rНу, надеюсь ты не обидился,\n\v0103ぁ\x0000\x0000.
+Привет, \v0103ぁ\x0000\x0000!\nИтан наверху.\rОн как обычно играет с Покемоном.\rА где... твой... Покемон?\n...Ох, стоило догадаться.\rУ тебя пока нет своего Покемона.\rНу, надеюсь ты не обиделась,\n\v0103ぁ\x0000\x0000.
+Привет, \v0103ぁ\x0000\x0000!\nЛиры здесь нет.\rОна занята помощью профессору.\nОна куда более деятельная, чем я!
+Привет, \v0103ぁ\x0000\x0000!\nИтана здесь нет.\rОн занят помощью профессору.\nОн куда более деятельный, чем я!
+Привет, \v0103ぁ\x0000\x0000!\nЛира наверху.\rОна как обычно играет с Покемоном.
+Привет, \v0103ぁ\x0000\x0000!\nИтан наверху.\rОн как обычно веселится с Покемоном.
                                                                                                                                                                                                                                                                       
                                                                                                                                                                                                                                                                         
                                                                                                            
