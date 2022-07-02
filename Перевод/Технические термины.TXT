@@ -9,3 +9,4 @@ POWER - СИЛА
 ACCURACY - ТОЧНОСТЬ
 CATEGORY - КЛАСС
 ---
+Record mixing - Обмен записями
