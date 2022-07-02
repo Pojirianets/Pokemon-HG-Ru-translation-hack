@@ -1,13 +1,13 @@
-Egoi
-Ãj, a mogno scoj nomfq?\nÅ pohconä, frli havoxt rqahisârå. \v0200\x0001\x0000
-Å pohconä sfbf, kodea\nrnoca btet dosoc!
-Ov, voqoyo...\nNo rnoca å sfbf nf pqoidqaä!
-Mogno scoj nomfq?\rÅ nf voxt sfbf pqoidqasâ!\nMá rqahimrå fzf qah, laeno? \v0200\x0001\x0000
-I fzf oeno poqagfnif...\nBfh romnfnij - t sfbå frsâ rila.\rSo, xso mfnå sak xarso pobfgeaäs,\nmnf sfpfqâ na ramom eflf\feagf nqacisrå!\rCos, cohâmi ãso.\nIrpolâhtj, xsobá rsasâ fzf rilânff.\fMnf ono oxfnâ pomodlo!\r
-Ãj, sá cfeâ poblihorsi, nf sak li?\nSodea haxfm hconisâ?\fPqivoei i podocoqim!
-Ãj, sá pomniyâ, t mfnå frsâ moj\nrcfqvkqtsoj \v0100ぁぉ\x0000?\rMoj \v0100ぁぉ\x0000 oslixafsrå os\nobáxnodo \v0100ぁぉ\x0000.\rKak bá, rqfei pqoxiv eqtdiv, moj\n\v0100ぁぉ\x0000 oein ih ltxyiv!\rPonimafyâ, o xfm å?
-O ea, å kodea-so pobfeil \v0100ぁお\x0000\nc eikoj mfrsnorsi.\rBálo oxfnâ pqorso. Nt, nixfdo nf\npoeflasâ, qah má sakif rilânáf.\rNt voqoyo. Poka!
-O, ea, å ciefl, bál eikij \v0100ぁお\x0000!\nÅ etmal fdo pojmasâ,\fno t mfnå nixfdo nf cáylo!\rNt xso-g. Mogfs i k ltxyfmt.\nÅ nf oxfnâ voqoyo tmfä locisâ\fPokfmonoc...
-Eacaj crsqfsimrå i rqahimrå!\nÅ obfzaä, crf btefs inaxf!\r\v0104ぁあ\x0000 - cos def å.\nPohoci mfnå, kodea eojefyâ.\rNt voqoyo. Poka!
-Sá def, \v0103ぁ\x0000\x0000?\rEacaj bársqff, rqahimrå nakonfw! Å get sam, def \v0104ぁあ\x0000!
-Å pqocfqål asaki mofdo Pokfmona\n\v0100ぁぉ\x0000 i etmaä nae rsqasfdiåmi.\rKodea pqietmaä xso-so insfqfrnof,\nmá rqahimrå!\rNt voqoyo. Poka!
+Джои
+Эй, а можно твой номер?\nЯ позвоню, если захочу сразиться. \v0200\x0001\x0000
+Я позвоню тебе, когда\nснова буду готов!
+Ох, хорошо...\nНо снова я тебе не проиграю!
+Можно твой номер?\rЯ не хочу тебе проиграть!\nМы сразимся еще раз, ладно? \v0200\x0001\x0000
+И еще одно поражение...\nБез сомнений - у тебя есть сила.\rТо, что меня так часто побеждают,\nмне теперь на самом деле\fдаже нравится!\rВот, возьми это.\nИспользуй, чтобы стать еще сильнее.\fМне оно очень помогло!\r
+Эй, ты ведь поблизости, не так ли?\nТогда зачем звонить?\fПриходи и поговорим!
+Эй, ты помнишь, у меня есть мой\nсверхкрутой \v0100ぁぉ\x0000?\rМой \v0100ぁぉ\x0000 отличается от\nобычного \v0100ぁぉ\x0000.\rКак бы, среди прочих других, мой\n\v0100ぁぉ\x0000 один из лучших!\rПонимаешь, о чем я?
+О да, я когда-то победил \v0100ぁお\x0000\nв дикой местности.\rБыло очень просто. Ну, ничего не\nподелать, раз мы такие сильные.\rНу хорошо. Пока!
+О, да, я видел, был дикий \v0100ぁお\x0000!\nЯ думал его поймать,\fно у меня ничего не вышло!\rНу что-ж. Может и к лучшему.\nЯ не очень хорошо умею ловить\fПокемонов...
+Давай встретимся и сразимся!\nЯ обещаю, все будет иначе!\r\v0104ぁあ\x0000 - вот где я.\nПозови меня, когда дойдешь.\rНу хорошо. Пока!
+Ты где, \v0103ぁ\x0000\x0000?\rДавай быстрее, сразимся наконец! Я жду там, где \v0104ぁあ\x0000!
+Я проверял атаки моего Покемона\n\v0100ぁぉ\x0000 и думаю над стратегиями.\rКогда придумаю что-то интересное,\nмы сразимся!\rНу хорошо. Пока!
