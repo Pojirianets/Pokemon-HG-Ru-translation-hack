@@ -3,9 +3,14 @@ Copycat - Копирка
 Charcoal Man - Углежог
 Buena - Буэна
 The Director - Директор
+Move Deleter - Стиратель Атак
 
 Ecruteak Dance Theater - Танцевальный Театр Экрутика
 Fighting Dojo - Боевое Додзе
+Tutor House - Дом Наставника
+Trainer House - Дом Тренеров
+House of Memories - Дом Памяти
 
+Bug-Catching Contest - Состязание по Ловле Жуков
 “The Show Me Show!” - “Покажи Мне Шоу”
 Pokémon Talk - Диалоги о Покемонах
