@@ -1,23 +1,23 @@
-Пересечь море, чтобы добраться сюда?\rНаверное, это было непросто.\rБыло бы куда проще, если бы твой\nПокемон знал Полет...\r
-Но тебе не удастся применять Полет\nбез Значка Стадиона этого города.\rЕсли ты одолеешь Лидера Стадиона,\nприди ко мне.\fЯ тебе кое-что подарю.
-Это же Значок Стадиона Сианвуда!\rВ таком случае, возьми этот НМ.\r
+Pfqfrfxâ moqf, xsobá eobqasârå räea?\rNacfqnof, ãso bálo nfpqorso.\rBálo bá ktea pqozf, frli bá scoj\nPokfmon hnal Polfs...\r
+No sfbf nf tearsrå pqimfnåsâ Polfs\nbfh Hnaxka Rsaeiona ãsodo doqoea.\rFrli sá oeolffyâ Liefqa Rsaeiona,\npqiei ko mnf.\fÅ sfbf kof-xso poeaqä.
+Ãso gf Hnaxok Rsaeiona Rianctea!\rC sakom rltxaf, cohâmi ãsos NM.\r
                       
-Обучи своего Покемона Полету.\rТы сможешь возвращаться в любое\nпосещенное прежде место.
-Мой муж проиграл тебе, так что ему\nнужно больше тренироваться.\rНу и хорошо, а то он уже начал\nполнеть.
-Твоя Сумка заполнена.
-Его единственное хобби - сражаться\nс сильными Тренерами.\rДать тебе номер моего мужа? \v0200\x0001\x0000
-\v0103ぁ\x0000\x0000 записывает номер Чака\nв Покегир!
-Вечером по средам он отдыхает от\nшумного водопада.\rТогда он сможет с тобой поговорить.
-О, понимаю.\nМой муж тебе не хороший соперник?
-Ты хочешь обменяться номерами\nс моим мужем? \v0200\x0001\x0000
-Если ты применишь Полет, ты сможешь\nбыстро вернуться в Оливин.
-Валуны к северу от города можно\nрасколоть.\rОни могут что-то скрывать.\nТвой Покемон может применить на них\fРаскол Камня.
-Чак, Лидер Стадиона, сражается\nсвоими Покемонами Боевого типа.
-Юзин: Йо, \v0103ぁ\x0000\x0000.\rЭто был СУИКУН?\rЯ только краем глаза увидел, но я\nподумал что я видел СУИКУНА,\fбегущего по волнам.\rСУИКУН красив и величественнен.\nИ он проносится сквозь города и\fдороги просто с потрясающей\fскоростью.\rОн чудесен...\rЯ хочу увидеть СУИКУНА вблизи...\rРешено.\nЯ сражусь с тобой как Тренер, чтобы\fзавоевать доверие СУИКУНА!\rДавай, \v0103ぁ\x0000\x0000.\nСразимся здесь и сейчас!
-Ты просто нечто, \v0103ぁ\x0000\x0000!\rЯ начинаю понимать, почему СУИКУН\nтобой заинтересовался.\rЯ буду искать СУИКУНА дальше.\rЯ уверен, что мы еще встретимся.\nЕще увидимся!\r
-Между этим местом и Оливином есть\nнесколько островов.\rПредположительно, там обидает\nмифическое морское создание.
-Сианвуд\nПорт Грохочущих Волн
-Стадион Покемонов Сианвуда\nЛидер: Чак\fЗа Него Говорят Ревущие Кулаки
-Аптека Сианвуда\r500 Лет Традиций\nЖдем Ваших Медицинских Запросов
-Это дом Кэмерона, Фотографа.\nСделайте Снимок На Память!
-Вход на дорогу к Сафари Зоне.\rИспытайте захватывающие встречи с\nдикими Покемонами один-на-один!\rСафари Зона находится прямо за углом\nот этого входа!
+Obtxi rcofdo Pokfmona Polfst.\rSá rmogfyâ cohcqazasârå c läbof\nporfzfnnof pqfgef mfrso.
+Moj mtg pqoidqal sfbf, sak xso fmt\nntgno bolâyf sqfniqocasârå.\rNt i voqoyo, a so on tgf naxal\npolnfsâ.
+Scoå Rtmka hapolnfna.
+Fdo feinrscfnnof vobbi - rqagasârå\nr rilânámi Sqfnfqami.\rEasâ sfbf nomfq mofdo mtga? \v0200\x0001\x0000
+\v0103ぁ\x0000\x0000 hapirácafs nomfq Xaka\nc Pokfdiq!
+Cfxfqom po rqfeam on oseávafs os\nytmnodo coeopaea.\rSodea on rmogfs r soboj podocoqisâ.
+O, ponimaä.\nMoj mtg sfbf nf voqoyij ropfqnik?
+Sá voxfyâ obmfnåsârå nomfqami\nr moim mtgfm? \v0200\x0001\x0000
+Frli sá pqimfniyâ Polfs, sá rmogfyâ\nbársqo cfqntsârå c Olicin.
+Caltná k rfcfqt os doqoea mogno\nqarkolosâ.\rOni modts xso-so rkqácasâ.\nScoj Pokfmon mogfs pqimfnisâ na niv\fQarkol Kamnå.
+Xak, Liefq Rsaeiona, rqagafsrå\nrcoimi Pokfmonami Bofcodo sipa.
+Ärin: Jo, \v0103ぁ\x0000\x0000.\rÃso bál RTIKTN?\rÅ solâko kqafm dlaha tciefl, no å\npoetmal xso å ciefl RTIKTNA,\fbfdtzfdo po colnam.\rRTIKTN kqaric i cflixfrscfnnfn.\nI on pqonorisrå rkcohâ doqoea i\feoqodi pqorso r posqåraäzfj\frkoqorsâä.\rOn xtefrfn...\rÅ voxt tciefsâ RTIKTNA cblihi...\rQfyfno.\nÅ rqagtrâ r soboj kak Sqfnfq, xsobá\fhacofcasâ eocfqif RTIKTNA!\rEacaj, \v0103ぁ\x0000\x0000.\nRqahimrå hefrâ i rfjxar!
+Sá pqorso nfxso, \v0103ぁ\x0000\x0000!\rÅ naxinaä ponimasâ, poxfmt RTIKTN\nsoboj hainsfqfrocalrå.\rÅ btet irkasâ RTIKTNA ealâyf.\rÅ tcfqfn, xso má fzf crsqfsimrå.\nFzf tcieimrå!\r
+Mfget ãsim mfrsom i Olicinom frsâ\nnfrkolâko orsqococ.\rPqfepologisflâno, sam obieafs\nmiuixfrkof moqrkof roheanif.
+Riancte\nPoqs Dqovoxtziv Coln
+Rsaeion Pokfmonoc Rianctea\nLiefq: Xak\fHa Nfdo Docoqås Qfctzif Ktlaki
+Apsfka Rianctea\r500 Lfs Sqaeiwij\nGefm Cayiv Mfeiwinrkiv Hapqoroc
+Ãso eom Kãmfqona, Uosodqaua.\nReflajsf Rnimok Na Pamåsâ!
+Cvoe na eoqodt k Rauaqi Honf.\rIrpásajsf havcasácaäzif crsqfxi r\neikimi Pokfmonami oein-na-oein!\rRauaqi Hona navoeisrå pqåmo ha tdlom\nos ãsodo cvoea!
