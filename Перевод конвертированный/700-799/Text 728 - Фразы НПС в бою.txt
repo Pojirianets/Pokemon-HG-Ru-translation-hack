@@ -262,7 +262,7 @@ Ov, porlfenij! Nikodea nf reacajrå!\n
 Moj ãlfksqixfrkij sqäk...\n
 Nf poeeacajrå.\nPokagi xso mogfyâ!\n
 Cat, a ãso bolâno!\n
-Kagfsrå, å nfeoowfnil sfbå...\n
+Kagfsrå, å nfeoowfnila sfbå...\n
 T sfbå pqfkqarnaå sfvnika boå!\n
 Nfvoqoyo. Oxfnâ nfvoqoyo.\n
 ...!!!\nSak... Sakaå rila!\n
@@ -361,8 +361,8 @@ Kak å modt harsacisâ sfbå ponåsâ\nmof vobbi? Kosoqof... docoqisâ\fnihkim d
 Odo!\n
 Gfnrkaå eobqosa i mtgrkaå rila...\rÅ voxt básâ Sqfnfqom t kosoqodo\nfrsâ oba ãsiv kaxfrsca!\n
 Moå markiqocka bála pqfkqarnoj!\nDqqq!\n
-Å oetqaxil sfbå...\n
-Oov... Å pqoidqal...\nT sfbå nfs rlaborsfj...\n
+Å oetqaxila sfbå...\n
+Oov... Å pqoidqala...\nT sfbå nfs rlaborsfj...\n
 Ov, nfs!\nMnf ntgna bála pobfea!\n
 Privixfrkaå mozâ ãso rila\nscofdo qahtma.\r
 T scofdo qahtma bolâyf mozi\nxfm t mfnå!\n
@@ -375,9 +375,9 @@ Rilâno...\nRliykom rilâno...\n
 Kakoc irsoxnik scofj rilá?\n
 Utututut...\nÅ cigt ãso årno.\rÅ cigt scoä etyt!\r
 Vosâ å pqferkahácaä sfbå,\npobfea nf ha mnoj...\n
-Tpr! Å habál, xso pqferkahal rcof\npoqagfnif.\n
+Tpr! Å habála, xso pqferkahala rcof\npoqagfnif.\n
 Ãj sá!\nVoxfyâ eqaki?\r
-Pobis i tnigfn...\n
+Pobisa i tnigfna...\n
 Sá rilânáj Sqfnfq. Oxfcieno, t\nsfbå bálo mnodo sqfniqocok.\n
 Frli Sqfnfqá crsqfsåsrå, pfqcof xso\noni eflaäs, ãso rqagaäsrå.\r
 Aaaa...\nT mfnå qfkoqe po pqoidqáyam...\n
@@ -451,7 +451,7 @@ Báli li cá kodea libo na piknikf?\nNa niv sak cfrflo!\r
 Oooov!\n
 Má eflafm cápfxkt i eflimrå fä\nro crfmi. Ona cktrnaå!\n
 Läei nf eolgná mtroqisâ.\r
-Oov... Å pqoidqal...\n
+Oov... Å pqoidqala...\n
 Ãkonomiå ãnfqdii cagna, no pqiqoea\nktea bolff wfnna.\n
 Sá oxfnâ läbiyâ Pokfmonoc, nf sak\nli? Å sogf läblä Pokfmonoc!\r
 Povogf, ãso ohnaxafs mof poqagfnif.\n
@@ -524,7 +524,7 @@ Frli bá Pokfmoná báli pqfemfsom c\nykolf, å bál bá ltxyf crfv!\n
 Pqoyt, pqoyt!\rSá btefyâ eqasârå ro mnoj, a å\nkak qah c uoqmf!\r
 Sá nixfdo nf habácafyâ?\r
 Kiåååå!\n
-Pqfgef xfm å rsal txisflfm, å\nhabácal ktxt cfzfj.\n
+Pqfgef xfm å rsala txisflfm, å\nhabácala ktxt cfzfj.\n
 C rolnfxnáf eni, å etmaä, xso efsi\nrkoqff btets idqasâ na plozaekf\fxfm txisârå c klarrf.\r
 T mfnå nf bálo gflaniå\npqoidqácasâ...\n
 Txisârå cagno, no i tpqagnåsârå sogf\nnf ntgno habácasâ.\n
@@ -586,14 +586,14 @@ Nabläeaå ha sfm, kak sá efqfyârå,\nå voxt pormosqfsâ kak å pqoefqgtrâ.\
 T mfnå nikodea fzf nf bálo\nsakoj biscá!\n
 Pqfkqarnáj bál boj!\rSá i scoi Pokfmoná poirsinf\nteicisflâná!\n
 Å Nomfq 5!\nTrsafyâ?\r
-I å pqoidqal...\n
-Å eflal crf cohmognof.\nÅ ni o xfm nf galfä.\n
-Å porlfenij c oxfqfei, no å nf\npqorsoj pqosicnik!\r
+I å nf modt pobfeisâ...\n
+Å eflala crf cohmognof.\nÅ ni o xfm nf galfä.\n
+Å porlfenåå c oxfqfei, no å nf\npqorsoj pqosicnik!\r
 Ea sá ytsiyâ!\n
-Å eflal crf cohmognof.\nÅ ni o xfm nf galfä.\n
-Å csoqoj.\nSfpfqâ, crf rfqâfhno!\r
-Kak å mod pqoidqasâ?\n
-Å eflal crf cohmognof.\nÅ ni o xfm nf galfä.\n
+Å eflala crf cohmognof.\nÅ ni o xfm nf galfä.\n
+Å csoqaå.\nSfpfqâ, crf rfqâfhno!\r
+Kak å modla pqoidqasâ?\n
+Å eflala crf cohmognof.\nÅ ni o xfm nf galfä.\n
 Pobfei yfrsfqáv Sqfnfqoc i poltxi\nxtefrntä nadqaet!\rEtmafyâ, sfbf tearsrå ãso reflasâ?\r
 Coot! Nfplovo.\n
 Å eflal crf cohmognof.\nÅ ni o xfm nf galfä.\n
@@ -602,7 +602,7 @@ Ot! Qaheaclfn!\n
 Å eflal crf cohmognof.\nÅ ni o xfm nf galfä.\n
 Mtututut...\rÅ nf imfä nixfdo obzfdo r yfrsâä\nSqfnfqami.\rÅ geal hefrâ xsobá pobfeisâ sfbå,\nkodea crf ãsi biscá sfbå cámosaäs.\r
 Sá rocrfm nf trsafyâ?\n
-Ihcini...\nÅ bolâyf nf btet obmanácasâ...\n
+Ihcini...\nÅ bolâyf nf btet sak eflasâ...\n
 Å eflaä porlfenif pqidosoclfniå\nk Lidf Pokfmonoc.\r
 T mfnå nf cáylo!\n
 Btefs sqteno pobfeisâ c Lidf.\nMnf ntgno bolâyf sqfniqocok.\rVoeås rltvi, xso Ãlisnaå Xfscfqka\ndoqaheo rilânff Liefqoc Rsaeionoc.\n
@@ -1431,12 +1431,12 @@ Voqoyo, Pokfmoná, poqa rqahisârå!\r
 Ov, nt...\n
 Moi Pokfmoná nf rlabáf!\nÃso scoi rliykom rilânáf!\n
 T mfnå pqfextcrscif,\nxso sá pqoidqafyâ!\r
-Mogfs mof pqfextcrscif mfnå poecflo...\n
+Mogfs mof pqfextcrscif mfnå\npoecflo...\n
 Sak kqtso!\nSá nf orsanaclicafyârå na polptsi!\n
 Nacoqosá elå bajka rsoås efnfd!\nMnf ntgna qabosa!\r
 Aqv. Poqagfnif!\n
 Bajk?\nOv, na ramom eflf, t mfnå Cfloripfe!\n
-Ãj, kso qahqfyil sfbf hefrâ fheisâ?\n
+Ãj, kso qahqfyil sfbf hefrâ fheisâ?\r
 Kasarsqoua!\n
 Fzf tcieimrå!\nPqivoei c läbof cqfmå!\n
 Ãj! Etmafyâ, xso sá pqorso sak mogfyâ\nhefrâ pqomxasârå bfh orsanocok?\r
@@ -1461,8 +1461,8 @@ Kakaå rila!\n
 Frli habtefyâ oefålâwf, so mogno\npqigasârå k Pokfmont i fdo sfplo\fbtefs sfbå rodqfcasâ!\n
 Ktea so rpfyiyâ? Mogfs ltxyf\nreflafyâ pfqfqác na pofeinok?\r
 Aaav... nt cos.\n
-Vosâ ãso i nf pobfea, no mnf bálo cfrflo!\n
-Kodea å bál mlaeyf, å idqal solâko\ncntsqi eoma.\rNo sfpfqâ å läblä idqasâ\nrnaqtgi r Pokfmonami!\r
+Vosâ ãso i nf pobfea, no mnf bálo\ncfrflo!\n
+Kodea å bála mlaeyf, å idqala solâko\ncntsqi eoma.\rNo sfpfqâ å läblä idqasâ\nrnaqtgi r Pokfmonami!\r
 Aqv!\n
 Frli å r Pokfmonami, å nf\ncohqagaä pqoidqasâ!\n
 Nakonfw-so! Sqfnfq, r kosoqám\nmnf ponqacisrå bisca!\r
