@@ -33,7 +33,7 @@ Ecidasâ ktea?
 Easâ kakomt Pokfmont?
 Pqimfnisâ na kakom Pokfmonf?
 Kakodo Pokfmona obtxisâ?
-Cábfqisf Pokfmona i posecfqeisf.
+Cábfqisf Pokfmona.
              
 Pqimfnisâ na kakom Pokfmonf?
 Xso reflasâ r\n\v0101ぁ\x0000\x0000?
@@ -148,7 +148,7 @@ CHÅSÂ
 \v0106ぁ\x0000\x0000
 \v0106ぁ\x0000\x0000
 PORSACISÂ
-NF COYFEYIF
+NF CÁBQAN
 BLOK
 PFQCÁJ
 CSOQOJ
