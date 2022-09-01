@@ -1,20 +1,20 @@
-Впереди Лес Илекс\nВход через проходную.
-\v0103ぁ\x0000\x0000: ...Скажи мне кое-что.\rЭто правда, что Команда Ракета\nвернулась?\rЧто? Тебе удалось их одолеть? Ха!\nХватит врать.\rВ самом деле?\nТогда покажи, чего ты можешь.\r
-\v0103ぁ\x0000\x0000: Ненавижу слабаков.\rПокемоны, Тренеры.\nДа неважно кто или что.\rМеня бесит один их вид.\nК Команде Ракета это тоже относится.\rВ группах они считают себя большими\nи сильными.\rНо стоит только выцепить их по\nодному и все они оказываются слабы.\fЯ их всех ненавижу.\rДержись от меня подальше.\nТы не станешь исключением\fесли будешь мне мешать.\r
-Ничего не происходит.\nТуда идти небезопасно, поэтому я\fздесь, чтобы убедиться, что никто\fтуда не забредет.\rРазве я не добрый Самаритянин?
-Ты знаешь о Хвостах Слоупоков?\nЯ слышал, что они вкусные!\rРадуешься, что я тебе это сказал?
-СЛОУПОКИ исчезли из города...\rХодят слухи, что где-то начали\nпродавать их хвосты.
-СЛОУПОКИ вернулись.\rЗная их природу, они должно быть\nпросто отдыхали где-нибудь\fв другом месте.
-Ты здесь чтобы Курт сделал тебе\nПокеболлов?\fСюда много кто за этим приходит.
-Срежешь через Азалию и попадешь\nв Лес Илекс.\rНо через эти деревца не пройти.\rПокемон Углежога может срубать\nтакие деревца.
-СЛОУПОК: ...\r...\r
-...(Зевок?)
-Азалия\nСчастливая жизнь с Покемонами
-Дом Курта\rАприкорны и ничего больше\nУпорный Создатель Покеболлов
-Стадион Покемонов Азалии\nЛидер: Багси\fХодячая Энциклопедия о Жуках
-Колодец СЛОУПОКОВ также известен как\nКолодец Призывающий Дождь.\rМестные верят, что зевание СЛОУПОКА\nпризывает дождь.\rЛегенды гласят, что зевание СЛОУПОКОВ\nположило конец засухе,\fпроисходившей 400 лет назад.
-Древесноугольная печь\rМы говорим нашим ФАРФЕТЧ’ДАМ\nприносить ветки для производства\fдревесного угля!
-Кто ты?\nТы нас не знаешь?\rМы...\nКоманда Ракета!\r...Что?\nНас расформировали?\rКак бы не так!\nМы не расформированы!\rХотя когда то действительно\nпроизошло. Но мы вернулись чтобы\fпродолжить дело Джованни.\rХватит болтать.\nЗаткнись и давай к делу!\r
-\vFF01\x0001ｃШлеп!\vFF01\x0001コ\r
-В этом городе у нас есть этот крутой\nпарень по имени Курт.\fОн должен обо всем позаботиться...
-Я знал, что на Курта можно положиться!
+Cpfqfei Lfr Ilfkr\nCvoe xfqfh pqovoentä.
+\v0103ぁ\x0000\x0000: ...Rkagi mnf kof-xso.\rÃso pqacea, xso Komanea Qakfsa\ncfqntlarâ?\rXso? Sfbf tealorâ iv oeolfsâ? Va!\nVcasis cqasâ.\rC ramom eflf?\nSodea pokagi, xfdo sá mogfyâ.\r
+\v0103ぁ\x0000\x0000: Nfnacigt rlabakoc.\rPokfmoná, Sqfnfqá.\nEa nfcagno kso ili xso.\rMfnå bfris oein iv cie.\nK Komanef Qakfsa ãso sogf osnorisrå.\rC dqtppav oni rxisaäs rfbå bolâyimi\ni rilânámi.\rNo rsois solâko cáwfpisâ iv po\noenomt i crf oni okahácaäsrå rlabá.\fÅ iv crfv nfnacigt.\rEfqgirâ os mfnå poealâyf.\nSá nf rsanfyâ irkläxfnifm\ffrli btefyâ mnf mfyasâ.\r
+Nixfdo nf pqoirvoeis.\nStea iesi nfbfhoparno, poãsomt å\fhefrâ, xsobá tbfeisârå, xso nikso\fstea nf habqfefs.\rQahcf å nf eobqáj Ramaqisånin?
+Sá hnafyâ o Vcorsav Rlotpokoc?\nÅ rláyal, xso oni cktrnáf!\rQaetfyârå, xso å sfbf ãso rkahal?
+RLOTPOKI irxfhli ih doqoea...\rVoeås rltvi, xso def-so naxali\npqoeacasâ iv vcorsá.
+RLOTPOKI cfqntlirâ.\rHnaå iv pqiqoet, oni eolgno básâ\npqorso oseávali def-nibteâ\fc eqtdom mfrsf.
+Sá hefrâ xsobá Ktqs reflal sfbf\nPokfbolloc?\fRäea mnodo kso ha ãsim pqivoeis.
+Rqfgfyâ xfqfh Ahaliä i popaefyâ\nc Lfr Ilfkr.\rNo xfqfh ãsi efqfcwa nf pqojsi.\rPokfmon Tdlfgoda mogfs rqtbasâ\nsakif efqfcwa.
+RLOTPOK: ...\r...\r
+...(Hfcok?)
+Ahaliå\nRxarslicaå gihnâ r Pokfmonami
+Eom Ktqsa\rApqikoqná i nixfdo bolâyf\nTpoqnáj Roheasflâ Pokfbolloc
+Rsaeion Pokfmonoc Ahalii\nLiefq: Badri\fVoeåxaå Ãnwiklopfeiå o Gtkav
+Koloefw RLOTPOKOC sakgf ihcfrsfn kak\nKoloefw Pqihácaäzij Eogeâ.\rMfrsnáf cfqås, xso hfcanif RLOTPOKA\npqihácafs eogeâ.\rLfdfneá dlarås, xso hfcanif RLOTPOKOC\npologilo konfw hartvf,\fpqoirvoeicyfj 400 lfs nahae.
+Eqfcfrnotdolânaå pfxâ\rMá docoqim nayim UAQUFSX’EAM\npqinorisâ cfski elå pqoihcoersca\feqfcfrnodo tdlå!
+Kso sá?\nSá nar nf hnafyâ?\rMá...\nKomanea Qakfsa!\r...Xso?\nNar qaruoqmiqocali?\rKak bá nf sak!\nMá nf qaruoqmiqocaná!\rVoså kodea so efjrscisflâno\npqoihoylo. No má cfqntlirâ xsobá\fpqoeolgisâ eflo Egocanni.\rVcasis bolsasâ.\nHasknirâ i eacaj k eflt!\r
+\vFF01\x0001ｃYmåk!\vFF01\x0001コ\r
+C ãsom doqoef t nar frsâ ãsos kqtsoj\npaqfnâ po imfni Ktqs.\fOn eolgfn obo crfm pohabosisârå...
+Å hnal, xso na Ktqsa mogno pologisârå!
