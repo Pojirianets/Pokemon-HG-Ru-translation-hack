@@ -1,33 +1,33 @@
-Unable to connect to Nintendo\nWi-Fi Connection.\n\nFor help, check the software\nInstruction Booklet, or visit\nsupport.nintendo.com.\nError code: \v0136ぁ\x0000\x0000
-Either Nintendo Wi-Fi Connection\nis experiencing high traffic\nvolumes or the service is down.\nPlease try again later. \n\nFor help, visit\nsupport.nintendo.com.\nError code: \v0136ぁ\x0000\x0000
-This Nintendo Wi-Fi Connection ID\nwas removed because it was\ninactive for a long time. \n\nFor help, visit\nsupport.nintendo.com.\nError code: \v0136ぁ\x0000\x0000
-Nintendo Wi-Fi Connection service\nfor this software has been\ndiscontinued.\n\nVisit support.nintendo.com\nfor a list of current Nintendo\nWi-Fi Connection-compatible\nsoftware. Error code: \v0136ぁ\x0000\x0000
-The access point is busy.\nUnable to connect.\nPlease try again later.\n\nFor help, visit\nsupport.nintendo.com.\nError code: \v0136ぁ\x0000\x0000
-Не найдена точка доступа.\nНайдите точку доступа и\nпопробуйте еще раз.\n\nОбратитесь за помощью на\nôöрроóõ.ñìñõеñèо.соð.\nКод ошибки: \v0136ぁ\x0000\x0000
-No compatible access point in\nrange. \nCheck your connection settings\nand try again. \n\nFor help, visit\nsupport.nintendo.com.\nError code: \v0136ぁ\x0000\x0000
-Unable to connect to the Nintendo\nWi-Fi USB Connector. Check your\nconnection settings in the\nNintendo Wi-Fi Connection setup.\n\nFor help, visit\nsupport.nintendo.com.\nError code: \v0136ぁ\x0000\x0000
-Unable to connect to Nintendo \nWi-Fi Connection. \nCheck your connection settings.\n\nFor help, visit\nsupport.nintendo.com.\nError code: \v0136ぁ\x0000\x0000
-No response.\nEither the player has been\ndisconnected, or you have\nbeen removed from the\nplayer’s friend roster.\nError code: \v0136ぁ\x0000\x0000\n\n
-Communication error.\nYou have been disconnected from\nNintendo Wi-Fi Connection.\n\nFor help, visit\nsupport.nintendo.com.\nError code: \v0136ぁ\x0000\x0000
-Communication error.\n\nFor help, visit\nsupport.nintendo.com.\nError code: \v0136ぁ\x0000\x0000
-Download failed.\n\nFor help, visit\nsupport.nintendo.com.\nError code: \v0136ぁ\x0000\x0000
-Communication error.\nYou have been disconnected from\nNintendo Wi-Fi Connection.\nPlease try again.\n\nFor help, visit\nsupport.nintendo.com.
-Communication error...
+Nf teafsrå poekläxisârå k\nCUR Ninsfneo.\n\nPqormosqisf inrsqtkwiä ili\nobqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.\nKoe oyibki: \v0136ぁ\x0000\x0000
+CUR Ninsfneo pfqfdqtgfna\nili nf qabosafs. Popqobtjsf\npoekläxisârå c eqtdoj qah.\n\nObqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Iefnsiuikasoq CUR tealfn\nih-ha osrtsrsciå aksicnorsi.\n\nObqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Poeefqgka CUR Ninsfneo elå\nãsoj pqodqammá pqfkqazfna.\n\nC ôöqqoóõ.ñìñõfñèo.roð\nmogno pqormosqfsâ rpirok\npqodqamm.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Soxka eorstpa pfqfdqtgfna.\nNf tealorâ poekläxisârå.\nPopqobtjsf poekläxisârå c\neqtdoj qah.\n\nObqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Nf najefna soxka eorstpa.\nNajeisf soxkt eorstpa i\npopqobtjsf fzf qah.\n\nObqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Nf najefno rocmfrsimáv\nsoxfk eorstpa. Pqocfqâsf\nrsastr rofeinfniå i\npopqobtjsf fzf qah.\nObqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Nf tealorâ poekläxisârå k\nCUR po ÒÐC Konnfksoqt.\nPqormosqisf narsqojki\npoekläxfniå po CUR.\nObqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Nf tealorâ poekläxisârå k\nCUR Ninsfneo. Pqocfqâsf\nnarsqojki rofeinfniå.\n\nObqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Nfs oscfsa.\nIdqok oskläxilrå, libo cá\nbáli tealfná ih rpirka\neqthfj.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Oyibka rofeinfniå.\nRofeinfnif r CUR qahoqcano.\n\nObqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Oyibka rofeinfniå.\n\nObqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Hakaxka nf tealarâ.\n\nObqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.\nKoe oyibki: \v0136ぁ\x0000\x0000
+Oyibka rofeinfniå.\nRofeinfnif r CUR qahoqcano.\nPopqobtjsf fzf qah.\n\nObqasisfrâ ha pomozâä na\nôöqqoóõ.ñìñõfñèo.roð.
+Oyibka rofeinfniå...
                                                                         
-Your Nintendo Wi-Fi Connection\nUser Information may have been\nerased. Check your connection\nsettings with the Nintendo\nWi-Fi Connection configuration.
-Присоединиться к Вай-Фай Соединению\nНинтендо?
-Вай-Фай Соединение Нинтендо\nвзаимодействует с вашей\nИгровой Картой и системой.\nСохранить Информацию о\nпользователе на Игровую Карту\nи присоединиться к Вай-Фай\nСоединению Нинтендо?
-Nintendo Wi-Fi Connection User\nInformation for this system\nhas been saved to the Game Card.\nFrom now on, please use this\nsystem to connect to\nNintendo Wi-Fi Connection.
-Unable to connect to Nintendo\nWi-Fi Connection because the\nNintendo Wi-Fi Connection User\nInformation from the system\nand the Game Card do not match.
-Update Nintendo Wi-Fi Connection\nUser Information saved on the\nGame Card?\nWhen you update your Nintendo\nWi-Fi Connection User\nInformation, you will lose all\ndata that was used to connect\nto Nintendo Wi-Fi Connection.
-Connect to Nintendo Wi-Fi\nConnection to update\nNintendo Wi-Fi Connection\nUser Information?\n\nWarning:\nAll of the friends registered in\nyour Pal Pad will be deleted.
-Подключение к Вай-Фай Соединению\nНинтендо... Подождите... Вай-Фай Соединение Нинтендо
-You cannot access Nintendo Wi-Fi\nConnection using this user name.\n\nPlease change your user name.
-OK to disconnect from Nintendo\nWi-Fi Connection?
-Disconnecting from Nintendo Wi-Fi\nConnection.
-You have been disconnected from\nNintendo Wi-Fi Connection.
+Inuoqmawiå o Polâhocasflf\nmogfs básâ rsfqsa.\nPqocfqâsf narsqojki\nrofeinfniå c narsqojkav CUR.
+Poekläxisârå k Caj-Uaj Rofeinfniä\nNinsfneo?
+Caj-Uaj Rofeinfnif Ninsfneo\nchaimoefjrsctfs r cayfj\nIdqocoj Kaqsoj i rirsfmoj.\nRovqanisâ Inuoqmawiä o\npolâhocasflf na Idqoctä Kaqst\ni poekläxisârå k Caj-Uaj\nRofeinfniä Ninsfneo?
+Inuoqmawiå o Polâhocasflf\nelå ãsoj rirsfmá rovqanfna\nna Idqoctä Kaqst.\nIrpolâhtjsf ãst rirsfmt,\nxsobá poekläxasârå k CUR.
+Nfcohmogno poekläxisârå k\nCUR Ninsfneo, posomt xso\nInuoqmawiå o Polâhocasflf\nrirsfmá i Idqocoj Kaqsá\nnf rocpaeaäs.
+Obnocisâ Inuoqmawiä o\nPolâhocasflf CUR Ninsfneo,\nrovqanfnnoj na Idqocoj\nKaqsf? Pqi obnoclfnii ãsoj\ninuoqmawii, cá posfqåfsf\ncrf eannáf, pqimfnåcyivrå\nelå poekläxfniå k CUR\nNinsfneo.
+Rofeinisârå r CUR Ninsfneo\nxsobá obnocisâ Inuoqmawiä\no Polâhocasflf?\nCnimanif: Crf eqthâå c\nAeqfrnoj Knidf btets\ntealfná.
+Poekläxfnif k Caj-Uaj Rofeinfniä\nNinsfneo... Poeogeisf...
+Cá nf mogfsf poltxisâ\neorstp k CUR Ninsfneo r\nãsim imfnfm.\n\nRmfnisf rcof imå.
+Oskläxisârå os CUR Ninsfneo?
+Oskläxfnif os CUR Ninsfneo.
+Cá báli oskläxfná os CUR Ninsfneo.
   
    
-Сохранение...\nНе выключайте питание.
+Rovqanfnif...\nNf cákläxajsf pisanif.
                                
-There was a communication error\nin the Wi-Fi Plaza.\nError code: \v0136ぁ\x0000\x0000
+C Caj-Uaj Plahf pqoihoyla\noyibka rofeinfniå.\nKoe oyibki: \v0136ぁ\x0000\x0000
