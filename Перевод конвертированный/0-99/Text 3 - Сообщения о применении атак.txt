@@ -82,9 +82,9 @@ Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nTeaq Pqágkom!
 \v0101ぁ\x0000\x0000 irpolâhtfs\nKasåzij Teaq!
 Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nKasåzij Teaq!
 Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nKasåzij Teaq!
-\v0101ぁ\x0000\x0000 irpolâhtfs\nPfrko-Asakt!
-Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nPfrko-Asakt!
-Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nPfrko-Asakt!
+\v0101ぁ\x0000\x0000 irpolâhtfs\nAsakt Pfrkom!
+Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nAsakt Pfrkom!
+Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nAsakt Pfrkom!
 \v0101ぁ\x0000\x0000 irpolâhtfs\nTeaq dolocoj!
 Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nTeaq dolocoj!
 Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nTeaq dolocoj!
@@ -109,18 +109,18 @@ Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nObfqsácanif!
 \v0101ぁ\x0000\x0000 irpolâhtfs\nRyibanif!
 Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nRyibanif!
 Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nRyibanif!
-\v0101ぁ\x0000\x0000 irpolâhtfs\nMoloxfnif!
-Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nMoloxfnif!
-Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nMoloxfnif!
+\v0101ぁ\x0000\x0000 irpolâhtfs\nIhbifnif!
+Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nIhbifnif!
+Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nIhbifnif!
 \v0101ぁ\x0000\x0000 irpolâhtfs\nOboäenáj Qirk!
 Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nOboäenáj Qirk!
 Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nOboäenáj Qirk!
-\v0101ぁ\x0000\x0000 irpolâhtfs\nVcors-vlárs!
-Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nVcors-vlárs!
-Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nVcors-vlárs!
-\v0101ぁ\x0000\x0000 irpolâhtfs\nÅeocistä Nisâ!
-Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nÅeocistä Nisâ!
-Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nÅeocistä Nisâ!
+\v0101ぁ\x0000\x0000 irpolâhtfs\nCilånif!
+Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nCilånif!
+Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nCilånif!
+\v0101ぁ\x0000\x0000 irpolâhtfs\nÅeocisof Galo!
+Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nÅeocisof Galo!
+Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nÅeocisof Galo!
 \v0101ぁ\x0000\x0000 irpolâhtfs\nEcojntä Idlt!
 Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nEcojntä Idlt!
 Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nEcojntä Idlt!
@@ -178,9 +178,9 @@ Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nLtx Lâea!
 \v0101ぁ\x0000\x0000 irpolâhtfs\nMfsflâ!
 Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nMfsflâ!
 Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nMfsflâ!
-\v0101ぁ\x0000\x0000 irpolâhtfs\nPriltx!
-Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nPriltx!
-Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nPriltx!
+\v0101ぁ\x0000\x0000 irpolâhtfs\nPri-Ltx!
+Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nPri-Ltx!
+Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nPri-Ltx!
 \v0101ぁ\x0000\x0000 irpolâhtfs\nLtx Ptháqfj!
 Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nLtx Ptháqfj!
 Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nLtx Ptháqfj!
@@ -280,9 +280,9 @@ Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nSokrixnorsâ!
 \v0101ぁ\x0000\x0000 irpolâhtfs\nPtsaniwt!
 Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nPtsaniwt!
 Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nPtsaniwt!
-\v0101ぁ\x0000\x0000 irpolâhtfs\nPrivikt!
-Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nPrivikt!
-Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nPrivikt!
+\v0101ぁ\x0000\x0000 irpolâhtfs\nPrivo-Asakt!
+Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nPrivo-Asakt!
+Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nPrivo-Asakt!
 \v0101ぁ\x0000\x0000 irpolâhtfs\nDipnoh!
 Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nDipnoh!
 Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nDipnoh!
@@ -976,9 +976,9 @@ Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nLtx-Ridnal!
 \v0101ぁ\x0000\x0000 irpolâhtfs\nSfnfcoj Teaq!
 Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nSfnfcoj Teaq!
 Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nSfnfcoj Teaq!
-\v0101ぁ\x0000\x0000 irpolâhtfs\nÃkrsqarfnr!
-Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nÃkrsqarfnr!
-Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nÃkrsqarfnr!
+\v0101ぁ\x0000\x0000 irpolâhtfs\nÃkrsqarfnroqikt!
+Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nÃkrsqarfnroqikt!
+Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nÃkrsqarfnroqikt!
 \v0101ぁ\x0000\x0000 irpolâhtfs\nAppfqkos Nfba!
 Eikij \v0101ぁ\x0000\x0000 irpolâhtfs\nAppfqkos Nfba!
 Cqagfrkij \v0101ぁ\x0000\x0000 irpolâhtfs\nAppfqkos Nfba!

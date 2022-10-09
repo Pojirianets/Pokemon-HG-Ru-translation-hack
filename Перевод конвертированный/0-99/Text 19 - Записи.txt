@@ -55,31 +55,31 @@ Hapirâ \v0100ぁ\x0000\x0000
 Rfqiå Pobfe: \v0135ぁ\x0000\x0000
 Idq pqojefno: \v0135ぁ\x0000\x0000
 A
-B
 C
-D
-E
-F
-G
-H
-I
-J
-K
-L
-M
-N
-O
-P
-Q
 R
+Ç
+F
+È
+É
+N
+Ì
+Í
+K
+Ê
+M
+Ë
+O
+Q
+Î
+Ï
+Ð
 S
-T
-U
+Ò
+Ñ
+Ó
 V
-W
-X
-Y
-Z
+Ô
+Õ
 
 
 
