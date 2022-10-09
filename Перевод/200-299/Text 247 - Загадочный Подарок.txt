@@ -2,14 +2,14 @@
 Выберите способ получения Загадочных\nПодарков.
 Будет запущено Беспроводное\nСоединение ДС.
 Поиск подарка.\nПожалуйста, подождите...
-Receive this gift?
-Search for a different gift?
-Your request has been sent.\nPlease wait a moment...
-Receiving your gift.\nDon’t turn off the power.
-The gift has been received!\rPlease pick up your gift from the\ndeliveryman in any Poké Mart.
-This gift is being shared by\nanother person.\rYou may accept this gift, but you\nwill not be able to distribute it\fto your friends.\rWill you accept this gift?
+Получить этот подарок?
+Искать другой подарок?
+Ваш запрос отправлен.\nПодождите...
+Получение подарка.\nНе выключайте питание.
+Вы получили подарок!\rЗаберите его у курьера в\nлюбом Магазине.
+Этот подарок раздает другой человек.\rВы можете его принять, но не сможете\nраздать друзьям.\rПринять подарок?
                    
-Pokémon Ranger\nMANAPHY Egg Transfer
+Покемон Рейнджер\nПередача Яйца МАНАФИ
 ПОЛУЧИТЬ ПОДАРОК
 ПРОВЕРКА КАРТЫ
 ВЫХОД
@@ -19,65 +19,65 @@ Pokémon Ranger\nMANAPHY Egg Transfer
 ДА
 НЕТ
 ПОЛУЧИТЬ ПО ВАЙ-ФАЙ
-VIEW LOCK CAPSULE CARD
-Our deliveryman is overloaded with\ngifts for you!\rPlease see him at any Poké Mart and\npick up some of your gifts.
-You’ve already received this gift.\nYou may not get another one.
+ПРОСМОТР ГЕРМ. КАПСУЛЫ
+Наш курьер перегружен вашими\nподарками!\rЗаберите их у него в любом Магазине.
+Вы уже получили этот подарок.\nВы не можете получить еще один.
 Подарков не найдено.
-Your request was turned down.
-You are out of room for\nWonder Cards.\rYou may not accept another gift.
-There was a problem with\nreceiving the gift.\rPress the A Button to return to\nthe title screen.
-A gift has been found, but it cannot\nbe received using this version.\rPress the A Button to return to\nthe menu.
-The person sharing has\nbeen disconnected...
+Ваш запрос отклонен.
+У вас нет места для Чудо-Карт.\rВы не сможете принять другой\nподарок.
+Во время получения подарка\nпроизошла ошибка.\rНажмите А, чтобы вернуться на\nстартовый экран.
+Для вас был найден подарок, но его\nнельзя получить на этой версии.\rНажмите А, чтобы вернуться в меню.
+Раздающий игрок отключился...
                      
-Press the A Button.
+Нажмите Кнопку А.
                           
                
                     
-Please touch Pokémon Ranger’s\ngame screen.
+Коснитесь экрана\nПокемон Рейнджер.
                      
-Wonder Card
-Please pick up your gift from the\ndeliveryman in any Poké Mart.
-You have already received\nthis gift before.
-This card does not have\na gift attached.
-Date received
-This gift can be distributed \v0134ぁ\x0000\x0000 time(s).
-INFO
-SHARE
-TRASH
-EXIT
-Would you like to share this gift?
-YES
-NO
+Чудо-Карта
+Заберите подарок у курьера в\nлюбом Магазине.
+Этот подарок уже был получен ранее.
+У этой карты нет\nприкрепленного подарка.
+Дата получения
+Этот подарок можно раздать \v0134ぁ\x0000\x0000 раз(а).
+ИНФО
+ДЕЛИТЬСЯ
+УБРАТЬ
+ВЫХОД
+Хотите поделиться этим подарком?
+ДА
+НЕТ
 \v3410ぁ\x0001\x0000 \v0133ぁぁ\x0000, \v0135ぁ\x0000\x0000
                
-This gift can be shared with as\nmany friends as you like.
-Pal Distribution Registration
+Этот подарок можно раздать друзьям\nв любом количестве.
+Запись на Раздачу
 \v0103ぁ\x0000\x0000
-ID No.\v0136ぁ\x0000\x0000
-Current\nentries
+Но. ИД \v0136ぁ\x0000\x0000
+Текущие\nзаписи
 \vFF00\x0001\x0001\v0132ぁ\x0000\x0000\vFF00\x0001\x0000/4
-SEND
-CANCEL
-Gift distribution under way...\nDon’t turn off the power.
-Your gift distribution\nwas successful.
-Throw this card away?
-You haven’t received your gift yet.\nDo you want to discard this card?
-Discarding...\nDon’t turn off the power.
-YES
-NO
+ОТПРАВКА
+ОТМЕНА
+Идет раздача подарков...\nНе выключайте питание.
+Раздача подарков проведена\nуспешно.
+Выбросить эту карту?
+Вы еще не получили подарок.\nХотите выкинуть эту карту?
+Выбрасываем...\nНе выключайте питание.
+ДА
+НЕТ
                     
-\vFF00\x0001あ\v0103ぁ\x0000\x0000\vFF00\x0001ぁ \vFF00\x0001\x0000ID No.\v0136ぁ\x0001\x0000
+\vFF00\x0001あ\v0103ぁ\x0000\x0000\vFF00\x0001ぁ \vFF00\x0001\x0000Но. ИД \v0136ぁ\x0001\x0000
           
-Application No.:
+Заявка Но.:
 \v0135ぁ\x0000\x0000-\v0135ぁ\x0001\x0000
-Receiving a Recruitment Message\nfrom a Pokémon Ranger.
-Awaiting transfer from Pokémon\nRanger.
-Receiving the MANAPHY Egg...\nDon’t turn off the power.
-The transfer has been completed.\nA Button: title screen.
-The connection with Pokémon Ranger\nhas been lost... Press the A Button.
+Получение Сообщения о Приеме\nиз Покемон Рейнджер.
+Ожидание передачи из Покемон\nРейнджер.
+Получение Яйца МАНАФИ...\nНе выключайте питание.
+Передача завершена.\nКнопка А: выход на стартовый экран.
+Соединение с Покемон Рейнджер\nпотеряно... Нажмите А.
                               
         
 Будет запущено Беспроводное\nСоединение ДС.
 Подключиться к Вай-Фай\nСоединению Нинтендо?
-The Lock Capsule is held in the\nstrictest safekeeping.
-The Lock Capsule was delivered safely!
+Герметичная Капсула хранится в\nстрожайшей сохранности.
+Герметичная Капсула доставлена!
