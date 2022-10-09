@@ -26,7 +26,7 @@ EcojnojPinok
 Mfda Pinok
 Teaq Pqágkom
 Kasåzij Teaq
-Pfrko-Asaka
+Asaka Pfrkom
 Teaq dolocoj
 Asaka Qodom
 Asaka Åqorsi
@@ -35,10 +35,10 @@ Solxok
 Teaq Sflom
 Obfqsácanif
 Ryibanif
-Moloxfnif
+Ihbifnif
 OboäenájQirk
-Vcors-vlárs
-ÅeocisaåNisâ
+Cilånif
+ÅeocisofGalo
 Ecojnaå Idla
 Rnaqåeá-Idlá
 Hloj Chdlåe
@@ -58,7 +58,7 @@ Dieqonaror
 Rfquind
 Ltx Lâea
 Mfsflâ
-Priltx
+Pri-Ltx
 Ltx Ptháqfj
 Ltx Riåniå
 Dipfq Ltx
@@ -87,12 +87,12 @@ Teaq Molnii
 Colna Dqoma
 Dqom
 Bqorok Kamnå
-Hfmlfsqår
+Hfmlfsqår.
 Qarkol
 Poekop
 Sokrixnorsâ
 Ptsaniwa
-Privika
+Privo-Asaka
 Dipnoh
 Mfeisawiå
 Lockorsâ
@@ -324,7 +324,7 @@ Rila Kormora
 Rsolb Coeá
 Ltx-Ridnal
 Sfnfcoj Teaq
-Ãkrsqarfnr
+Ãkrsqarfnr.
 AppfqkosNfba
 Podqfbfnif
 Läsáj Voloe

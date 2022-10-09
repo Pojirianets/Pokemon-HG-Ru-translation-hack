@@ -1,468 +1,468 @@
 -
-ЗАТРЕЩИНА
-УДАР КАРАТЕ
-ДВОЙНОЙ УДАР
-УДАР КОМЕТЫ
-МЕГА УДАР
-ПОЛУЧКА
-УДАР ОГНЯ
-УДАР ЛЬДА
-УДАР ГРОМА
-ЦАРАПАНИЕ
-ТИСКИ
-ГИЛЬОТИНА
-РЕЖУЩИЙВЕТЕР
-ТАНЕЦ МЕЧЕЙ
-РАЗРЕЗ
-ПОРЫВ ВЕТРА
-АТАКА КРЫЛОМ
-ВИХРЬ
-ПОЛЕТ
-СВЯЗЫВАНИЕ
-ХЛОПОК
-КНУТ ЛОЗЫ
-ТОПОТ
-ДВОЙНОЙПИНОК
-МЕГА ПИНОК
-УДАР ПРЫЖКОМ
-КАТЯЩИЙ УДАР
-ПЕСКО-АТАКА
-УДАР ГОЛОВОЙ
-АТАКА РОГОМ
-АТАКА ЯРОСТИ
-РОГ-СВЕРЛО
-ТОЛЧОК
-УДАР ТЕЛОМ
-ОБЕРТЫВАНИЕ
-СШИБАНИЕ
-МОЛОЧЕНИЕ
-ОБОЮДНЫЙРИСК
-ХВОСТ-ХЛЫСТ
-ЯДОВИТАЯНИТЬ
-ДВОЙНАЯ ИГЛА
-СНАРЯДЫ-ИГЛЫ
-ЗЛОЙ ВЗГЛЯД
-УКУС
-РЫЧАНИЕ
-РЕВ
-ПЕНИЕ
-УЛЬТРАЗВУК
-ВОЛНА ЗВУКА
-ОТКЛЮЧЕНИЕ
-КИСЛОТА
-УГОЛЕК
-ОГНЕМЕТ
-ТУМАН
-ВОДОМЕТ
-ГИДРОНАСОС
-СЕРФИНГ
-ЛУЧ ЛЬДА
-МЕТЕЛЬ
-ПСИЛУЧ
-ЛУЧ ПУЗЫРЕЙ
-ЛУЧ СИЯНИЯ
-ГИПЕР ЛУЧ
-КЛЕВОК
-КЛЮВ-СВЕРЛО
-ПОДЧИНЕНИЕ
-ПОДСЕЧКА
-КОНТРАТАКА
-СЕЙСМОБРОСОК
-СИЛА
-ПОГЛОЩЕНИЕ
-МЕГАПОДПИТКА
-ЗЕРНА-ПИЯВКИ
-РОСТ
-БРИТВОЛИСТ
-ЛУЧ СОЛНЦА
-ЯДОВИТАЯПЫЛЬ
-ШОК-СПОРЫ
-СОННАЯ ПЫЛЬ
-РОЙЛЕПЕСТКОВ
-СНАРЯД-НИТЬ
-ГНЕВ ДРАКОНА
-ВИХРЬ ОГНЯ
-УДАР ГРОМА
-УДАР МОЛНИИ
-ВОЛНА ГРОМА
-ГРОМ
-БРОСОК КАМНЯ
-ЗЕМЛЕТРЯС
-РАСКОЛ
-ПОДКОП
-ТОКСИЧНОСТЬ
-ПУТАНИЦА
-ПСИХИКА
-ГИПНОЗ
-МЕДИТАЦИЯ
-ЛОВКОСТЬ
-БЫСТРЫЙ УДАР
-ЯРОСТЬ
-ТЕЛЕПОРТ
-ТЕНЬ НОЧИ
-ПОДРАЖАНИЕ
-ВИЗГ
-РАЗДВОЕНИЕ
-ИЗЛЕЧЕНИЕ
-ОТВЕРДЕВАНИЕ
-МИНИМИЗАЦИЯ
-ЗАВЕСА ДЫМА
-ЛУЧ ПУТАНИЦЫ
-ВТЯГИВАНИЕ
-ГРУППИРОВКА
-БАРЬЕР
-ОГРАДА СВЕТА
-МГЛА
-ОТРАЖЕНИЕ
-ФОКУСИРОВКА
-ВЫЖИДАНИЕ
-МЕТРОНОМ
-МИМИКРИЯ
-САМОПОДРЫВ
-БОМБА-ЯЙЦО
-ЛИЗАНИЕ
-СМОГ
-СЛИЗЬ
-УДАР КОСТЬЮ
-ВЗРЫВ ОГНЯ
-ВОДОПАД
-ЗАЖИМ
-ЗВЕЗДОПАД
-УДАР ЧЕРЕПОМ
-ЗАЛП ШИПАМИ
-СЖИМАНИЕ
-АМНЕЗИЯ
-КИНЕЗИС
-ВСМЯТКУ
-ПИНОК С ЛЕТУ
-ГНЕВНЫЙ ВИД
-ПОЕДАНИЕСНОВ
-ЯДОВИТЫЙ ГАЗ
-ГРАД УДАРОВ
-ВАМПИРИЗМ
-ПОЦЕЛУЙ СНА
-АТАКА С НЕБА
-ПРЕВРАЩЕНИЕ
-ПУЗЫРИ
-ПУТАЮЩИЙУДАР
-СПОРЫ
-ВСПЫШКА
-ПСИ-ВОЛНА
-ВСПЛЕСК
-ЖИДКАЯ БРОНЯ
-КРАБОМОЛОТ
-ВЗРЫВ
-КОГТИ ЯРОСТИ
-КОСТМЕРАНГ
-ОТДЫХ
-КАМНЕПАД
-ГИПЕР КЛЫК
-ЗАТОЧКА
-КОНВЕРСИЯ
-ТРИ-АТАКА
-СУПЕР КЛЫК
-ПОРЕЗ
-ПОДМЕНА
-НАДРЫВ
-ЭСКИЗ
-ТРОЙНОЙПИНОК
-ВОРОВСТВО
-ПАУТИНА
-ЧТЕНИЕ МЫСЛИ
-КОШМАР
-КОЛЕСО ОГНЯ
-ХРАП
-ПРОКЛЯТИЕ
-БОЙ НА ЖИЗНЬ
-КОНВЕРСИЯ 2
-АЭРОВЗРЫВ
-СПОРЫ ХЛОПКА
-ВОСПРЯТИЕ
-ЗЛОБА
-РЫХЛЫЙ СНЕГ
-ЗАЩИТА
-СКОРЫЙ УДАР
-ЖУТКИЙ ВИД
-УДАР ВТИХУЮ
-ПОЦЕЛУЙМЕЧТЫ
-ГОНГ ЖИВОТ
-БОМБА СЛИЗИ
-ШЛЕПОК ГРЯЗИ
-ОКТАЗУКА
-ШИПЫ
-ИСКРОПУШКА
-ПРЕДСКАЗАНИЕ
-СВЯЗЬ СУДЬБЫ
-ПЕСНЬ ГИБЕЛИ
-СТЫЛЫЙ ВЕТЕР
-ОБНАРУЖЕНИЕ
-КОСТОЛОМ
-НАВЕДЕНИЕ
-БЕШЕНСТВО
-ПЕСЧАНАЯБУРЯ
-ГИГАПОДПИТКА
-ТЕРПЕНИЕ
-ОЧАРОВАНИЕ
-РАСКАТЫВАНИЕ
-ЛОЖНЫЙ УДАР
-КУРАЖ
-ГЛОТОКМОЛОКА
-ИСКРА
-РАССЕЧЕНИЕ
-КРЫЛО СТАЛИ
-ЗЛОБНЫЙ ВИД
-ПРИВЛЕЧЕНИЕ
-ЛУНАТИЗМ
-ЛЕЧАЩИЙ ЗВОН
-ПРЕДАННОСТЬ
-ПОДАРОК
-НЕНАВИСТЬ
-БЕЗОПАСНОСТЬ
-ОБЩАЯ БОЛЬ
-СВЯТОЙ ОГОНЬ
-МАГНИТУДА
-УДАРДИНАМИКИ
-МЕГАРОГ
-ВЫДОХДРАКОНА
-ЭСТАФЕТА
-НА БИС
-ПОГОНЯ
-РАСКРУТКА
-СЛАДКИЙЗАПАХ
-ХВОСТ-ЖЕЛЕЗО
-МЕТАЛКОГОТЬ
-КОНТРБРОСОК
-РАССВЕТ
-СИНТЕЗ
-ЛУННЫЙ СВЕТ
-СКРЫТАЯ СИЛА
-КРОСС УДАР
-СМЕРЧ
-ТАНЕЦ ДОЖДЯ
-ДНЕВНОЙ СВЕТ
-ХРУСТ
-ПЛАЩ ЗЕРКАЛО
-МОТИВАЦИЯ
-МЕГАСКОРОСТЬ
-ДРЕВНЯЯ СИЛА
-ТЕНЕВОЙ ШАР
-ПРЕДВИДЕНИЕ
-РАСКОЛ КАМНЯ
-ВОДОВОРОТ
-УДАРЫ СТАИ
-ВНЕЗАПНОСТЬ
-ШУМ
-ЗАПАСАНИЕ
-ВЫПЛЕСК
-ГЛОТАНИЕ
-ВОЛНА ЖАРЫ
-ГРАД
-МУЧЕНИЕ
-ЛЕСТЬ
-ОГОНЬПРИЗРАК
-МЕМЕНТО МОРИ
-МУЖЕСТВО
-ВОЛЕВОЙ УДАР
-НАШАТЫРЬ
-ЗА МНОЙ
-СИЛА ПРИРОДЫ
-ЗАРЯДКА
-ПРОВОКАЦИЯ
-РУКА ПОМОЩИ
-ТРЮК
-РОЛЕВАЯ ИГРА
-ЖЕЛАНИЕ
-ПОДДЕРЖКА
-ПРОРАСТАНИЕ
-СУПЕРСИЛА
-ЧУДО-ПЛАЩ
-ПЕРЕРАБОТКА
-ОТМЩЕНИЕ
-СЛОМ СТЕН
-ЗЕВОК
-ВЫБИВАНИЕ
-СТАРАНИЕ
-ИЗВЕРЖЕНИЕ
-ОБМЕН ОПЫТОМ
-ЗАКЛЮЧЕНИЕ
-ОБНОВЛЕНИЕ
-ОБИДА
-ПЕРЕХВАТ
-СЕКРЕТ
-НЫРЯНИЕ
-ВЫПАД ЛАДОНИ
-КАМУФЛЯЖ
-СВЕЧЕНИЕ
-ОРЕОЛ
-ШАР ТУМАНА
-ТАНЕЦ ПЕРЬЕВ
-ШАТКИЙ ТАНЕЦ
-ПИНОК ОГНЯ
-ИГРА В ГРЯЗИ
-ШАР ЛЬДА
-КОЛЮЩИЙ УДАР
-ОТЛЫНИВАНИЕ
-ГИПЕР ГОЛОС
-ЯДОВИТЫЙКЛЫК
-СОКРУШКОГОТЬ
-ИСПЕПЕЛЕНИЕ
-ГИДРО ПУШКА
-УДАР-МЕТЕОР
-ИЗУМЛЕНИЕ
-ШАР ПОГОДЫ
-АРОМАТЕРАПИЯ
-ЛОЖНЫЙ ПЛАЧ
-ВОЗД. РЕЗАК
-ПЕРЕГРЕВ
-ОСТРЫЙ НЮХ
-ОБРУШЕНИЕ
-СЕРЕБР.ВЕТЕР
-ЗВУК МЕТАЛЛА
-ШЕЛЕСТ ТРАВЫ
-ЩЕКОТКА
-СИЛА КОСМОСА
-СТОЛБ ВОДЫ
-ЛУЧ-СИГНАЛ
-ТЕНЕВОЙ УДАР
-ЭКСТРАСЕНС
-АППЕРКОТНЕБА
-ПОГРЕБЕНИЕ
-ЛЮТЫЙ ХОЛОД
-ГРЯЗНАЯ ВОДА
-СЕМЕНА-ПУЛИ
-ВОЗДУШНЫЙ АС
-КОПЬЕ ЛЬДА
-СТЕНА ЖЕЛЕЗА
-БЛОК
-ВОЙ
-ДРАКОНКОГОТЬ
-ГНЕВРАСТЕНИЙ
-ПРОКАЧКА
-ОТСКОК
-СНАРЯД ГРЯЗИ
-ХВОСТ-ОТРАВА
-ЗАВИСТЬ
-ВОЛЬТ-ТОЛЧОК
-ЧУДО-ЛИСТ
-ИГРА В ВОДЕ
-ЯСНЫЙ РАЗУМ
-КЛИНОК-ЛИСТ
-ТАНЕЦДРАКОНА
-ВЗРЫВ СКАЛЫ
-ШОК-ВОЛНА
-ВОДНЫЙ ПУЛЬС
-МЕЧТА ГИБЕЛИ
-ПСИХОВЗРЫВ
-НАСЕСТ
-ГРАВИТАЦИЯ
-ГЛАЗ МИРАЖА
-ПРОБУЖДЕНИЕ
-РУКА-МОЛОТ
-ГИРОБОЛЛ
-ЖЕРТВА БЛАГА
-МОРСКАЯ ВОДА
-ДАР ПРИРОДЫ
-ФИНТ
-ЩИПОК
-ПО ВЕТРУ
-ТОЧЕЧН.ПРИЕМ
-МЕТАЛ-ВЗРЫВ
-РАЗВОРОТ
-БЛИЖНИЙ БОЙ
-ВОЗМЕЗДИЕ
-УВЕРЕННОСТЬ
-ЭМБАРГО
-МЕТАНИЕ
-ПСИХО-СДВИГ
-КОЗЫРЬ
-БЛОК ЛЕЧЕНИЯ
-СКРУЧИВАНИЕ
-ТРЮК СИЛЫ
-ЖЕЛЧЬ
-ПЕСНЬ УДАЧИ
-Я ПЕРВЫЙ
-КОПИРОВАНИЕ
-СМЕНА СИЛЫ
-СМЕНА ЗАЩИТЫ
-НАКАЗАНИЕ
-КРАЙНЯЯ МЕРА
-СЕМЯСОМНЕНИЙ
-ОТВЕТНЫЙУДАР
-ТОКСИЧН.ШИПЫ
-СМЕНА СЕРДЕЦ
-АКВА КОЛЬЦО
-МАГН.ПОДЪЕМ
-БЛИЦ-ПЛАМЯ
-ЛАДОНЬ СИЛЫ
-СФЕРА АУРЫ
-ПОЛИРОВКА
-ЗАКАЧКА ЯДА
-ТЕМНЫЙ ПУЛЬС
-ПОРЕЗ НОЧИ
-АКВА ХВОСТ
-БОМБА-СЕМЯ
-ПОРЕЗ ВЕТРА
-ИКС-НОЖНИЦЫ
-ЖУЖЖАНИЕ
-ДРАКОН.ПУЛЬС
-РЫВОКДРАКОНА
-САМОЦВЕТСИЛЫ
-СУШАЩИЙ УДАР
-ВОЛНАВАКУУМА
-ФОКУС. ВЗРЫВ
-ШАР ЭНЕРГИИ
-СМЕЛАЯ ПТИЦА
-СИЛА ЗЕМЛИ
-ТАЙНЫЙ ОБМЕН
-ГИГА ИМПУЛЬС
-КОВАРСТВО
-ПУЛЯ-УДАР
-ЛАВИНА
-ОСКОЛОК ЛЬДА
-КОГОТЬ ТЕНЕЙ
-КЛЫК МОЛНИЙ
-КЛЫК ЛЬДА
-КЛЫК ОГНЯ
-ТЕНЕВОЙ УДАР
-БОМБА ГРЯЗИ
-ПСИХОПОРЕЗ
-ДЗЕН-ГОЛОВА
-БЛЕСК ЗЕРКАЛ
-ПУШКА ЛУЧЕЙ
-СКАЛОЛАЗАНИЕ
-РАССЕИВАНИЕ
-МИРАЖ
-ДРАКО МЕТЕОР
-РАЗРЯД
-ВЫПЛЕСК ЛАВЫ
-ШТОРМЛИСТЬЕВ
-ХЛЫСТ СИЛЫ
-КАМНЕПУШКА
-ЯД-НАКРЕСТ
-ВЫСТРЕЛ ЯДОМ
-ЖЕЛЕЗНЫЙ ЛОБ
-БОМБА-МАГНИТ
-ОСТРЫЙКАМЕНЬ
-СОБЛАЗНЕНИЕ
-КАМНИЛОВУШКИ
-УЗЕЛ ТРАВЫ
-БОЛТОВНЯ
-СТРАШНЫЙ СУД
-УКУС ЖУКА
-ЛАЗЕР
-КИЯНКА
-АКВА ПОТОК
-АТАКА РОЕМ
-ЗАЩИТА РОЯ
-ЛЕЧЕНИЕ РОЯ
-ТАРАН ЛБОМ
-ДВА УДАРА
-РЕВ ВРЕМЕНИ
-РАЗЛОМ МИРОВ
-ЛУННЫЙ ТАНЕЦ
-СОКРУШЕНИЕ
-ШТОРМ МАГМЫ
-ЧЕРНАЯ ДЫРА
-ВСПЫШКАСЕМЯН
-ВЕТЕР ЗЛА
-МОЩЬ ТЕНЕЙ
+HASQFZINA
+TEAQ KAQASF
+ECOJNOJ TEAQ
+TEAQ KOMFSÁ
+MFDA TEAQ
+POLTXKA
+TEAQ ODNÅ
+TEAQ LÂEA
+TEAQ DQOMA
+WAQAPANIF
+SIRKI
+DILÂOSINA
+QFGTZIJCFSFQ
+SANFW MFXFJ
+QAHQFH
+POQÁC CFSQA
+ASAKA KQÁLOM
+CIVQÂ
+POLFS
+RCÅHÁCANIF
+VLOPOK
+KNTS LOHÁ
+SOPOS
+ECOJNOJPINOK
+MFDA PINOK
+TEAQ PQÁGKOM
+KASÅZIJ TEAQ
+ASAKA PFRKOM
+TEAQ DOLOCOJ
+ASAKA QODOM
+ASAKA ÅQORSI
+QOD-RCFQLO
+SOLXOK
+TEAQ SFLOM
+OBFQSÁCANIF
+RYIBANIF
+IHBIFNIF
+OBOÄENÁJQIRK
+CILÅNIF
+ÅEOCISOFGALO
+ECOJNAÅ IDLA
+RNAQÅEÁ-IDLÁ
+HLOJ CHDLÅE
+TKTR
+QÁXANIF
+QFC
+PFNIF
+TLÂSQAHCTK
+COLNA HCTKA
+OSKLÄXFNIF
+KIRLOSA
+TDOLFK
+ODNFMFS
+STMAN
+COEOMFS
+DIEQONAROR
+RFQUIND
+LTX LÂEA
+MFSFLÂ
+PRI-LTX
+LTX PTHÁQFJ
+LTX RIÅNIÅ
+DIPFQ LTX
+KLFCOK
+KLÄC-RCFQLO
+POEXINFNIF
+POERFXKA
+KONSQASAKA
+RFJRMOBQOROK
+RILA
+PODLOZFNIF
+MFDAPOEPISKA
+HFQNA-PIÅCKI
+QORS
+BQISCOLIRS
+LTX ROLNWA
+ÅEOCISAÅPÁLÂ
+YOK-RPOQÁ
+RONNAÅ PÁLÂ
+QOJLFPFRSKOC
+RNAQÅE-NISÂ
+DNFC EQAKONA
+CIVQÂ ODNÅ
+TEAQ DQOMA
+TEAQ MOLNII
+COLNA DQOMA
+DQOM
+BQOROK KAMNÅ
+HFMLFSQÅR.
+QARKOL
+POEKOP
+SOKRIXNORSÂ
+PTSANIWA
+PRIVO-ASAKA
+DIPNOH
+MFEISAWIÅ
+LOCKORSÂ
+BÁRSQÁJ TEAQ
+ÅQORSÂ
+SFLFPOQS
+SFNÂ NOXI
+POEQAGANIF
+CIHD
+QAHECOFNIF
+IHLFXFNIF
+OSCFQEFCANIF
+MINIMIHAWIÅ
+HACFRA EÁMA
+LTX PTSANIWÁ
+CSÅDICANIF
+DQTPPIQOCKA
+BAQÂFQ
+ODQAEA RCFSA
+MDLA
+OSQAGFNIF
+UOKTRIQOCKA
+CÁGIEANIF
+MFSQONOM
+MIMIKQIÅ
+RAMOPOEQÁC
+BOMBA-ÅJWO
+LIHANIF
+RMOD
+RLIHÂ
+TEAQ KORSÂÄ
+CHQÁC ODNÅ
+COEOPAE
+HAGIM
+HCFHEOPAE
+TEAQ XFQFPOM
+HALP YIPAMI
+RGIMANIF
+AMNFHIÅ
+KINFHIR
+CRMÅSKT
+PINOK R LFST
+DNFCNÁJ CIE
+POFEANIFRNOC
+ÅEOCISÁJ DAH
+DQAE TEAQOC
+CAMPIQIHM
+POWFLTJ RNA
+ASAKA R NFBA
+PQFCQAZFNIF
+PTHÁQI
+PTSAÄZIJTEAQ
+RPOQÁ
+CRPÁYKA
+PRI-COLNA
+CRPLFRK
+GIEKAÅ BQONÅ
+KQABOMOLOS
+CHQÁC
+KODSI ÅQORSI
+KORSMFQAND
+OSEÁV
+KAMNFPAE
+DIPFQ KLÁK
+HASOXKA
+KONCFQRIÅ
+SQI-ASAKA
+RTPFQ KLÁK
+POQFH
+POEMFNA
+NAEQÁC
+ÃRKIH
+SQOJNOJPINOK
+COQOCRSCO
+PATSINA
+XSFNIF MÁRLI
+KOYMAQ
+KOLFRO ODNÅ
+VQAP
+PQOKLÅSIF
+BOJ NA GIHNÂ
+KONCFQRIÅ 2
+AÃQOCHQÁC
+RPOQÁ VLOPKA
+CORPQÅSIF
+HLOBA
+QÁVLÁJ RNFD
+HAZISA
+RKOQÁJ TEAQ
+GTSKIJ CIE
+TEAQ CSIVTÄ
+POWFLTJMFXSÁ
+DOND GICOS
+BOMBA RLIHI
+YLFPOK DQÅHI
+OKSAHTKA
+YIPÁ
+IRKQOPTYKA
+PQFERKAHANIF
+RCÅHÂ RTEÂBÁ
+PFRNÂ DIBFLI
+RSÁLÁJ CFSFQ
+OBNAQTGFNIF
+KORSOLOM
+NACFEFNIF
+BFYFNRSCO
+PFRXANAÅBTQÅ
+DIDAPOEPISKA
+SFQPFNIF
+OXAQOCANIF
+QARKASÁCANIF
+LOGNÁJ TEAQ
+KTQAG
+DLOSOKMOLOKA
+IRKQA
+QARRFXFNIF
+KQÁLO RSALI
+HLOBNÁJ CIE
+PQICLFXFNIF
+LTNASIHM
+LFXAZIJ HCON
+PQFEANNORSÂ
+POEAQOK
+NFNACIRSÂ
+BFHOPARNORSÂ
+OBZAÅ BOLÂ
+RCÅSOJ ODONÂ
+MADNISTEA
+TEAQEINAMIKI
+MFDAQOD
+CÁEOVEQAKONA
+ÃRSAUFSA
+NA BIR
+PODONÅ
+QARKQTSKA
+RLAEKIJHAPAV
+VCORS-RSALÂ
+MFSALKODOSÂ
+KONSQBQOROK
+QARRCFS
+RINSFH
+LTNNÁJ RCFS
+RKQÁSAÅ RILA
+KQORR TEAQ
+RMFQX
+SANFW EOGEÅ
+ENFCNOJ RCFS
+VQTRS
+PLAZ HFQKALO
+MOSICAWIÅ
+MFDARKOQORSÂ
+EQFCNÅÅ RILA
+SFNFCOJ YAQ
+PQFECIEFNIF
+QARKOL KAMNÅ
+COEOCOQOS
+TEAQÁ RSAI
+CNFHAPNORSÂ
+YTM
+HAPARANIF
+CÁPLFRK
+DLOSANIF
+COLNA GAQÁ
+DQAE
+MTXFNIF
+LFRSÂ
+ODONÂPQIHQAK
+MFMFNSO MOQI
+MTGFRSCO
+COLFCOJ TEAQ
+NAYASÁQÂ
+HA MNOJ
+RILA PQIQOEÁ
+HAQÅEKA
+PQOCOKAWIÅ
+QTKA POMOZI
+SQÄK
+QOLFCAÅ IDQA
+GFLANIF
+POEEFQGKA
+PQOQARSANIF
+RTPFQRILA
+XTEO-PLAZ
+PFQFQABOSKA
+OSMZFNIF
+RLOM RSFN
+HFCOK
+CÁBICANIF
+RSAQANIF
+IHCFQGFNIF
+OBMFN OPÁSOM
+HAKLÄXFNIF
+OBNOCLFNIF
+OBIEA
+PFQFVCAS
+RFKQFS
+NÁQÅNIF
+CÁPAE LAEONI
+KAMTULÅG
+RCFXFNIF
+OQFOL
+YAQ STMANA
+SANFW PFQÂFC
+YASKIJ SANFW
+PINOK ODNÅ
+IDQA C DQÅHI
+YAQ LÂEA
+KOLÄZIJ TEAQ
+OSLÁNICANIF
+DIPFQ DOLOR
+ÅEOCISÁJKLÁK
+ROKQTYKODOSÂ
+IRPFPFLFNIF
+DIEQO PTYKA
+TEAQ-MFSFOQ
+IHTMLFNIF
+YAQ PODOEÁ
+AQOMASFQAPIÅ
+LOGNÁJ PLAX
+COHE. QFHAK
+PFQFDQFC
+ORSQÁJ NÄV
+OBQTYFNIF
+RFQFBQ.CFSFQ
+HCTK MFSALLA
+YFLFRS SQACÁ
+ZFKOSKA
+RILA KORMORA
+RSOLB COEÁ
+LTX-RIDNAL
+SFNFCOJ TEAQ
+ÃKRSQARFNR.
+APPFQKOSNFBA
+PODQFBFNIF
+LÄSÁJ VOLOE
+DQÅHNAÅ COEA
+RFMFNA-PTLI
+COHETYNÁJ AR
+KOPÂF LÂEA
+RSFNA GFLFHA
+BLOK
+COJ
+EQAKONKODOSÂ
+DNFCQARSFNIJ
+PQOKAXKA
+OSRKOK
+RNAQÅE DQÅHI
+VCORS-OSQACA
+HACIRSÂ
+COLÂS-SOLXOK
+XTEO-LIRS
+IDQA C COEF
+ÅRNÁJ QAHTM
+KLINOK-LIRS
+SANFWEQAKONA
+CHQÁC RKALÁ
+YOK-COLNA
+COENÁJ PTLÂR
+MFXSA DIBFLI
+PRIVOCHQÁC
+NARFRS
+DQACISAWIÅ
+DLAH MIQAGA
+PQOBTGEFNIF
+QTKA-MOLOS
+DIQOBOLL
+GFQSCA BLADA
+MOQRKAÅ COEA
+EAQ PQIQOEÁ
+UINS
+ZIPOK
+PO CFSQT
+SOXFXN.PQIFM
+MFSAL-CHQÁC
+QAHCOQOS
+BLIGNIJ BOJ
+COHMFHEIF
+TCFQFNNORSÂ
+ÃMBAQDO
+MFSANIF
+PRIVO-RECID
+KOHÁQÂ
+BLOK LFXFNIÅ
+RKQTXICANIF
+SQÄK RILÁ
+GFLXÂ
+PFRNÂ TEAXI
+Å PFQCÁJ
+KOPIQOCANIF
+RMFNA RILÁ
+RMFNA HAZISÁ
+NAKAHANIF
+KQAJNÅÅ MFQA
+RFMÅROMNFNIJ
+OSCFSNÁJTEAQ
+SOKRIXN.YIPÁ
+RMFNA RFQEFW
+AKCA KOLÂWO
+MADN.POEÀFM
+BLIW-PLAMÅ
+LAEONÂ RILÁ
+RUFQA ATQÁ
+POLIQOCKA
+HAKAXKA ÅEA
+SFMNÁJ PTLÂR
+POQFH NOXI
+AKCA VCORS
+BOMBA-RFMÅ
+POQFH CFSQA
+IKR-NOGNIWÁ
+GTGGANIF
+EQAKON.PTLÂR
+QÁCOKEQAKONA
+RAMOWCFSRILÁ
+RTYAZIJ TEAQ
+COLNACAKTTMA
+UOKTR. CHQÁC
+YAQ ÃNFQDII
+RMFLAÅ PSIWA
+RILA HFMLI
+SAJNÁJ OBMFN
+DIDA IMPTLÂR
+KOCAQRSCO
+PTLÅ-TEAQ
+LACINA
+ORKOLOK LÂEA
+KODOSÂ SFNFJ
+KLÁK MOLNIJ
+KLÁK LÂEA
+KLÁK ODNÅ
+SFNFCOJ TEAQ
+BOMBA DQÅHI
+PRIVOPOQFH
+EHFN-DOLOCA
+BLFRK HFQKAL
+PTYKA LTXFJ
+RKALOLAHANIF
+QARRFICANIF
+MIQAG
+EQAKO MFSFOQ
+QAHQÅE
+CÁPLFRK LACÁ
+YSOQMLIRSÂFC
+VLÁRS RILÁ
+KAMNFPTYKA
+ÅE-NAKQFRS
+CÁRSQFL ÅEOM
+GFLFHNÁJ LOB
+BOMBA-MADNIS
+ORSQÁJKAMFNÂ
+ROBLAHNFNIF
+KAMNILOCTYKI
+THFL SQACÁ
+BOLSOCNÅ
+RSQAYNÁJ RTE
+TKTR GTKA
+LAHFQ
+KIÅNKA
+AKCA POSOK
+ASAKA QOFM
+HAZISA QOÅ
+LFXFNIF QOÅ
+SAQAN LBOM
+ECA TEAQA
+QFC CQFMFNI
+QAHLOM MIQOC
+LTNNÁJ SANFW
+ROKQTYFNIF
+YSOQM MADMÁ
+XFQNAÅ EÁQA
+CRPÁYKARFMÅN
+CFSFQ HLA
+MOZÂ SFNFJ

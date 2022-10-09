@@ -1,0 +1,910 @@
+\v0303ぁ\x0000\x0000\r
+\v0303ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0304ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0304ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0303ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0303ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0305ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0305ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0303ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0303ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0307ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0307ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0303ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0303ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0306ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0306ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0303ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0303ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0308ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0308ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0303ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0304ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0305ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0305ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0304ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0304ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0307ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0307ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0304ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0304ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0306ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0306ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0304ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0304ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0308ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0308ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0304ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0305ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0307ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0307ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0305ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0305ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0306ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0306ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0305ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0305ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0308ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0308ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0305ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0307ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0306ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0306ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0307ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0307ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0308ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0308ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0307ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0306ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0308ぁ\x0001\x0000\vFF00\x0001\x0000\r
+\v0308ぁ\x0000\x0000\n\vFF00\x0001ぁ\v0306ぁ\x0001\x0000\vFF00\x0001\x0000\r
+Pqicfs!\r
+\v0304ぁ\x0000\x0000\r
+\v0305ぁ\x0000\x0000\r
+\v0307ぁ\x0000\x0000\r
+\v0306ぁ\x0000\x0000\r
+\v0308ぁ\x0000\x0000\r
+...Tv sá, sá sam idqafyâ c sakof\ncqfmå?\rSá ktea so robiqafyârå porlf ãsodo?\r
+...Tv sá, sá sam idqafyâ c sakof\ncqfmå?\rMogfs, sá voxfyâ rpasâ?\r
+...Tv sá, sá sam idqafyâ c sakof\ncqfmå?\rMogfs, sfbf tgf naeo rpasâ?\r
+\v0103ぁ\x0000\x0000:\nPqicfs! Qaeorsno ciefsâ sfbå.\r
+\v0103ぁ\x0000\x0000:\nPqicfs, \v0103ぁ\x0001\x0000!\fQaeorsno sfbå rnoca ciefsâ!\r
+...Kagfsrå, ãsos Sqfnfq hanås.\r
+\v0103ぁ\x0000\x0000:\nFzf tcieimrå!\r
+\v0103ぁ\x0000\x0000:\nFzf kof-xso...\r
+Pqorsi! Xso-so pqoihoylo!\nÅ nf modt docoqisâ!\r
+\v0103ぁ\x0000\x0000:\nEa? Xso sakof?\r
+\v0103ぁ\x0000\x0000:\nPqicfs, frsâ mintska?\r
+                                   
+\v0103ぁ\x0000\x0000:\nNixfdo.\fNf ntgno oscfxasâ, frli nf voxfyâ.\r
+\v0103ぁ\x0000\x0000:\nPonåsno...\r
+\v0103ぁ\x0000\x0000:\nSak gf, kak i å!\fÃso hamfxasflâno!\r
+\v0103ぁ\x0000\x0000:\nRparibo ha oscfs!\r
+\v0103ぁ\x0000\x0000:\nI ealâyf...\r
+\v0103ぁ\x0000\x0000:\nXso-nibteâ fzf?\r
+\v0103ぁ\x0000\x0000:\nKakoj scoj läbimáj wcfs?\r
+\v0103ぁ\x0000\x0000:\nKakif Pokfmoná sfbf nqacåsrå?\r
+\v0103ぁ\x0000\x0000:\nKakaå rfjxar podoea?\r
+\v0103ぁ\x0000\x0000:\nXso sá eflal(a) eo qahdocoqa\fro mnoj?\r
+\v0103ぁ\x0000\x0000:\nKakif t sfbå planá na hacsqa?\r
+\v0103ぁ\x0000\x0000:\nKtea sá obáxno läbiyâ voeisâ na\fpfqfqácav?\r
+\v0103ぁ\x0000\x0000:\nNa kodo sá povog(a)?\r
+\v0103ぁ\x0000\x0000:\nXso sá bolâyf crfdo voxfyâ?\r
+\v0103ぁ\x0000\x0000:\nR xfm t sfbå cohnikaäs sqtenorsi?\r
+\v0103ぁ\x0000\x0000:\nKtea sá voxfyâ pojsi poidqasâ?\r
+\v0103ぁ\x0000\x0000:\nC kaktä Idqt Plahá t sfbå voqoyo\fpoltxafsrå idqasâ?\r
+\v0103ぁ\x0000\x0000:\nXso qarpqorsqanfno c scofm\fokqtgfnii?\r
+\v0103ぁ\x0000\x0000:\nXso sá mogfyâ eflasâ ltxyf crfdo?\r
+\v0103ぁ\x0000\x0000:\nOs xfdo sá nf oskagfyârå?\r
+\v0103ぁ\x0000\x0000:\nXfm sá csajnf tclfkafyârå?\r
+\v0103ぁ\x0000\x0000:\nXfm sá btefyâ ealâyf hanimasârå?\r
+\v0103ぁ\x0000\x0000:\nXso frsâ qåeom r scoim eomom?\r
+\v0103ぁ\x0000\x0000:\nXfm sá hanimafyârå r eqthâåmi?\r
+\v0103ぁ\x0000\x0000:\nKso cagfn elå sfbå?\r
+\v0103ぁ\x0000\x0000:\nKak sfbå opirácaäs läei?\r
+\v0103ぁ\x0000\x0000:\nKodea sá po narsoåzfmt oztzafyâ\frxarsâf?\r
+\v0103ぁ\x0000\x0000:\nXso sfbå bfrpokois?\r
+\v0103ぁ\x0000\x0000:\nNae xfm sá sqteiyârå?\r
+\v0103ぁ\x0000\x0000:\nC kakom cief rpoqsa sá\fpqftrpfcafyâ?\r
+\v0103ぁ\x0000\x0000:\nKfm sá mfxsafyâ qabosasâ?\r
+\v0103ぁ\x0000\x0000:\nXso sakodo orobfnnodo c mfrsf, def\fsá gicfyâ?\r
+\v0103ぁ\x0000\x0000:\nKakoj c scofj mfrsnorsi klimas?\r
+\v0103ぁ\x0000\x0000:\nXso sá rfjxar rláyiyâ?\r
+\v0103ぁ\x0000\x0000:\nKakoj hapav sá rfjxar xtfyâ?\r
+\v0103ぁ\x0000\x0000:\nXso sfbå insfqfrtfs bolâyf crfdo?\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nRfjxar... Hefrâ...\r
+\v0103ぁ\x0000\x0000:\nRfjxar... Hefrâ...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nRfjxar... Hefrâ...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nRfjxar... Hefrâ...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+\v0103ぁ\x0000\x0000:\nRfjxar... Hefrâ...\r
+\v0103ぁ\x0000\x0000:\nRfjxar... Hefrâ...\r
+\v0103ぁ\x0000\x0000:\nRfjxar... Hefrâ...\r
+\v0103ぁ\x0000\x0000:\nRfjxar... Hefrâ...\r
+\v0103ぁ\x0000\x0000:\nNt, kak po mnf...\r
+Kqarnáj
+Rinij
+Gflsáj
+Hflfnáj
+Rilânáf
+Miláf
+Kqaricáf
+Rsqannocasáf
+Rolnfxnaå
+Oblaxnaå
+Eogelicaå
+Rnfgnaå
+Rpal(a)
+Dtlål(a)
+Qabosal(a)
+Ktyal(a)
+Planoc nfs
+Hanås(a)
+Oseovnt
+Ãso rfkqfs
+C sfplof mfrso
+C voloenof mfrso
+C ytmnof mfrso
+C sivof mfrso
+Rsaqyij bqas
+Rsaqyaå rfrsqa
+Eåeå
+Sfså
+Cqfmfni
+Efnfd
+Eqthfj
+Pofrsâ
+Ro ykoloj
+C rpoqsf
+R qannim poeàfmom
+R tboqkoj
+C paqk
+C soqdocáj wfnsq
+C paqk oseáva
+C sfasq
+RCALOS-Pläv
+MAJM ML.-Cfqv
+COBBAUUFS-Vlop
+Nf idqal(a)
+SC i mtháka
+Idqá i efcajrá
+Ykola i rpoqs
+Moea i qomansika
+Uihktlâstqt
+Etmasâ
+Cáeflåsârå
+Hacoeisâ eqthfj
+Os xsfniå
+Os mtháki
+Os trsqojrsc
+Os poheniv rnoc
+Moeoj
+Eihajn tbqanrsca
+Ihárkannoj feoj
+Gihnâä
+Idqoj Plahá
+Idqa c Ospfxasok
+Pqouili Dorsfj
+Nocorsi Plahá
+Xfj-so eom
+Madahinxiki
+Bolâyoj hacoe
+Pqiqoea
+Rpoqsom
+Idqami
+Bolsocnfj
+Yoppindom
+Rfmâå
+Eqthâå
+Solâko å
+Ãso rfkqfs
+Cfrfláj(aå)
+Habacnáj(aå)
+Eobqáj(aå)
+Sivij(aå)
+Kodea idqaä
+Kodea sqtgtrâ
+Kodea rplä
+Kodea ktyaä
+Eovoeá
+Ykola
+Moå uoqma
+Eqthâå
+Ykola
+Eifsa
+Osnoyfniå
+Sqfniqocka
+C komanenom
+C bfdf
+C placanii
+C sanwav
+Pqo-aslfsom
+Ihobqfsasflfm
+Kompohisoqom
+Komikom
+Teobnof mfrso
+Polno pqiqoeá
+Oxfnâ sivof
+Qfekif robásiå
+Gaqkij
+Sfpláj
+Voloenáj
+Pqovlaenáj
+Dolora
+Mthákt
+SC
+Nixfdo
+Fet
+Läefj
+Podoet
+Nfpqiåsnáj
+Nocáf idqtyki
+Moenaå oefgea
+Podoea na hacsqa
+Pop-hcfheá
+Pqfqcasâ obzfnif
+\v0103ぁ\x0000\x0000:\nMnf nqacisrå kqarnáj wcfs.\r
+\v0103ぁ\x0000\x0000:\nMnf nqacisrå rinij wcfs.\r
+\v0103ぁ\x0000\x0000:\nMnf nqacisrå gflsáj wcfs.\r
+\v0103ぁ\x0000\x0000:\nMnf nqacisrå hflfnáj wcfs.\r
+\v0103ぁ\x0000\x0000:\nMnf nqacåsrå rilânáf Pokfmoná.\r
+\v0103ぁ\x0000\x0000:\nMnf nqacåsrå miláf Pokfmoná.\r
+\v0103ぁ\x0000\x0000:\nMnf nqacåsrå kqaricáf Pokfmoná.\r
+\v0103ぁ\x0000\x0000:\nMnf nqacåsrå rsqannáf Pokfmoná.\r
+\v0103ぁ\x0000\x0000:\nRfjxar rolnfxnaå podoea.\r
+\v0103ぁ\x0000\x0000:\nRfjxar oblaxnaå podoea.\r
+\v0103ぁ\x0000\x0000:\nRfjxar eogelicaå podoea.\r
+\v0103ぁ\x0000\x0000:\nRfjxar iefs rnfd.\r
+\v0103ぁ\x0000\x0000:\nÃm... Rpal.\r
+\v0103ぁ\x0000\x0000:\nÃm... Pqodtlicalrå.\r
+\v0103ぁ\x0000\x0000:\nÃm... Qabosal.\r
+\v0103ぁ\x0000\x0000:\nÃm... Ktyal.\r
+\v0103ぁ\x0000\x0000:\nT mfnå nfs planoc na hacsqa.\r
+\v0103ぁ\x0000\x0000:\nÅ btet qabosasâ cfrâ efnâ.\r
+\v0103ぁ\x0000\x0000:\nÅ btet oseávasâ.\r
+\v0103ぁ\x0000\x0000:\nÃso rfkqfs.\r
+\v0103ぁ\x0000\x0000:\nLäblä voeisâ c sfpláf mfrsa.\r
+\v0103ぁ\x0000\x0000:\nLäblä voeisâ c voloenáf mfrsa.\r
+\v0103ぁ\x0000\x0000:\nLäblä voeisâ c mfrsa, def mnodo\fläefj.\r
+\v0103ぁ\x0000\x0000:\nLäblä voeisâ c mfrsa, def nfs läefj.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, å cádlågt kak moj rsaqyij\fbqas.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, å cádlågt kak moå rsaqyaå\frfrsqa.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, å cádlågt kak moj eåeå.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, å cádlågt kak moå sfså.\r
+\v0103ぁ\x0000\x0000:\nBolâyf crfdo voxt cqfmfni.\r
+\v0103ぁ\x0000\x0000:\nBolâyf crfdo voxt efnfd.\r
+\v0103ぁ\x0000\x0000:\nBolâyf crfdo voxt eqthfj.\r
+\v0103ぁ\x0000\x0000:\nBolâyf crfdo voxt pofrsâ.\r
+\v0103ぁ\x0000\x0000:\nNt... Etmaä, ro ykoloj...\r
+\v0103ぁ\x0000\x0000:\nNt... Etmaä, c rpoqsf...\r
+\v0103ぁ\x0000\x0000:\nNt... Etmaä, r qannimi poeàfmami...\r
+\v0103ぁ\x0000\x0000:\nNt... Etmaä, r tboqkoj...\r
+\v0103ぁ\x0000\x0000:\nÅ voxt pojsi c paqk.\r
+\v0103ぁ\x0000\x0000:\nÅ voxt pojsi c soqdocáj wfnsq.\r
+\v0103ぁ\x0000\x0000:\nÅ voxt pojsi c paqk oseáva.\r
+\v0103ぁ\x0000\x0000:\nÅ voxt pojsi c sfasq.\r
+\v0103ぁ\x0000\x0000:\nC RCALOS-Pläv.\r
+\v0103ぁ\x0000\x0000:\nC MAJM ML.-Cfqv.\r
+\v0103ぁ\x0000\x0000:\nC COBBAUUFS-Vlop.\r
+\v0103ぁ\x0000\x0000:\nNf idqaä c ãsi idqá.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, xso SC i mtháka.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, xso idqá i efcajrá.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, xso ykola i rpoqs.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, xso moea i qomansika.\r
+\v0103ぁ\x0000\x0000:\nHanimasârå uihktlâstqoj.\r
+\v0103ぁ\x0000\x0000:\nEtmasâ i qahmáylåsâ.\r
+\v0103ぁ\x0000\x0000:\nÅ voqoyo cáeflåärâ.\r
+\v0103ぁ\x0000\x0000:\nTmfä hacoeisâ eqthfj.\r
+\v0103ぁ\x0000\x0000:\nNf oskagtrâ os xsfniå knid.\r
+\v0103ぁ\x0000\x0000:\nNf oskagtrâ os mtháki.\r
+\v0103ぁ\x0000\x0000:\nNf oskagtrâ os trsqojrsc.\r
+\v0103ぁ\x0000\x0000:\nNf oskagtrâ os poheniv rnoc.\r
+\v0103ぁ\x0000\x0000:\nKonfxno gf, moeoj!\r
+\v0103ぁ\x0000\x0000:\nKonfxno gf, eihajnom tbqanrsc!\r
+\v0103ぁ\x0000\x0000:\nKonfxno gf, ihárkannoj feoj!\r
+\v0103ぁ\x0000\x0000:\nKonfxno gf, gihnâä!\r
+\v0103ぁ\x0000\x0000:\nEtmaä, poidqaä c Idqt Plahá.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, reflaä ospfxasok.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, hadlånt c Pqouili Dorsfj.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, pqormosqä Nocorsi Plahá.\r
+\v0103ぁ\x0000\x0000:\nÅ cigt xfj-so eom.\r
+\v0103ぁ\x0000\x0000:\nÅ cigt qahnáf madahinxiki.\r
+\v0103ぁ\x0000\x0000:\nÅ cigt bolâyoj hacoe.\r
+\v0103ぁ\x0000\x0000:\nCokqtd mfnå mnodo pqiqoeá.\r
+\v0103ぁ\x0000\x0000:\nVmm... Rkagt, xso rpoqsom.\r
+\v0103ぁ\x0000\x0000:\nVmm... Rkagt, xso idqaä.\r
+\v0103ぁ\x0000\x0000:\nVmm... Rkagt, xso bolsaä.\r
+\v0103ぁ\x0000\x0000:\nVmm... Rkagt, xso vogt po madahinam.\r
+\v0103ぁ\x0000\x0000:\nÅ etmaä, xso rfmâå.\r
+\v0103ぁ\x0000\x0000:\nÅ etmaä, xso eqthâå.\r
+\v0103ぁ\x0000\x0000:\nÅ etmaä, xso solâko å, konfxno gf.\r
+\v0103ぁ\x0000\x0000:\nÅ etmaä, xso orsaclä ãso c rfkqfsf.\r
+\v0103ぁ\x0000\x0000:\nVmm... Nacfqnof, oni rxisaäs mfnå\fcfrflám xflocfkom?\r
+\v0103ぁ\x0000\x0000:\nVmm... Nacfqnof, oni rxisaäs mfnå\fhabacnám xflocfkom?\r
+\v0103ぁ\x0000\x0000:\nVmm... Nacfqnof, oni rxisaäs mfnå\feobqám xflocfkom?\r
+\v0103ぁ\x0000\x0000:\nVmm... Nacfqnof, oni rxisaäs mfnå\fsivim xflocfkom?\r
+\v0103ぁ\x0000\x0000:\nÅ oztzaä rxarsâf co cqfmå idqá!\r
+\v0103ぁ\x0000\x0000:\nÅ oztzaä rxarsâf co cqfmå sqtea!\r
+\v0103ぁ\x0000\x0000:\nÅ oztzaä rxarsâf kodea rplä.\r
+\v0103ぁ\x0000\x0000:\nÅ oztzaä rxarsâf kodea å ktyaä!\r
+\v0103ぁ\x0000\x0000:\nMfnå bfrpokoås moi eovoeá.\r
+\v0103ぁ\x0000\x0000:\nMfnå bfrpokois ykola.\r
+\v0103ぁ\x0000\x0000:\nMfnå bfrpokois moå uoqma.\r
+\v0103ぁ\x0000\x0000:\nMfnå bfrpokoås moi eqthâå.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, xso ykolânámi eflami.\r
+\v0103ぁ\x0000\x0000:\nEtmaä, xso eifsoj.\r
+\v0103ぁ\x0000\x0000:\nMogfs básâ, nae osnoyfniåmi?\r
+\v0103ぁ\x0000\x0000:\nEtmaä, xso sqfniqockami.\r
+\v0103ぁ\x0000\x0000:\nC läbom komanenom cief rpoqsa!\r
+\v0103ぁ\x0000\x0000:\nC bfdf, opqfeflfnno!\r
+\v0103ぁ\x0000\x0000:\nC placanii, opqfeflfnno!\r
+\v0103ぁ\x0000\x0000:\nC sanwav, opqfeflfnno!\r
+\v0103ぁ\x0000\x0000:\nPqoufrrionalânám aslfsom.\r
+\v0103ぁ\x0000\x0000:\nIhobqfsasflfm.\r
+\v0103ぁ\x0000\x0000:\nKompohisoqom.\r
+\v0103ぁ\x0000\x0000:\nKomikom.\r
+\v0103ぁ\x0000\x0000:\nÃso oxfnâ teobnof mfrso.\r
+\v0103ぁ\x0000\x0000:\nHefrâ kqtdom pqiqoea.\r
+\v0103ぁ\x0000\x0000:\nHefrâ oxfnâ sivo.\r
+\v0103ぁ\x0000\x0000:\nHefrâ pqoirvoeås cråkif qfekif\frobásiå.\r
+\v0103ぁ\x0000\x0000:\nT nar gaqkij klimas.\r
+\v0103ぁ\x0000\x0000:\nT nar sfpláj klimas.\r
+\v0103ぁ\x0000\x0000:\nT nar voloenáj klimas.\r
+\v0103ぁ\x0000\x0000:\nT nar pqovlaenáj klimas.\r
+\v0103ぁ\x0000\x0000:\nÅ rláyt dolora läefj.\r
+\v0103ぁ\x0000\x0000:\nÅ rláyt, kak idqafs mtháka.\r
+\v0103ぁ\x0000\x0000:\nÅ rláyt hctki SC.\r
+\v0103ぁ\x0000\x0000:\nHefrâ oxfnâ sivo.\r
+\v0103ぁ\x0000\x0000:\nVmm... Xtä hapav feá.\r
+\v0103ぁ\x0000\x0000:\nVmm... Xtä hapav läefj.\r
+\v0103ぁ\x0000\x0000:\nVmm... Xtä hapav podoeá.\r
+\v0103ぁ\x0000\x0000:\nUtt... Xtä nfpqiåsnáj hapav.\r
+\v0103ぁ\x0000\x0000:\nNocáf idqtyki.\r
+\v0103ぁ\x0000\x0000:\nMoenaå oefgea.\r
+\v0103ぁ\x0000\x0000:\nKakaå btefs podoea hacsqa.\r
+\v0103ぁ\x0000\x0000:\nNocáf pop-hcfheá.\r
+\v0103ぁ\x0000\x0000:\nVmm... Sqteno rkahasâ...\fIhcini, å nf modt oscfsisâ na ãsos\fcopqor.\r
+\v0103ぁ\x0000\x0000:\nO, scoj läbimáj wcfs - kqarnáj.\r
+\v0103ぁ\x0000\x0000:\nO, scoj läbimáj wcfs - rinij.\r
+\v0103ぁ\x0000\x0000:\nO, scoj läbimáj wcfs - gflsáj.\r
+\v0103ぁ\x0000\x0000:\nO, scoj läbimáj wcfs - hflfnáj.\r
+\v0103ぁ\x0000\x0000:\nHnaxis, sfbf nqacåsrå rilânáf\fPokfmoná.\r
+\v0103ぁ\x0000\x0000:\nHnaxis, sfbf nqacåsrå miláf\fPokfmoná.\r
+\v0103ぁ\x0000\x0000:\nHnaxis, sfbf nqacåsrå kqaricáf\fPokfmoná.\r
+\v0103ぁ\x0000\x0000:\nHnaxis, sfbf nqacåsrå rsqannáf\fPokfmoná.\r
+\v0103ぁ\x0000\x0000:\nO, t sfbå rolnfxnaå podoea.\r
+\v0103ぁ\x0000\x0000:\nO, t sfbå oblaxnaå podoea.\r
+\v0103ぁ\x0000\x0000:\nO, t sfbå eogelicaå podoea.\r
+\v0103ぁ\x0000\x0000:\nO, t sfbå iefs rnfd!\r
+\v0103ぁ\x0000\x0000:\nO, sá rpal(a).\r
+\v0103ぁ\x0000\x0000:\nO, sá dtlål(a).\r
+\v0103ぁ\x0000\x0000:\nO, sá qabosal(a).\r
+\v0103ぁ\x0000\x0000:\nO, sá ktyal(a).\r
+\v0103ぁ\x0000\x0000:\nO, t sfbå nfs planoc.\r
+\v0103ぁ\x0000\x0000:\nO, t sfbå frsâ kakif-so hanåsiå.\r
+\v0103ぁ\x0000\x0000:\nO, sá btefyâ oseávasâ.\r
+\v0103ぁ\x0000\x0000:\nO, sá nf rkagfyâ mnf?\r
+\v0103ぁ\x0000\x0000:\nSfplof mfrso...\r
+\v0103ぁ\x0000\x0000:\nVoloenof mfrso...\r
+\v0103ぁ\x0000\x0000:\nMfrso, def mnodo läefj...\r
+\v0103ぁ\x0000\x0000:\nMfrso, def nfs läefj...\r
+\v0103ぁ\x0000\x0000:\nSá napominafyâ rcofdo rsaqyfdo\fbqasa?\r
+\v0103ぁ\x0000\x0000:\nSá napominafyâ rcoä rsaqytä\frfrsqt?\r
+\v0103ぁ\x0000\x0000:\nSá napominafyâ rcofdo eåeä?\r
+\v0103ぁ\x0000\x0000:\nSá napominafyâ rcoä sfsä?\r
+\v0103ぁ\x0000\x0000:\nCqfmfni, ea? Ponåsno...\r
+\v0103ぁ\x0000\x0000:\nEfnfd, ea? Ponåsno...\r
+\v0103ぁ\x0000\x0000:\nEqthfj, ea? Ponåsno...\r
+\v0103ぁ\x0000\x0000:\nPofrsâ, ea? Ponåsno...\r
+\v0103ぁ\x0000\x0000:\nHnaxis, ykola sfbf sqteno eafsrå...\r
+\v0103ぁ\x0000\x0000:\nHnaxis rpoqs sfbf sqteno eafsrå...\r
+\v0103ぁ\x0000\x0000:\nHnaxis, sfbf sqteno qano\fpqorápasârå...\r
+\v0103ぁ\x0000\x0000:\nHnaxis, r tboqkoj t sfbå pqoblfmá...\r
+\v0103ぁ\x0000\x0000:\nO, sak sá läbiyâ idqasâ c paqkf.\r
+\v0103ぁ\x0000\x0000:\nSoqdocáj wfnsq? Sá, nacfqnof,\fläbiyâ voeisâ po madahinam.\r
+\v0103ぁ\x0000\x0000:\nC paqkf oseáva? Nt konfxno!\r
+\v0103ぁ\x0000\x0000:\nSfasq, hctxis insfqfrno!\r
+\v0103ぁ\x0000\x0000:\nO, sá tmffyâ idqasâ c RCALOS-Pläv!\r
+\v0103ぁ\x0000\x0000:\nO, sá tmffyâ idqasâ c MAJM ML.-Cfqv!\r
+\v0103ぁ\x0000\x0000:\nO, sá tmffyâ idqasâ c COBBAUUFS-Vlop!\r
+\v0103ぁ\x0000\x0000:\nO, sá nf idqal(a) c ãsi idqá.\r
+\v0103ぁ\x0000\x0000:\nSC i mtháka! Ponåsno.\r
+\v0103ぁ\x0000\x0000:\nIdqá i efcajrá! Ponåsno.\r
+\v0103ぁ\x0000\x0000:\nYkola i rpoqs! Ponåsno.\r
+\v0103ぁ\x0000\x0000:\nMoea i qomansika! Ponåsno.\r
+\v0103ぁ\x0000\x0000:\nO, sak sá läbiyâ hanimasârå rpoqsom.\fÃso povcalâno.\r
+\v0103ぁ\x0000\x0000:\nO, sak sá läbiyâ poqahmáylåsâ.\fÃso heoqoco.\r
+\v0103ぁ\x0000\x0000:\nSfbf nqacisrå cáeflåsârå?\fLäbiyâ pqiclfxâ cnimanif.\r
+\v0103ぁ\x0000\x0000:\nSá tmffyâ hacoeisâ eqthfj?\fÃso heoqoco.\r
+\v0103ぁ\x0000\x0000:\nSá ni ha xso nf oskagfyârå os\fxsfniå!\r
+\v0103ぁ\x0000\x0000:\nSá ni ha xso nf oskagfyârå os\fmtháki!\r
+\v0103ぁ\x0000\x0000:\nSá ni ha xso nf oskagfyârå os\frcoiv trsqojrsc!\r
+\v0103ぁ\x0000\x0000:\nSá ni ha xso nf oskagfyârå os\fsodo, xsobá poheno lfxâ rpasâ!\r
+\v0103ぁ\x0000\x0000:\nO, sak sá tclfkafyârå moeoj.\r
+\v0103ぁ\x0000\x0000:\nO, sak sá tkqayafyâ tbqanrsco.\r
+\v0103ぁ\x0000\x0000:\nO, sak sfbf nqacisrå frsâ nfobáxntä\ffet.\r
+\v0103ぁ\x0000\x0000:\nO, sak sá pqorso gicfyâ rcofj gihnâä.\r
+\v0103ぁ\x0000\x0000:\nSá btefyâ idqasâ c Idqt Plahá.\fCfrflirâ!\r
+\v0103ぁ\x0000\x0000:\nSá btefyâ eflasâ Ospfxasok.\fÃso xtefrno.\r
+\v0103ぁ\x0000\x0000:\nPqouili Dorsfj?\fMogno tciefsâ, osktea idqaäs läei.\r
+\v0103ぁ\x0000\x0000:\nBtefyâ rmosqfsâ Nocorsi Plahá?\fKak inuoqmasicno.\r
+\v0103ぁ\x0000\x0000:\nO, sak sá cieiyâ xfj-so eom.\r
+\v0103ぁ\x0000\x0000:\nO, sak sá qåeom r madahinami.\r
+\v0103ぁ\x0000\x0000:\nSá gicfyâ qåeom r hacoeom? Odo.\r
+\v0103ぁ\x0000\x0000:\nO, sak sá c okqtgfnii pqiqoeá.\r
+\v0103ぁ\x0000\x0000:\nO, sak sá hanimafyârå rpoqsom r\feqthâåmi.\r
+\v0103ぁ\x0000\x0000:\nHeoqoco. Sá idqafyâ c idqá r\feqthâåmi.\r
+\v0103ぁ\x0000\x0000:\nO, sak sfbf nqacisrå obzasârå ro\frcoimi eqthâåmi.\r
+\v0103ぁ\x0000\x0000:\nO, sak sá voeiyâ r eqthâåmi po\fmadahinam.\r
+\v0103ぁ\x0000\x0000:\nElå sfbå cagna rfmâå...\r
+\v0103ぁ\x0000\x0000:\nSfbf cagná scoi eqthâå...\r
+\v0103ぁ\x0000\x0000:\nSolâko sá, ea? Cpolnf noqmalâno.\r
+\v0103ぁ\x0000\x0000:\nRfkqfs? Insfqfrno.\r
+\v0103ぁ\x0000\x0000:\nHnaxis, läei rxisaäs sfbå cfrflám\fxflocfkom.\r
+\v0103ぁ\x0000\x0000:\nHnaxis, läei rxisaäs sfbå habacnám\fxflocfkom.\r
+\v0103ぁ\x0000\x0000:\nHnaxis, läei rxisaäs sfbå eobqám\fxflocfkom.\r
+\v0103ぁ\x0000\x0000:\nHnaxis, läei rxisaäs sfbå sivim\fxflocfkom.\r
+\v0103ぁ\x0000\x0000:\nSá xtcrsctfyâ rxarsâf co cqfmå idqá.\fÃso lodixno.\r
+\v0103ぁ\x0000\x0000:\nSá oztzafyâ rxarsâf co cqfmå qabosá.\fSá wflftrsqfmlfnnáj xflocfk!\r
+\v0103ぁ\x0000\x0000:\nSá oztzafyâ rxarsâf co cqfmå rna.\fÃso voqoyo.\r
+\v0103ぁ\x0000\x0000:\nSá oztzafyâ rxarsâf co cqfmå feá.\fÃso voqoyo.\r
+\v0103ぁ\x0000\x0000:\nSfbå colntäs eovoeá? Ov.\r
+\v0103ぁ\x0000\x0000:\nSfbå colntfs ykola? Ov.\r
+\v0103ぁ\x0000\x0000:\nSfbå colntfs uihixfrkaå uoqma? Ov.\r
+\v0103ぁ\x0000\x0000:\nSfbå colntäs scoi eqthâå? Ov.\r
+\v0103ぁ\x0000\x0000:\nSá trfqeno txiyârå c ykolf?\fÃso heoqoco!\r
+\v0103ぁ\x0000\x0000:\nSá trfqeno pásafyârå povtefsâ?\fBteâ r roboj akktqasnff.\r
+\v0103ぁ\x0000\x0000:\nOo, sá rsqoiyâ osnoyfniå?\fNacfqnof, ãso xtefrno!\r
+\v0103ぁ\x0000\x0000:\nSá trfqeno sqfniqtfyârå?\fGflaä sfbf teaxi!\r
+\v0103ぁ\x0000\x0000:\nHnaxis, sá voqoyo rfbå pokahácafyâ c\fkomanenáv rorsåhaniåv. Årno.\r
+\v0103ぁ\x0000\x0000:\nSá voqoyo bfdafyâ. Årno.\r
+\v0103ぁ\x0000\x0000:\nSá voqoyo placafyâ. Årno.\r
+\v0103ぁ\x0000\x0000:\nSá voqoyo sanwtfyâ. Årno.\r
+\v0103ぁ\x0000\x0000:\nVoxfyâ rsasâ pqo-aslfsom.\r
+\v0103ぁ\x0000\x0000:\nVoxfyâ rsasâ ihobqfsasflfm.\r
+\v0103ぁ\x0000\x0000:\nVoxfyâ rsasâ kompohisoqom.\r
+\v0103ぁ\x0000\x0000:\nVoxfyâ rsasâ komikom.\r
+\v0103ぁ\x0000\x0000:\nÃso teobnof mfrso?\fEolgno básâ, ãso heoqoco.\r
+\v0103ぁ\x0000\x0000:\nÃso mfrso def polno pqiqoeá?\fEolgno básâ, ãso klarrno.\r
+\v0103ぁ\x0000\x0000:\nÃso oxfnâ sivof mfrso?\fEolgno básâ, ãso heoqoco.\r
+\v0103ぁ\x0000\x0000:\nÃso mfrso, def pqoirvoeås qfekif\frobásiå? Eolgno básâ, ãso heoqoco.\r
+\v0103ぁ\x0000\x0000:\nÅrno. T sfbå gaqkij klimas.\r
+\v0103ぁ\x0000\x0000:\nÅrno. T sfbå sfpláj klimas.\r
+\v0103ぁ\x0000\x0000:\nÅrno. T sfbå voloenáj klimas.\r
+\v0103ぁ\x0000\x0000:\nÅrno. T sfbå pqovlaenáj klimas.\r
+\v0103ぁ\x0000\x0000:\nO, hnaxis qåeom r soboj frsâ läei.\r
+\v0103ぁ\x0000\x0000:\nO, sak sá rláyiyâ mthákt.\r
+\v0103ぁ\x0000\x0000:\nO, hnaxis, def-so qåeom SC.\r
+\v0103ぁ\x0000\x0000:\nO, hnaxis sá poxsi nixfdo nf rláyiyâ.\r
+\v0103ぁ\x0000\x0000:\nO, sá xtfyâ hapav feá?\fÃso heoqoco!\r
+\v0103ぁ\x0000\x0000:\nO, sá xtfyâ hapav eqtdiv läefj? Årno.\r
+\v0103ぁ\x0000\x0000:\nO, sá xtfyâ hapav podoeá, ea?\fÃso heoqoco.\r
+\v0103ぁ\x0000\x0000:\nXfm-so nfpqiåsno pavnfs? Utt.\r
+\v0103ぁ\x0000\x0000:\nSfbå insfqfrtäs nocáf idqtyki?\fÃso insfqfrno.\r
+\v0103ぁ\x0000\x0000:\nSfbå bolâyf crfdo insfqfrtfs moenaå\foefgea? Ãso insfqfrno.\r
+\v0103ぁ\x0000\x0000:\nSfbå bolâyf crfdo insfqfrtfs podoea\fna hacsqa? Ponåsno.\r
+\v0103ぁ\x0000\x0000:\nSfbå insfqfrtäs pop-hcfheá?\fVoqoyo.\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA xso sam t sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA xso sam t sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA xso sam t sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nA xso sam t sfbå?\r
+\v0103ぁ\x0000\x0000:\nA xso sam t sfbå?\r
+\v0103ぁ\x0000\x0000:\nA xso sam t sfbå?\r
+\v0103ぁ\x0000\x0000:\nA xso sam t sfbå?\r
+\v0103ぁ\x0000\x0000:\nA kak narxfs sfbå?\r
+\v0103ぁ\x0000\x0000:\nO! T sfbå frsâ \v0300ぁ\x0001\x0000,\fpqåmo kak t mfnå.\rKak voqoyo!\r
+\v0103ぁ\x0000\x0000:\nScoå Insfqaksicnaå Idqtyka ãso\f\v0302ぁ\x0001\x0000?\rMoå - \v0302ぁぁ\x0000.\nVoxfyâ, å poeflärâ fj r soboj?\r
+\v0103ぁ\x0000\x0000:\nEfqgi!\fCfrflirâ!\r
+Cá poltxili \v0302ぁ\x0001\x0000 os\nSqfnfqa \v0103ぁ\x0000\x0000!\r
+\v0103ぁ\x0000\x0000:\nT sfbå \v0300ぁ\x0001\x0000?\fNacfqnof, ãso heoqoco!\r
+\v0103ぁ\x0000\x0000:\n...Mogfyâ poeflisârå Idqtykoj\f\v0300ぁ\x0001\x0000 ro mnoj?\r
+Cá poeflilirâ Idqtykoj \v0302ぁ\x0001\x0000\nr Sqfnfqom \v0103ぁ\x0000\x0000.\r
+\v0103ぁ\x0000\x0000:\nRparibo! Å btet ff bfqfxâ!\r
+IDQTYKI
+XAS
+OSMFNA
+CHÅSÂ
+Läbimáj wcfs?
+Läbimáf Pokfmoná?
+Kakaå podoea?
+Xso sá eflal(a)?
+Planá na hacsqa?
+Mfrsa pfqfqáca?
+Na kodo povog(a)?
+Xfdo bolâyf voxfsrå?
+Xso sqteno eafsrå?
+Def sá idqafyâ?
+Läbimaå Idqa Plahá?
+Xso poptlåqnff?
+Xso mogfyâ ltxyf crfv?
+Os xfdo nf oskagfyârå?
+Scof sajnof tclfxfnif?
+Xso btefyâ ealâyf eflasâ?
+Xso qåeom r eomom?
+Xso eflafyâ r eqthåâmi?
+Kso sfbf cagnff?
+Kfm sfbå cieås läei?
+Kodea sá rxarslic(a)?
+Xso sfbå colntfs?
+Nae xfm sqteiyârå?
+Kakom rpoqsf sá voqoy(a)?
+Scoå qabosa mfxsá?
+Xso t sfbå orobfnnodo?
+Kakoj t sfbå klimas?
+Xso sá rláyiyâ?
+Xso sá xtfyâ?
+Xso sfbf insfqfrno?
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nPqicfs! Pqiåsno sfbå ciefsâ.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nPqicfs, \v0103ぁ\x0001\x0000!\fPqiåsno rnoca sfbå crsqfsisâ!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nFzf tcieimrå!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nFzf kof-xso...\r
+Pqorsi! Xso-so rltxilorâ!\nNf modt docoqisâ!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEa? Xso sakof?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nPqicfs, frsâ mintska?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nIhcini! Sqteno rkahasâ.\fÅ nf modt oscfsisâ.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNixfdo. Nf oscfxaj, frli nf voxfyâ.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nPonåsno...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nPqåmo kak t mfnå!\fÃso heoqoco!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRparibo ha oscfs!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nI ealâyf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXso nibteâ fzf?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKakoj scoj läbimáj wcfs?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKakif Pokfmoná sfbf nqacåsrå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKakaå rfjxar podoea?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXso sá eflal(a) eo qahdocoqa\fro mnoj?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKakif t sfbå planá na hacsqa?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKtea sá obáxno läbiyâ voeisâ na\fpfqfqácav?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNa kodo sá povog(a)?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXso sá bolâyf crfdo voxfyâ?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nR xfm t sfbå cohnikaäs sqtenorsi?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKtea sá voxfyâ pojsi poidqasâ?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar... Hefrâ...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar... Hefrâ...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMnf nqacisrå kqarnáj wcfs.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMnf nqacisrå rinij wcfs.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMnf nqacisrå gflsáj wcfs.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMnf nqacisrå hflfnáj wcfs.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMnf nqacåsrå rilânáf Pokfmoná.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMnf nqacåsrå miláf Pokfmoná.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMnf nqacåsrå kqaricáf Pokfmoná.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMnf nqacåsrå rsqannáf Pokfmoná.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar rolnfxnaå podoea.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar oblaxnaå podoea.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar eogelicaå podoea.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar iefs rnfd.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÃm... Rpal.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÃm... Pqodtlicalrå.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÃm... Qabosal.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÃm... Ktyal.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nT mfnå nfs planoc na hacsqa.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ btet qabosasâ cfrâ efnâ.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ btet oseávasâ.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÃso rfkqfs.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nLäblä voeisâ c sfpláf mfrsa.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nLäblä voeisâ c voloenáf mfrsa.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nLäblä voeisâ c mfrsa, def mnodo\fläefj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nLäblä voeisâ c mfrsa, def nfs läefj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, å cádlågt kak moj rsaqyij\fbqas.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, å cádlågt kak moå rsaqyaå\frfrsqa.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, å cádlågt kak moj eåeå.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, å cádlågt kak moå sfså.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nBolâyf crfdo voxt cqfmfni.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nBolâyf crfdo voxt efnfd.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nBolâyf crfdo voxt eqthfj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nBolâyf crfdo voxt pofrsâ.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt... Etmaä, ro ykoloj...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt... Etmaä, c rpoqsf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt... Etmaä, r qannimi poeàfmami...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt... Etmaä, r tboqkoj...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ voxt pojsi c paqk.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ voxt pojsi c soqdocáj wfnsq.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ voxt pojsi c paqk oseáva.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ voxt pojsi c sfasq.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Sqteno rkahasâ...\fIhcini, å sfbf nf oscfxt.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, scoj läbimáj wcfs - kqarnáj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, scoj läbimáj wcfs - rinij.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, scoj läbimáj wcfs - gflsáj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, scoj läbimáj wcfs - hflfnáj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, sfbf nqacåsrå rilânáf\fPokfmoná.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, sfbf nqacåsrå miláf\fPokfmoná.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, sfbf nqacåsrå kqaricáf\fPokfmoná.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, sfbf nqacåsrå rsqannáf\fPokfmoná.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, t sfbå rolnfxnaå podoea.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, t sfbå oblaxnaå podoea.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, t sfbå eogelicaå podoea.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, t sfbå iefs rnfd!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá rpal(a).\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá dtlål(a).\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá qabosal(a).\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá ktyal(a).\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, t sfbå nfs planoc.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, t sfbå frsâ kakif-so hanåsiå.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá btefyâ oseávasâ.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá nf rkagfyâ mnf?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfplof mfrso...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVoloenof mfrso...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMfrso, def mnodo läefj...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMfrso, def nfs läefj...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá napominafyâ rcofdo rsaqyfdo\fbqasa?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá napominafyâ rcoä rsaqytä\frfrsqt?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá napominafyâ rcofdo eåeä?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá napominafyâ rcoä sfsä?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nCqfmfni, ea? Ponåsno...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEfnfd, ea? Ponåsno...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEqthfj, ea? Ponåsno...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nPofrsâ, ea? Ponåsno...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, ykola sfbf sqteno eafsrå...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis rpoqs sfbf sqteno eafsrå...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, sfbf sqteno qano\fpqorápasârå...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, r tboqkoj t sfbå pqoblfmá...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá läbiyâ idqasâ c paqkf.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSoqdocáj wfnsq? Sá, nacfqnof,\fläbiyâ voeisâ po madahinam.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nC paqkf oseáva? Nt konfxno!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfasq, hctxis insfqfrno!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA xso sam t sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO! T sfbå frsâ \v0300ぁ\x0001\x0000\fpqåmo kak t mfnå.\rÃso heoqoco!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nT sfbå frsâ Idqtyka \v0302ぁ\x0001\x0000?\rMoå - \v0302ぁぁ\x0000.\nVoxfyâ, poeflärâ fj r soboj?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEfqgi!\fCfrflirâ!\r
+Cá poltxili \v0302ぁ\x0001\x0000 os\n\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nT sfbå \v0300ぁ\x0001\x0000?\fNacfqnof, ãso heoqoco!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\n...Mogfyâ poeflisârå Idqtykoj\f\v0300ぁ\x0001\x0000 ro mnoj?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRparibo! Å btet ff bfqfxâ!!\r
+\v0103ぁ\x0000\x0000:\nPqicfs, \vFF00\x0001ぁ\v0103ぁ\x0001\x0000\vFF00\x0001\x0000!\fPqiåsno rnoca sfbå crsqfsisâ!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nPqicfs, \vFF00\x0001ぁ\v0103ぁ\x0001\x0000\vFF00\x0001\x0000!\fPqiåsno rnoca sfbå crsqfsisâ!\r
+\v0103ぁ\x0000\x0000:\nXso sakof? Sá c poqåekf?
+\v0103ぁ\x0000\x0000:\nVmm... Mintskt...
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXso sakof? Sá c poqåekf?
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Mintskt...
+\v0103ぁ\x0000\x0000:\nPobolsafm!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nPobolsafm!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nC kaktä Idqt Plahá t sfbå voqoyo\fpoltxafsrå idqasâ?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXso qarpqorsqanfno c scofm\fokqtgfnii?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXso sá mogfyâ eflasâ ltxyf crfdo?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nOs xfdo sá nf oskagfyârå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXfm sá csajnf tclfkafyârå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXfm sá btefyâ ealâyf hanimasârå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXso frsâ qåeom r scoim eomom?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXfm sá hanimafyârå r eqthâåmi?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKso cagfn elå sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKak sfbå opirácaäs läei?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKodea sá po narsoåzfmt oztzafyâ\frxarsâf?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXso sfbå bfrpokois?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNae xfm sá sqteiyârå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nC kakom cief rpoqsa sá\fpqftrpfcafyâ??\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKfm sá mfxsafyâ qabosasâ?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXso sakodo orobfnnodo c mfrsf, def\fsá gicfyâ?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKakoj c scofj mfrsnorsi klimas?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXso sá rfjxar rláyiyâ?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKakoj hapav sá rfjxar xtfyâ?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXso sfbå insfqfrtfs bolâyf crfdo?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar... Hefrâ...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar... Hefrâ...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar... Hefrâ...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar... Hefrâ...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar... Hefrâ...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfjxar... Hefrâ...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNt, kak po mnf...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nC RCALOS-Pläv.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nC MAJM ML.-Cfqv.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nC COBBAUUFS-Vlop.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNf idqaä c ãsi idqá.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, xso SC i mtháka.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, xso idqá i efcajrá.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, xso ykola i rpoqs.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, xso moea i qomansika.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHanimasârå uihktlâstqoj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmasâ i qahmáylåsâ.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ voqoyo cáeflåärâ.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nTmfä hacoeisâ eqthfj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNf oskagtrâ os xsfniå knid.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNf oskagtrâ os mtháki.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNf oskagtrâ os trsqojrsc.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNf oskagtrâ os poheniv rnoc.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKonfxno gf, moeoj!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKonfxno gf, eihajnom tbqanrsc!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKonfxno gf, ihárkannoj feoj!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKonfxno gf, gihnâä!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, poidqaä c Idqt Plahá.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, reflaä ospfxasok.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, hadlånt c Pqouili Dorsfj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, pqormosqä Nocorsi Plahá.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ cigt xfj-so eom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ cigt qahnáf madahinxiki.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ cigt bolâyoj hacoe.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nCokqtd mfnå mnodo pqiqoeá.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Rkagt, xso rpoqsom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Rkagt, xso idqaä.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Rkagt, xso bolsaä.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Rkagt, xso vogt po madahinam.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ etmaä, xso rfmâå.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ etmaä, xso eqthâå.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ etmaä, xso solâko å, konfxno gf.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ etmaä, xso orsaclä ãso c rfkqfsf.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Nacfqnof, oni rxisaäs mfnå\fcfrflám xflocfkom?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Nacfqnof, oni rxisaäs mfnå\fhabacnám xflocfkom?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Nacfqnof, oni rxisaäs mfnå\feobqám xflocfkom?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Nacfqnof, oni rxisaäs mfnå\fsivim xflocfkom?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ oztzaä rxarsâf co cqfmå idqá!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ oztzaä rxarsâf co cqfmå sqtea!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ oztzaä rxarsâf kodea rplä.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ oztzaä rxarsâf kodea å ktyaä!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMfnå bfrpokoås moi eovoeá.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMfnå bfrpokois ykola.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMfnå bfrpokois moå uoqma.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMfnå bfrpokoås moi eqthâå.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, xso ykolânámi eflami.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, xso eifsoj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMogfs básâ, nae osnoyfniåmi?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nEtmaä, xso sqfniqockami.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nC läbom komanenom cief rpoqsa!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nC bfdf, opqfeflfnno!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nC placanii, opqfeflfnno!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nC sanwav, opqfeflfnno!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nPqoufrrionalânám aslfsom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nIhobqfsasflfm.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKompohisoqom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKomikom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÃso oxfnâ teobnof mfrso.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHefrâ kqtdom pqiqoea.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHefrâ oxfnâ sivo.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHefrâ pqoirvoeås cråkif qfekif\frobásiå.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nT nar gaqkij klimas.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nT nar sfpláj klimas.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nT nar voloenáj klimas.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nT nar pqovlaenáj klimas.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ rláyt dolora läefj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ rláyt, kak idqafs mtháka.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅ rláyt hctki SC.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHefrâ oxfnâ sivo.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Xtä hapav feá.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Xtä hapav läefj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVmm... Xtä hapav podoeá.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nUtt... Xtä nfpqiåsnáj hapav.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNocáf idqtyki.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMoenaå oefgea.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nKakaå btefs podoea hacsqa.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nNocáf pop-hcfheá.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá tmffyâ idqasâ c RCALOS-Pläv!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá tmffyâ idqasâ c MAJM ML.-Cfqv!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá tmffyâ idqasâ c COBBAUUFS-Vlop!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá nf idqal(a) c ãsi idqá.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSC i mtháka! Ponåsno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nIdqá i efcajrá! Ponåsno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nYkola i rpoqs! Ponåsno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nMoea i qomansika! Ponåsno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá läbiyâ hanimasârå rpoqsom.\fÃso povcalâno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá läbiyâ poqahmáylåsâ.\fÃso heoqoco.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfbf nqacisrå cáeflåsârå?\fLäbiyâ pqiclfxâ cnimanif.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá tmffyâ hacoeisâ eqthfj?\fÃso heoqoco.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá ni ha xso nf oskagfyârå os\fxsfniå!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá ni ha xso nf oskagfyârå os\fmtháki!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá ni ha xso nf oskagfyârå os\frcoiv trsqojrsc!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá ni ha xso nf oskagfyârå os\fsodo, xsobá poheno lfxâ rpasâ!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá tclfkafyârå moeoj.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá tkqayafyâ tbqanrsco.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sfbf nqacisrå frsâ nfobáxntä\ffet.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá pqorso gicfyâ rcofj gihnâä.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá btefyâ idqasâ c Idqt Plahá.\fCfrflirâ!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá btefyâ eflasâ Ospfxasok.\fÃso xtefrno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nPqouili Dorsfj?\fMogno tciefsâ, osktea idqaäs läei.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nBtefyâ rmosqfsâ Nocorsi Plahá?\fKak inuoqmasicno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá cieiyâ xfj-so eom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá qåeom r madahinami.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá gicfyâ qåeom r hacoeom? Odo.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá c okqtgfnii pqiqoeá.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá hanimafyârå rpoqsom r\feqthâåmi.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHeoqoco. Sá idqafyâ c idqá r\feqthâåmi.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sfbf nqacisrå obzasârå ro\frcoimi eqthâåmi.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá voeiyâ r eqthâåmi po\fmadahinam.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nElå sfbå cagna rfmâå...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfbf cagná scoi eqthâå...\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSolâko sá, ea? Cpolnf noqmalâno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nRfkqfs? Insfqfrno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, läei rxisaäs sfbå cfrflám\fxflocfkom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, läei rxisaäs sfbå habacnám\fxflocfkom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, läei rxisaäs sfbå eobqám\fxflocfkom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, läei rxisaäs sfbå sivim\fxflocfkom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá xtcrsctfyâ rxarsâf co cqfmå idqá.\fÃso lodixno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá oztzafyâ rxarsâf co cqfmå qabosá.\fSá wflftrsqfmlfnnáj xflocfk!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá oztzafyâ rxarsâf co cqfmå rna.\fÃso voqoyo.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá oztzafyâ rxarsâf co cqfmå feá.\fÃso voqoyo.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfbå colntäs eovoeá? Ov.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfbå colntfs ykola? Ov.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfbå colntfs uihixfrkaå uoqma? Ov.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfbå colntäs scoi eqthâå? Ov.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá trfqeno txiyârå c ykolf?\fÃso heoqoco!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá trfqeno pásafyârå povtefsâ?\fBteâ r roboj akktqasnff.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nOo, sá rsqoiyâ osnoyfniå?\fNacfqnof, ãso xtefrno!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá trfqeno sqfniqtfyârå?\fGflaä sfbf teaxi!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nHnaxis, sá voqoyo rfbå pokahácafyâ c\fkomanenáv rorsåhaniåv. Årno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá voqoyo bfdafyâ. Årno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá voqoyo placafyâ. Årno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSá voqoyo sanwtfyâ. Årno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVoxfyâ rsasâ pqo-aslfsom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVoxfyâ rsasâ ihobqfsasflfm.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVoxfyâ rsasâ kompohisoqom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nVoxfyâ rsasâ komikom.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÃso teobnof mfrso?\fEolgno básâ, ãso heoqoco.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÃso mfrso def polno pqiqoeá?\fEolgno básâ, ãso klarrno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÃso oxfnâ sivof mfrso?\fEolgno básâ, ãso heoqoco.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÃso mfrso, def pqoirvoeås qfekif\frobásiå? Eolgno básâ, ãso heoqoco.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅrno. T sfbå gaqkij klimas.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅrno. T sfbå sfpláj klimas.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅrno. T sfbå voloenáj klimas.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nÅrno. T sfbå pqovlaenáj klimas.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, hnaxis qåeom r soboj frsâ läei.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sak sá rláyiyâ mthákt.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, hnaxis, def-so qåeom SC.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, hnaxis sá poxsi nixfdo nf rláyiyâ.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá xtfyâ hapav feá?\fÃso heoqoco!\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá xtfyâ hapav eqtdiv läefj? Årno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nO, sá xtfyâ hapav podoeá, ea?\fÃso heoqoco.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nXfm-so nfpqiåsno pavnfs? Utt.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfbå insfqfrtäs nocáf idqtyki?\fÃso insfqfrno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfbå bolâyf crfdo insfqfrtfs moenaå\foefgea? Ãso insfqfrno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfbå bolâyf crfdo insfqfrtfs podoea\fna hacsqa? Ponåsno.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nSfbå insfqfrtäs pop-hcfheá?\fVoqoyo.\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA xso sam t sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA xso sam t sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA xso sam t sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA xso sam t sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA xso sam t sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA xso sam t sfbå?\r
+\vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000:\nA kak narxfs sfbå?\r
+Cá poeflilirâ Idqtykoj \v0302ぁ\x0001\x0000\nr Sqfnfqom  \vFF00\x0001ぁ\v0103ぁ\x0000\x0000\vFF00\x0001\x0000.\r
