@@ -2,14 +2,14 @@ Eobqo pogalocasâ c mfnä Hadaeoxnáv\nPoeaqkoc!
 Cábfqisf rporob poltxfniå Hadaeoxnáv\nPoeaqkoc.
 Btefs haptzfno Bfrpqocoenof\nRofeinfnif ER.
 Poirk poeaqka.\nPogaltjrsa, poeogeisf...
-Receive this gift?
-Search for a different gift?
-Your request has been sent.\nPlease wait a moment...
-Receiving your gift.\nDon’t turn off the power.
-The gift has been received!\rPlease pick up your gift from the\ndeliveryman in any Poké Mart.
-This gift is being shared by\nanother person.\rYou may accept this gift, but you\nwill not be able to distribute it\fto your friends.\rWill you accept this gift?
+Poltxisâ ãsos poeaqok?
+Irkasâ eqtdoj poeaqok?
+Cay hapqor ospqaclfn.\nPoeogeisf...
+Poltxfnif poeaqka.\nNf cákläxajsf pisanif.
+Cá poltxili poeaqok!\rHabfqisf fdo t ktqâfqa c\nläbom Madahinf.
+Ãsos poeaqok qaheafs eqtdoj xflocfk.\rCá mogfsf fdo pqinåsâ, no nf rmogfsf\nqaheasâ eqthâåm.\rPqinåsâ poeaqok?
                    
-Pokémon Ranger\nMANAPHY Egg Transfer
+Pokfmon Qfjnegfq\nPfqfeaxa Åjwa MANAUI
 POLTXISÂ POEAQOK
 PQOCFQKA KAQSÁ
 CÁVOE
@@ -19,65 +19,65 @@ OSMFNA
 EA
 NFS
 POLTXISÂ PO CAJ-UAJ
-VIEW LOCK CAPSULE CARD
-Our deliveryman is overloaded with\ngifts for you!\rPlease see him at any Poké Mart and\npick up some of your gifts.
-You’ve already received this gift.\nYou may not get another one.
+PQORMOSQ DFQM. KAPRTLÁ
+Nay ktqâfq pfqfdqtgfn cayimi\npoeaqkami!\rHabfqisf iv t nfdo c läbom Madahinf.
+Cá tgf poltxili ãsos poeaqok.\nCá nf mogfsf poltxisâ fzf oein.
 Poeaqkoc nf najefno.
-Your request was turned down.
-You are out of room for\nWonder Cards.\rYou may not accept another gift.
-There was a problem with\nreceiving the gift.\rPress the A Button to return to\nthe title screen.
-A gift has been found, but it cannot\nbe received using this version.\rPress the A Button to return to\nthe menu.
-The person sharing has\nbeen disconnected...
+Cay hapqor osklonfn.
+T car nfs mfrsa elå Xteo-Kaqs.\rCá nf rmogfsf pqinåsâ eqtdoj\npoeaqok.
+Co cqfmå poltxfniå poeaqka\npqoihoyla oyibka.\rNagmisf A, xsobá cfqntsârå na\nrsaqsocáj ãkqan.
+Elå car bál najefn poeaqok, no fdo\nnflâhå poltxisâ na ãsoj cfqrii.\rNagmisf A, xsobá cfqntsârå c mfnä.
+Qaheaäzij idqok oskläxilrå...
                      
-Press the A Button.
+Nagmisf Knopkt A.
                           
                
                     
-Please touch Pokémon Ranger’s\ngame screen.
+Kornisfrâ ãkqana\nPokfmon Qfjnegfq.
                      
-Wonder Card
-Please pick up your gift from the\ndeliveryman in any Poké Mart.
-You have already received\nthis gift before.
-This card does not have\na gift attached.
-Date received
-This gift can be distributed \v0134ぁ\x0000\x0000 time(s).
-INFO
-SHARE
-TRASH
-EXIT
-Would you like to share this gift?
-YES
-NO
+Xteo-Kaqsa
+Habfqisf poeaqok t ktqâfqa c\nläbom Madahinf.
+Ãsos poeaqok tgf bál poltxfn qanff.
+T ãsoj kaqsá nfs\npqikqfplfnnodo poeaqka.
+Easa poltxfniå
+Ãsos poeaqok mogno qaheasâ \v0134ぁ\x0000\x0000 qah(a).
+INUO
+EFLISÂRÅ
+TBQASÂ
+CÁVOE
+Vosisf poeflisârå ãsim poeaqkom?
+EA
+NFS
 \v3410ぁ\x0001\x0000 \v0133ぁぁ\x0000, \v0135ぁ\x0000\x0000
                
-This gift can be shared with as\nmany friends as you like.
-Pal Distribution Registration
+Ãsos poeaqok mogno qaheasâ eqthâåm\nc läbom kolixfrscf.
+Hapirâ na Qaheaxt
 \v0103ぁ\x0000\x0000
-ID No.\v0136ぁ\x0000\x0000
-Current\nentries
+No. IE \v0136ぁ\x0000\x0000
+Sfktzif\nhapiri
 \vFF00\x0001\x0001\v0132ぁ\x0000\x0000\vFF00\x0001\x0000/4
-SEND
-CANCEL
-Gift distribution under way...\nDon’t turn off the power.
-Your gift distribution\nwas successful.
-Throw this card away?
-You haven’t received your gift yet.\nDo you want to discard this card?
-Discarding...\nDon’t turn off the power.
-YES
-NO
+OSPQACKA
+OSMFNA
+Iefs qaheaxa poeaqkoc...\nNf cákläxajsf pisanif.
+Qaheaxa poeaqkoc pqocfefna\ntrpfyno.
+Cábqorisâ ãst kaqst?
+Cá fzf nf poltxili poeaqok.\nVosisf cákintsâ ãst kaqst?
+Cábqarácafm...\nNf cákläxajsf pisanif.
+EA
+NFS
                     
-\vFF00\x0001あ\v0103ぁ\x0000\x0000\vFF00\x0001ぁ \vFF00\x0001\x0000ID No.\v0136ぁ\x0001\x0000
+\vFF00\x0001あ\v0103ぁ\x0000\x0000\vFF00\x0001ぁ \vFF00\x0001\x0000No. IE \v0136ぁ\x0001\x0000
           
-Application No.:
+Haåcka No.:
 \v0135ぁ\x0000\x0000-\v0135ぁ\x0001\x0000
-Receiving a Recruitment Message\nfrom a Pokémon Ranger.
-Awaiting transfer from Pokémon\nRanger.
-Receiving the MANAPHY Egg...\nDon’t turn off the power.
-The transfer has been completed.\nA Button: title screen.
-The connection with Pokémon Ranger\nhas been lost... Press the A Button.
+Poltxfnif Roobzfniå o Pqifmf\nih Pokfmon Qfjnegfq.
+Ogieanif pfqfeaxi ih Pokfmon\nQfjnegfq.
+Poltxfnif Åjwa MANAUI...\nNf cákläxajsf pisanif.
+Pfqfeaxa hacfqyfna.\nKnopka A: cávoe na rsaqsocáj ãkqan.
+Rofeinfnif r Pokfmon Qfjnegfq\nposfqåno... Nagmisf A.
                               
         
 Btefs haptzfno Bfrpqocoenof\nRofeinfnif ER.
 Poekläxisârå k Caj-Uaj\nRofeinfniä Ninsfneo?
-The Lock Capsule is held in the\nstrictest safekeeping.
-The Lock Capsule was delivered safely!
+Dfqmfsixnaå Kaprtla vqanisrå c\nrsqogajyfj rovqannorsi.
+Dfqmfsixnaå Kaprtla eorsaclfna!
