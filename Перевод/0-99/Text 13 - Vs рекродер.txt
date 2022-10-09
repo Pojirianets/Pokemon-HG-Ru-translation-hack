@@ -26,13 +26,13 @@
                  
         
       
-\v0103ぁ\x0000\x0000’S FAVORITE PC BOX
-\v0103ぁ\x0000\x0000’S COOL PC BOX
-\v0103ぁ\x0000\x0000’S CUTE PC BOX
-\v0103ぁ\x0000\x0000’S SUGGESTED PC BOX
-\v0103ぁ\x0000\x0000’S FUN PC BOX
-\v0103ぁ\x0000\x0000’S SELECT PC BOX
-Next\nPokémon
+ИЗБР. ЯЧЕЙКА ПК \v0103ぁ\x0000\x0000
+КРУТ. ЯЧЕЙКА ПК \v0103ぁ\x0000\x0000
+МИЛ. ЯЧЕЙКА ПК \v0103ぁ\x0000\x0000
+ПРЕДЛ. ЯЧЕЙКА ПК \v0103ぁ\x0000\x0000
+ВЕСЛ. ЯЧЕЙКА ПК \v0103ぁ\x0000\x0000
+ВЫБР. ЯЧЕЙКА ПК \v0103ぁ\x0000\x0000
+След.\nПокемон
            
             
             
@@ -46,105 +46,105 @@ Next\nPokémon
        
        
            
-SEARCH BY FACILITY
-SEARCH BY POKéMON
-SEARCH YOUR LOCATION
-SEND PHOTO
-VIEW PHOTOS
-SEND
+ИСКАТЬ ПО МЕСТАМ
+ИСКАТЬ ПО ПОКЕМОНАМ
+ПОИСК ВАШЕГО МЕСТПЛ.
+ОТПРАВИТЬ ФОТО
+ПРОСМОТР ФОТО
+ОТПРАВИТЬ
                  
                   
 \v0103ぁ\x0000\x0000\n\v011Cぁ\x0001\x0000
     
-SEND BOX DATA
-VIEW BOX DATA
-FAVORITE
-COOL
-CUTE
-SUGGESTED
-FUN
-SELECT
+ОТПР. ДАННЫЕ ЯЧЕЕК
+ПРСМ. ДАННЫЕ ЯЧЕЕК
+ИЗБРАННОЕ
+КРУТЫЕ
+МИЛЫЕ
+ПРЕДЛОЖЕННЫЕ
+ВЕСЕЛЫЕ
+ВЫБОР
     
       
-ABC
-DEF
-GHI
-JKL
-MNO
-PQR
-STU
-VWX
-YZ
+АВС
+ÇEÈ
+ÉНÌ
+ÍКÊ
+МËО
+РÎÏ
+ÐТÒ
+ÑÓХ
+ÔÕ
 
-THIS WEEK’S RANKINGS
-LAST WEEK’S RANKINGS
-SWITCH RANKINGS
-SWITCH TEAMS
-Team: Trainer type
-Team: Birth month
-Team: Favorite Pokémon
+РЕЙТИНГ ЭТОЙ НЕДЕЛИ
+РЕЙТИНГ ПРЕД. НЕДЕЛИ
+СМЕНА РЕЙТИНГОВ
+СМЕНА КОМАНД
+Команда: Тип Тренера
+Команда: Месяц рожд.
+Команда: Избр. Покемон
 \v0103ぁ\x0001\x0000: \v010Eぁ\x0000\x0000
 \v0103ぁ\x0001\x0000: \v3410ぁ\x0000\x0000
 \v0103ぁ\x0001\x0000: \v0100ぁ\x0000\x0000
 \v0133ぁ\x0000\x0000: \v010Eぁ\x0001\x0000
 \v0133ぁ\x0000\x0000: \v0133ぁ\x0001\x0000
 \v0133ぁ\x0000\x0000: \v0100ぁ\x0001\x0000
-LAST WEEK’S RESULTS!
-COLOSSEUM
-BATTLE FRONTIER
-SAVE
-VIEW BATTLE\nVIDEO
+ДАННЫЕ ПРЕД. НЕДЕЛИ!
+КОЛИЗЕЙ
+БОЕВОЙ РУБЕЖ
+СОХРАНИТЬ
+ПРОСМОТР\nЗАПИСИ БОЯ
       
-TOP-RANKED BATTLE VIDEOS\nCOLOSSEUM
-TOP-RANKED BATTLE VIDEOS\nBATTLE FRONTIER
+ЛУЧШИЕ ЗАПИСИ БОЯ\nКОЛИЗЕЙ
+ЛУЧШИЕ ЗАПИСИ БОЯ\nБОЕВОЙ РУБЕЖ
 :
-Where would you like to save\n\v0103ぁ\x0000\x0000’s Battle Video?
+Где вы хотите сохранить Запись Боя\nТренера \v0103ぁ\x0000\x0000?
        
 Хотите удалить Запись Боя\nигрока \v0103ぁ\x0000\x0000?
-VIEW BATTLE VIDEOS
-SEND BATTLE VIDEO
-NEWEST 30
-SEARCH
-SEARCH BY VIDEO NO.
-SEARCH BY FACILITY
-SEARCH BY POKéMON
-SEARCH YOUR LOCATION
-OK!
-Please enter the Video Number.
-Please choose the facility.
-Please choose the Pokémon.
-Please enter the search criteria.
-You haven’t set any search criteria.
-Loading Battle Video...
-There is no matching Battle Video...
-Sending the Battle Video...
+ПРОСМОТР ЗАПИСЕЙ БОЯ
+ОТПР. ЗАПИСЬ БОЯ
+30 НОВЫХ
+ПОИСК
+ПОИСК ПО НО. ЗАПИСИ
+ПОИСК ПО МЕСТУ
+ПОИСК ПО ПОКЕМОНАМ
+ПОИСК ПО ВАШЕМУ МСТ.
+ОК!
+Введите Номер Записи.
+Выберите место.
+Выберите Покемона.
+Введите критерий поиска.
+Вы не установили критериев поиска.
+Загрузка Записи Боя...
+Нет подходящих Записей...
+Отправка Записи Боя...
                
 ПРОФИЛЬ
 НАЗАД
-NEWEST 30 BATTLE VIDEOS
-Please set the search criteria.
-Undefined
-LIST OF BATTLE VIDEOS FROM\nSEARCH RESULTS
-The same Battle Video can’t be sent again.\nTouch the Touch Screen to continue.
-You have not registered your location.
-There is no Battle Video to send.
+30 НОВЫХ ЗАПИСЕЙ
+Введите критерий поиска.
+Не назначено
+СПИСОК ЗАПИСЕЙ БОЕВ ИЗ\nПОИСКА
+Нельзя отправить дубликат Записи Боя.\nДля продолжения коснитесь Снс. Экрана
+Вы не обозначили свое местоположение.
+У вас нет Записей Боев.
 ДА
 НЕТ
-Colosseum\nSingle, No Restrictions
-Colosseum\nSingle, Standard Cup
-Colosseum\nSingle, Fancy Cup
-Colosseum\nSingle, Little Cup
-Colosseum\nSingle, Light Cup
-Colosseum\nSingle, Double Cup
-Colosseum\nSingle, Other Cup
-Colosseum\nDouble, No Restrictions
-Colosseum\nDouble, Standard Cup
-Colosseum\nDouble, Fancy Cup
-Colosseum\nDouble, Little Cup
-Colosseum\nDouble, Light Cup
-Colosseum\nDouble, Double Cup
-Colosseum\nDouble, Other Cup
-Colosseum\nMulti
+Колизей\nОдиночный, Без Ограничений
+Колизей\nОдиночный, Стандарт Турнир
+Колизей\nОдиночный, Необычный Турнир
+Колизей\nОдиночный, Меньший Турнир
+Колизей\nОдиночный, Легкий Турнир
+Колизей\nОдиночный, Двойной Турнир
+Колизей\nОдиночный, Другой Турнир
+Колизей\nДвойной, Без Ограничений
+Колизей\nДвойной, Стандарт Турнир
+Колизей\nДвойной, Необычный Турнир
+Колизей\nДвойной, Меньший Турнир
+Колизей\nДвойной, Легкий Турнир
+Колизей\nДвойной, Двойной Турнир
+Колизей\nДвойной, Другой Турнир
+Колизей\nМульти бой
 Боевая Башня\nОдиночный бой
 Боевая Башня\nДвойной бой
 Боевая Башня\nМульти бой
@@ -163,143 +163,143 @@ Colosseum\nMulti
 Боевая Игровая\nОдиночный бой
 Боевая Игровая\nДвойной бой
 Боевая Игровая\nМульти бой
-Colosseum\nSingle, No Restrictions
-Colosseum\nSingle, Cup Match
-Colosseum\nDouble, No Restrictions
-Colosseum\nDouble, Cup Match
-1: Colosseum\n    Single, No Restrictions
-2: Colosseum\n    Single, Cup Match
-3: Colosseum\n    Double, No Restrictions
-4: Colosseum\n    Double, Cup Match
-5: Colosseum\n    Multi
-6: Battle Tower\n    Single
-7: Battle Tower\n    Double
-8: Battle Tower\n    Multi
-9: Battle Factory\n    Level 50, Single
-10: Battle Factory\n      Level 50, Double
-11: Battle Factory\n      Level 50, Multi
-12: Battle Factory\n      Open Level, Single
-13: Battle Factory\n      Open Level, Double
-14: Battle Factory\n      Open Level, Multi
-15: Battle Hall\n      Single
-16: Battle Hall\n      Double
-17: Battle Hall\n      Multi
-18: Battle Castle\n      Single
-19: Battle Castle\n      Double
-20: Battle Castle\n      Multi
-21: Battle Arcade\n      Single
-22: Battle Arcade\n      Double
-23: Battle Arcade\n      Multi
+Колизей\nОдиночный, Без Ограничений
+Колизей\nОдиночный, Турнир Матч
+Колизей\nДвойной, Без Ограничений
+Колизей\nДвойной, Турнир Матч
+1: Колизей\n    Одиночный, Без Ограничений
+2: Колизей\n    Одиночный, Турнир Матч
+3: Колизей\n    Колизей\nДвойной, Без Ограничений
+4: Колизей\n    Колизей\nДвойной, Турнир Матч
+5: Колизей\n    Мульти бой
+6: Боевая Башня\n    Одиночный бой
+7: Боевая Башня\n    Двойной бой
+8: Боевая Башня\n    Мульти бой
+9: Боевая Фабрика\n    Ур. 50, Одиночный бой
+10: Боевая Фабрика\n    Ур. 50, Двойной бой
+11: Боевая Фабрика\n    Ур. 50, Мульти бой
+12: Боевая Фабрика\n    Открытый Ур. Одиночный бой
+13: Боевая Фабрика\n    Открытый Ур. Двойной бой
+14: Боевая Фабрика\n    Открытый Ур. Мульти бой
+15: Боевой Зал\n      Одиночный бой
+16: Боевой Зал\n      Двойной бой
+17: Боевой Зал\n      Мульти бой
+18: Боевой Замок\n      Одиночный бой
+19: Боевой Замок\n      Двойной бой
+20: Боевой Замок\n      Мульти бой
+21: Боевая Игровая\n      Одиночный бой
+22: Боевая Игровая\n      Двойной бой
+23: Боевая Игровая\n      Мульти бой
 КОСНИТЕСЬ ЗДЕСЬ!
-Is it OK to disconnect from\nNintendo Wi-Fi Connection?
+Отключиться от ВФС Нинтендо?
  
-User authentication error.\nPlease wait a while before reconnecting.
-This data is already registered.\nTouch the Touch Screen to continue.
-There appears to be a problem with the\nDress-Up Data.
-There appears to be a problem with the\nProfile data.
-An error occurred.\nTouch the Touch Screen to continue.
+Ошибка аутентификации.\nПереподключитесь позже.
+Эти данные уже есть. Коснитесь\nСенсорного Экрана для продолжения.
+Произошла ошибка с Данными Нарядов.
+Произошла ошибка с Данными Профиля.
+Произошла ошибка. Коснитесь\nСенсорного Экрана для продолжения.
  
-User authentication error.\nPlease wait a while before reconnecting.
-There appears to be a problem with the\nchosen Pokémon.
-An error occurred.\nTouch the Touch Screen to continue.
+Ошибка аутентификации.\nПереподключитесь позже.
+Похоже, с этим Покемоном какая-то\nпроблема.
+Произошла ошибка. Коснитесь\nСенсорного Экрана для продолжения.
  
-User authentication error.\nPlease wait a while before reconnecting.
-This data is already registered.\nTouch the Touch Screen to continue.
-There appears to be a problem with the\nBox Data.
-There appears to be a problem with the\nProfile data.
-There appears to be a problem with your\nparty.
-An error occurred.\nTouch the Touch Screen to continue.
+Ошибка аутентификации.\nПереподключитесь позже.
+Эти данные уже есть. Коснитесь\nСенсорного Экрана для продолжения.
+Произошла ошибка с Данными Ячеек.
+Произошла ошибка с Данными Профиля.
+Похоже, с вашей группой какая-то\nпроблема.
+Произошла ошибка. Коснитесь\nСенсорного Экрана для продолжения.
  
-User authentication error.\nPlease wait a while before reconnecting.
-There appears to be a problem with your\nparty.
-An error occurred.\nTouch the Touch Screen to continue.
+Ошибка аутентификации.\nПереподключитесь позже.
+Похоже, с вашей группой какая-то\nпроблема.
+Произошла ошибка. Коснитесь\nСенсорного Экрана для продолжения.
  
-User authentication error.\nPlease wait a while before reconnecting.
-An error occurred.\nTouch the Touch Screen to continue.
+Ошибка аутентификации.\nПереподключитесь позже.
+Произошла ошибка. Коснитесь\nСенсорного Экрана для продолжения.
  
-User authentication error.\nPlease wait a while before reconnecting.
-Failed to receive ranking data.\nTouch the Touch Screen to continue.
-There appears to be a problem with your\nranking record.
-There appears to be a problem with the\nProfile data.
-An error occurred.\nTouch the Touch Screen to continue.
+Ошибка аутентификации.\nПереподключитесь позже.
+Ошибка получения ранговых данных.\nДля продолжения коснитесь Снс. Экрана
+С вашей рейт. записью произошла\nошибка.
+Произошла ошибка с Данными Профиля.
+Произошла ошибка. Коснитесь\nСенсорного Экрана для продолжения.
  
-User authentication error.\nPlease wait a while before reconnecting.
-This data is already registered.\nTouch the Touch Screen to continue.
-There appears to be a problem with the\nBattle Video.
-There appears to be a problem with the\nProfile data.
-An error occurred.\nTouch the Touch Screen to continue.
-There appears to be a problem with your\nPokémon. Data was not sent.
-There appears to be a problem with a\nplayer’s Pokémon. Data was not sent.
+Ошибка аутентификации.\nПереподключитесь позже.
+Эти данные уже есть. Коснитесь\nСенсорного Экрана для продолжения.
+Произошла ошибка с Записью Боя.
+Произошла ошибка с Данными Профиля.
+Произошла ошибка. Коснитесь\nСенсорного Экрана для продолжения.
+Похоже, с этим Покемоном какая-то\nпроблема. Данные не отправлены.
+С Покемоном игрока какая-то проблема.\nДанные не отправлены.
  
-User authentication error.\nPlease wait a while before reconnecting.
-There appears to be a problem with the\nsearch criteria.
-An error occurred.\nTouch the Touch Screen to continue.
+Ошибка аутентификации.\nПереподключитесь позже.
+С этим критерием поиска какая-то\nпроблема.
+Произошла ошибка. Коснитесь\nСенсорного Экрана для продолжения.
  
-User authentication error.\nPlease wait a while before reconnecting.
-No matching Battle Videos found...\nTouch the Touch Screen to continue.
-An error occurred.\nTouch the Touch Screen to continue.
- 
- 
- 
- 
- 
-An error occurred.\nError Code 10601
-An error occurred.\nError Code 10602
-An error occurred.\nError Code 10603
-An error occurred.\nError Code 10604
-Unable to connect.\nError Code 10605
-An error occurred.\nError Code 10606
-Unable to connect.\nError Code 10607
-An error occurred.\nError Code 10608
-An error occurred.\nError Code 10609
-There is no response.\nError Code 10610
-There is no response.\nError Code 10611
-There is no response.\nError Code 10612
-Communication was interrupted.\nError Code 10613
-Unable to connect.\nError Code 10614
+Ошибка аутентификации.\nПереподключитесь позже.
+Записей Боев не найдено...\nДля продолжения коснитесь Снс. Экрана
+Произошла ошибка. Коснитесь\nСенсорного Экрана для продолжения.
  
  
  
  
  
+Произошла ошибка.\nКод ошибки 10601
+Произошла ошибка.\nКод ошибки 10602
+Произошла ошибка.\nКод ошибки 10603
+Произошла ошибка.\nКод ошибки 10604
+Соединение невозможно.\nКод ошибки 10605
+Произошла ошибка.\nКод ошибки 10606
+Соединение невозможно.\nКод ошибки 10607
+Произошла ошибка.\nКод ошибки 10608
+Произошла ошибка.\nКод ошибки 10609
+Нет ответа.\nКод ошибки 10610
+Нет ответа.\nКод ошибки 10611
+Нет ответа.\nКод ошибки 10612
+Соединение разорвано.\nКод ошибки 10613
+Соединение невозможно.\nКод ошибки 10614
  
  
-The connection to the server was lost.\nTouch the Touch Screen to continue.
+ 
+ 
+ 
+ 
+ 
+Соединение с сервером потеряно.\nДля продолжения коснитесь Снс. Экрана
  
  
 Здесь ничего не сохранено. Коснитесь\nСенсорного Экрана для продолжения.
-Please choose a Box.
-An empty Box’s Data can’t be sent.
-Where would you like to send this?
-Only one Box Data may be sent at a time.
-The same Box Data can’t be sent.
-Which category would you like to see?
-The saved data could not be deleted...
-The same Battle Video can’t be saved again.\nTouch the Touch Screen to continue.
-Saving...\nDon’t turn off the power.
-Receiving ranking data...
-Sending save data...
-Save completed.\nTouch the Touch Screen to continue.
+Выберите Ячейку.
+Нельзя отправить пустые данные Ячеек.
+Куда вы хотите это отправить?
+Вы можете отправить Данные Ячеек\nв одном экземпляре.
+Нельзя отправить дубликат Данных\nЯчеек.
+Какую категория вы хотите\nпросмотреть?
+Сохраненные данные не могут быть\nудалены...
+Вы не можете сохранить дубликат\nЗаписи Боя. Касание для продолжения.
+Сохранение...\nНе выключайте питание.
+Получение рейт. данных...
+Отправка данных сохранения...
+Игра сохранена. Коснитесь\nСенсорного Экрана для продолжения.
 Хотите удалить Запись Боя\nигрока \v0103ぁ\x0000\x0000?
 Точно удалить эти данные?
 Удаление...\nСохранение... Не выключайте питание.
 Данные удалены. Коснитесь\nСенсорного Экрана для продолжения.
-Sending your Dress-Up Data...
-Receiving Dress-Up Data...
-Sending your Box Data...
-Receiving Box Data...
-You have no saved data to send.\nTake a photo in the Goldenrod Tunnel.
-The same data can’t be sent again.\nTouch the Touch Screen to continue.
-Receiving Battle Videos...
-No matching data was found...\nTouch the Touch Screen to continue.
-No matching Box Data was found...\nTouch the Touch Screen to continue.
-Your Battle Video was sent.\nVideo no.: \v0133ぁ\x0000\x0000-\v0136ぁ\x0001\x0000-\v0136ぁぁ\x0000\n
-The game will be saved before you can view\nBattle Videos.
-Deleting data... Saving a lot of\ndata... Don’t turn off the power.
-Saving a lot of data...\nDon’t turn off the power.
-Saving...\nDon’t turn off the power.
-There is no ranking data...\nTouch the Touch Screen to continue.
-Would you like to send your Battle Video?
+Отправка Данных Нарядов...
+Получение Данных Нарядов...
+Отправка Данных Ячеек...
+Получение Данных Ячеек...
+У вас нет сохраненных данных.\nСделайте фото в Туннеле Голденрода.
+Нельзя отправить дубликат данных.\nДля продолжения коснитесь Снс. Экрана
+Получение Записей Боев...
+Не найдено подходящих данных...\nДля продолжения коснитесь Снс. Экрана
+Не найдено Данных Ячеек...\nДля продолжения коснитесь Снс. Экрана
+Ваша Запись боя отправлена.\nЗапись но.: \v0133ぁ\x0000\x0000-\v0136ぁ\x0001\x0000-\v0136ぁぁ\x0000\n
+Перед просмотром Записей Боев игра\nбудет сохранена.
+Удаление данных... Сохранение кучи\nданных... Не выключайте питание.
+Сохранение кучи данных...\nНе выключайте питание.
+Сохранение...\nНе выключайте питание.
+Нет рейт. данных...\nДля продолжения коснитесь Снс. Экрана
+Хотите отправить свою Запись Боя?
  
  
  
@@ -308,27 +308,27 @@ Would you like to send your Battle Video?
  
  
  
-LATEST 20 IN THE FAVORITE PC BOX
-LATEST 20 IN THE COOL PC BOX
-LATEST 20 IN THE CUTE PC BOX
-LATEST 20 IN THE SUGGESTED PC BOX
-LATEST 20 IN THE FUN PC BOX
-LATEST 20 IN THE SELECT PC BOX
-School Kid♂
-Bug Catcher
-Ace Trainer♂
-Roughneck
-Ruin Maniac
-Black Belt
-Rich Boy
-Psychic♂
-Lass
-Battle Girl
-Beauty
-Ace Trainer♀
-Idol
-Socialite
-Cowgirl
-Lady
-Goldver
-Ignore Location
+ПОСЛЕДНИЕ 20 В ИЗБР. ЯЧЕЙКЕ ПК
+ПОСЛЕДНИЕ 20 В КРУТОЙ ЯЧЕЙКЕ ПК
+ПОСЛЕДНИЕ 20 В МИЛОЙ ЯЧЕЙКЕ ПК
+ПОСЛЕДНИЕ 20 В ПРЕДЛ. ЯЧЕЙКЕ ПК
+ПОСЛЕДНИЕ 20 В ВЕСЕЛ. ЯЧЕЙКЕ ПК
+ПОСЛЕДНИЕ 20 В ВЫБР. ЯЧЕЙКЕ ПК
+Школьник♂
+Жуколов
+Про-Тренер♂
+Мужлан
+Археолог
+Черный Пояс
+Богатей
+Психик♂
+Девушка
+Боевая Девушка
+Красотка
+Про-Тренер♀
+Айдол
+Джентельмен
+Ковбойша
+Леди
+Злтвер
+Место не важно
