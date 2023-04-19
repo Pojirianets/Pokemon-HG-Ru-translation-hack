@@ -1,18 +1,18 @@
-Пожалуйста, найдите партнера из\nсобравшихся здесь Тренеров.\r
-\v0103ぁ\x0000\x0000, вы не нашли партнера\nдля группы.\rХотите вернуться в приемную? \v0200\x0001\x0000
-Спасибо за выбор партнера.\rЯ провожу вас в вашу Комнату Мульти\nБитв.\r
-Райли: Какие у меня партнеры?\rНу, мой \v0100ぁ\x0000\x0000 неприятен с\nего \v0106ぁ\x0001\x0000.\rА еще есть \v0100ぁぁ\x0000, который\nхорошо обходится с его \v0106ぁあ\x0000.\rХочешь объединиться со мной? \v0200\x0001\x0000
-Райли: ...О, вот как?\nКак жаль.
-Райли: Ахаха, спасибо.\nЯ буду тебя ждать.\r
-Шерил: У меня есть \v0100ぁ\x0000\x0000,\nкоторый хорош с \v0106ぁ\x0001\x0000\fи \v0100ぁぁ\x0000 который любит показать\f\v0106ぁあ\x0000.\rХочешь объединиться со мной? \v0200\x0001\x0000
-Шерил: О...\nОчень жаль...
-Шерил: Тогда, я иду.\r
-Бак: Ищешь команду?\nВот что у меня есть.\rМой \v0100ぁ\x0000\x0000 первокласен с\nего \v0106ぁ\x0001\x0000.\rИ мой \v0100ぁぁ\x0000 показывает себя\nлучше всего с его \v0106ぁあ\x0000.\rТы хочешь пойти со мной, да? \v0200\x0001\x0000
-Бак: А? Что? Это довольно холодно\nс твоей стороны!
-Бак: Хехехе! Прекрасный выбор!\nСо мной у тебя не будет проблем!\r
-Марли: ...Мой \v0100ぁ\x0000\x0000 хорошо\nиспользует \v0106ぁ\x0001\x0000...\rИ мой \v0100ぁぁ\x0000 любит\nиспользовать \v0106ぁあ\x0000.\r...Что ты хочешь?\nМне надо пойти с тобой? \v0200\x0001\x0000
-Марли: ...Все равно...
-Марли: ...Я пойду с тобой...\r
-Мира: Привет, привет!\rУ меня есть \v0100ぁ\x0000\x0000!\nОн очень хорош с \v0106ぁ\x0001\x0000!\rЕще у меня есть \v0100ぁぁ\x0000.\nЕго \v0106ぁあ\x0000 потрясающий!\rХочешь быть со мной? \v0200\x0001\x0000
-Мира: О, хорошо.\nТогда, в другой раз!
-Мира: Хорошо! Я буду тебя ждать!\n\v0103ぁ\x0000\x0000, не задерживайся!\r
+Pogaltjrsa, najeisf paqsnûqa ih\nrobqacyivrå hefrâ Sqfnfqoc.\r
+\v0103ぁ\x0000\x0000, cá nf nayli paqsnûqa\nelå dqtppá.\rVosisf cfqntsârå c pqiûmntä? \v0200\x0001\x0000
+Rparibo ha cáboq paqsnûqa.\rÅ pqocogt car c cayt Komnast Mtlâsi\nBisc.\r
+Qajli: Kakif t mfnå paqsnûqá?\rNt, moj \v0100ぁ\x0000\x0000 nfpqiåsfn r\nfdo \v0106ぁ\x0001\x0000.\rA fzf frsâ \v0100ぁぁ\x0000, kosoqáj\nvoqoyo obvoeisrå r fdo \v0106ぁあ\x0000.\rVoxfyâ obàfeinisârå ro mnoj? \v0200\x0001\x0000
+Qajli: ...O, cos kak?\nKak galâ.
+Qajli: Avava, rparibo.\nÅ btet sfbå geasâ.\r
+Yfqil: T mfnå frsâ \v0100ぁ\x0000\x0000,\nkosoqáj voqoy r \v0106ぁ\x0001\x0000\fi \v0100ぁぁ\x0000 kosoqáj läbis pokahasâ\f\v0106ぁあ\x0000.\rVoxfyâ obàfeinisârå ro mnoj? \v0200\x0001\x0000
+Yfqil: O...\nOxfnâ galâ...
+Yfqil: Sodea, å iet.\r
+Bak: Izfyâ komanet?\nCos xso t mfnå frsâ.\rMoj \v0100ぁ\x0000\x0000 pfqcoklarrfn r\nfdo \v0106ぁ\x0001\x0000.\rI moj \v0100ぁぁ\x0000 pokahácafs rfbå\nltxyf crfdo r fdo \v0106ぁあ\x0000.\rSá voxfyâ pojsi ro mnoj, ea? \v0200\x0001\x0000
+Bak: A? Xso? Ãso eocolâno voloeno\nr scofj rsoqoná!
+Bak: Vfvfvf! Pqfkqarnáj cáboq!\nRo mnoj t sfbå nf btefs pqoblfm!\r
+Maqli: ...Moj \v0100ぁ\x0000\x0000 voqoyo\nirpolâhtfs \v0106ぁ\x0001\x0000...\rI moj \v0100ぁぁ\x0000 läbis\nirpolâhocasâ \v0106ぁあ\x0000.\r...Xso sá voxfyâ?\nMnf naeo pojsi r soboj? \v0200\x0001\x0000
+Maqli: ...Crû qacno...
+Maqli: ...Å pojet r soboj...\r
+Miqa: Pqicfs, pqicfs!\rT mfnå frsâ \v0100ぁ\x0000\x0000!\nOn oxfnâ voqoy r \v0106ぁ\x0001\x0000!\rFzf t mfnå frsâ \v0100ぁぁ\x0000.\nFdo \v0106ぁあ\x0000 posqåraäzij!\rVoxfyâ básâ ro mnoj? \v0200\x0001\x0000
+Miqa: O, voqoyo.\nSodea, c eqtdoj qah!
+Miqa: Voqoyo! Å btet sfbå geasâ!\n\v0103ぁ\x0000\x0000, nf haefqgicajrå!\r
