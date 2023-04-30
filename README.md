@@ -5,9 +5,7 @@
 
 Никакого гугл транслейта! (Ну, разве что самую малость)
 
-Ведётся работа над SoulSilver версией и масштабным обновлением v1.1
-
-✓ [Релиз уже доступен для прохождения!](https://github.com/Pojirianets/Pokemon-HG-Ru-translation-hack/releases/tag/PokemonHG-release-candidate-1) ✓
+✓ [Релиз уже доступен для прохождения!](https://github.com/Pojirianets/Pokemon-HG-Ru-translation-hack/releases/tag/v1.1) ✓
 
 ## Этапы работ
 
